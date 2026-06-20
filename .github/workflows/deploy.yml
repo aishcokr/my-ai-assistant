@@ -13,11 +13,12 @@ on:
   # 수동 배포 (Actions 탭 → Run workflow)
   workflow_dispatch:
 
-# GitHub Pages 배포에 필요한 권한
+# GitHub Pages 배포 + 오래된 실행 기록 삭제 권한
 permissions:
   contents: read
   pages:    write
   id-token: write
+  actions:  write
 
 # 동시에 배포가 진행 중이면 이전 것을 취소하고 최신 것만 배포
 concurrency:
@@ -52,3 +53,24 @@ jobs:
       - name: GitHub Pages 배포
         id: deployment
         uses: actions/deploy-pages@v4
+
+      # 5. 오래된 실행 기록 정리 (최근 10개만 유지)
+      - name: 오래된 실행 기록 삭제
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          REPO="${{ github.repository }}"
+          WORKFLOW="deploy.yml"
+          KEEP=10
+
+          OLD_IDS=$(gh api "repos/$REPO/actions/workflows/$WORKFLOW/runs?per_page=100" \
+            --jq ".workflow_runs[$KEEP:][].id")
+
+          if [ -z "$OLD_IDS" ]; then
+            echo "삭제할 오래된 실행 기록 없음 (현재 ${KEEP}개 이하)"
+          else
+            for id in $OLD_IDS; do
+              gh api --method DELETE "repos/$REPO/actions/runs/$id"
+              echo "삭제: run #$id"
+            done
+          fi
