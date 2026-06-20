@@ -1,0 +1,62 @@
+# update-data.yml
+# 매일 06:00 KST (= 21:00 UTC 전날)에 날씨·뉴스·주식·금시세 데이터를 갱신합니다.
+# Secret 없음 — 모두 무인증 스크래핑 / yfinance
+
+name: 데이터 갱신 (날씨·뉴스·주식·금시세)
+
+on:
+  # 매일 21:00 UTC = 다음날 06:00 KST
+  schedule:
+    - cron: '0 21 * * *'
+
+  # 수동 실행 (Actions 탭 → Run workflow)
+  workflow_dispatch:
+
+# 데이터 JSON을 커밋·푸시하기 위해 쓰기 권한 부여
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 저장소 체크아웃
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      # 2. Python 3.11 설치
+      - name: Python 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # 3. 의존성 설치 (API 키 불필요)
+      - name: 의존성 설치
+        run: pip install requests beautifulsoup4 yfinance
+
+      # 4. 날씨 스크래핑 → data/weather.json
+      - name: 날씨 데이터 갱신
+        run: python scripts/fetch_weather.py
+        # 스크래핑 실패해도 기존 데이터 유지하고 계속 진행
+        continue-on-error: true
+
+      # 5. 뉴스·주식·금시세 → data/news.json
+      - name: 뉴스·시세 데이터 갱신
+        run: python scripts/fetch_news.py
+        continue-on-error: true
+
+      # 6. 변경된 JSON 파일만 커밋·푸시
+      - name: 변경사항 커밋 & 푸시
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # 변경된 JSON 파일이 있을 때만 커밋
+          git add data/weather.json data/news.json
+          if git diff --cached --quiet; then
+            echo "변경된 데이터 파일이 없습니다."
+          else
+            git commit -m "chore: 데이터 자동 갱신 $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
