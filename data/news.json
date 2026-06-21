@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "주유소 기름값 5주 연속 하락…전국 평균 휘발윳값 2천9원대",
-      "url": "https://n.news.naver.com/mnews/article/001/0016149300"
+      "title": "임광현 국세청장 “등록임대 아파트 매물 나오면 서울 6만8000호 공급 효과”",
+      "url": "https://n.news.naver.com/mnews/article/032/0003453280"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000876558"
+      "title": "중기부, 대구·광주·대전·울산 창업 278곳 지원…최대 4억",
+      "url": "https://n.news.naver.com/mnews/article/366/0001173339"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000497124"
+      "title": "‘탈벅’ 여전히 진행중? 투썸, 스타벅스 제쳤다 [푸드360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002659321"
     },
     {
-      "title": "\"최대 9500선이긴 한데\"…두가지 넘으면 '1만피' 보인다",
-      "url": "https://n.news.naver.com/mnews/article/215/0001256018"
+      "title": "해커 소행 아니었다···‘모두의 창업’ 5000명 합격자 정보 유출, 참여업체 해킹으로 발생",
+      "url": "https://n.news.naver.com/mnews/article/032/0003453318"
     },
     {
-      "title": "배민·쿠팡 최대 과징금 넘는 상생안 기각에…기준 뭘까?",
-      "url": "https://n.news.naver.com/mnews/article/003/0014017543"
+      "title": "“약속의 100년 더하겠다”… 유한양행 창립 100주년",
+      "url": "https://n.news.naver.com/mnews/article/005/0001856244"
     },
     {
-      "title": "금융硏 “4대은행 가계대출 비중 28%, 미쓰비시UFJ는 3%”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002659146"
+      "title": "\"안심은 이르다\" 신현송 경고한 이유?…변수는 물가[비즈토크<하>]",
+      "url": "https://n.news.naver.com/mnews/article/629/0000509186"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001365961"
+      "title": "\"연 최대 19.4% 적금 효과\"…청년미래적금, 22일부터 가입 신청",
+      "url": "https://n.news.naver.com/mnews/article/469/0000937640"
     },
     {
-      "title": "\"강세장 종료 시그널\"이라 했는데…삼성전자 턱밑까지 추격한 하이닉스",
-      "url": "https://n.news.naver.com/mnews/article/215/0001256017"
+      "title": "이형주 FIU원장 \"가상자산 규제차익 차단…글로벌 공조체계 서둘러야\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014018942"
     },
     {
-      "title": "중동 휴전에도 원·달러 환율 1,531원 마감",
-      "url": "https://n.news.naver.com/mnews/article/448/0000620995"
+      "title": "코스피 ‘1만피’ 가나… '마이크론 실적' 핵심 변수 [9000선 돌파 코스피 향후 전망]",
+      "url": "https://n.news.naver.com/mnews/article/082/0001386353"
     },
     {
-      "title": "한화, 캐나다에 초대형 LNG 인프라 짓는다…60조 잠수함 수주전 ‘막판 스퍼트’",
-      "url": "https://n.news.naver.com/mnews/article/011/0004633136"
+      "title": "경총 \"소상공인 10명 중 4명 영업익 200만원↓…최저임금 높다\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009014802"
     }
   ],
   "stocks": {
@@ -59,8 +59,8 @@
     },
     "usdkrw": {
       "value": 1529.89,
-      "change": 4.47,
-      "change_pct": 0.29
+      "change": -7.67,
+      "change_pct": -0.5
     }
   },
   "gold": {
@@ -69,6 +69,6 @@
     "change": -51.2,
     "change_pct": -1.21
   },
-  "updated": "2026-06-21 07:02",
+  "updated": "2026-06-22 07:09",
   "error": null
 }
