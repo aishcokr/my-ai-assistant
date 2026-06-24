@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "'삼전닉스' 성과급·주가 급등에 6월 집값·임금 전망 동반 상승",
-      "url": "https://n.news.naver.com/mnews/article/586/0000132187"
+      "title": "머나먼 MSCI 선진지수 편입...정부 \"개혁 꾸준히 추진하면 편입 예상\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005780485"
     },
     {
-      "title": "“내년 최저임금 수준, 가장 어려운 업종·규모 사업장 기준으로 결정돼야”",
-      "url": "https://n.news.naver.com/mnews/article/029/0003033263"
+      "title": "환율 1540원대 마감, 금융위기 이후 최고…“1550원도 열어둬야” [김혜란의 FX]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004634508"
     },
     {
-      "title": "홈플 익스프레스 임직원, NS사옥 첫 출근…\"한 팀으로 함께 성장\"",
-      "url": "https://n.news.naver.com/mnews/article/374/0000517804"
+      "title": "연금특위 범부처 지원 TF회의‥연금제도별 구조개혁 방안 논의",
+      "url": "https://n.news.naver.com/mnews/article/214/0001507501"
     },
     {
-      "title": "퇴직연금 방치했다면… 곧 도입 기금형에 관심을",
-      "url": "https://n.news.naver.com/mnews/article/020/0003728879"
+      "title": "“K-배터리, 지금이 도약 위한 ‘골든타임’···직접환급형 세제혜택 필요”",
+      "url": "https://n.news.naver.com/mnews/article/021/0002800093"
     },
     {
-      "title": "법원, 홈플러스에 \"오는 30일까지 2천억 조달 계획 제출\"",
-      "url": "https://n.news.naver.com/mnews/article/374/0000517754"
+      "title": "한화, 미래기술연구소 매각…한화솔루션 유증 참여 재원 마련",
+      "url": "https://n.news.naver.com/mnews/article/001/0016156958"
     },
     {
-      "title": "국내기업 경기전망 4개월째 부진…반도체·수출은 호조",
-      "url": "https://n.news.naver.com/mnews/article/001/0016154972"
+      "title": "주식 성과급 시대 연 삼성전자…자사주 90조원어치 사들인다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006313979"
     },
     {
-      "title": "슈퍼리치가 담은 국내주식은 현대차·하이닉스·삼전 順",
-      "url": "https://n.news.naver.com/mnews/article/009/0005697798"
+      "title": "롯데百, 라이프스타일 편집숍 더콘란샵 인천점 연다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006314198"
     },
     {
-      "title": "삼성전자, HBM4 매출 10억달러 돌파…연말 100억달러 기대",
-      "url": "https://n.news.naver.com/mnews/article/366/0001173730"
+      "title": "메리츠 \"홈플러스 회생 책임은 MBK에…김병주 재산 공개하라\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014026119"
     },
     {
-      "title": "[단독] 5대은행 전부 신용대출 '한도초과'",
-      "url": "https://n.news.naver.com/mnews/article/009/0005697846"
+      "title": "인터넷은행 가계대출 목표 미준수…당국, 신용대출 '빚투' 주시",
+      "url": "https://n.news.naver.com/mnews/article/001/0016157385"
     },
     {
-      "title": "반도체 너무 올랐나...기술주 투매에 나스닥 2.2% 급락 [월가월부]",
-      "url": "https://n.news.naver.com/mnews/article/009/0005697891"
+      "title": "현대차 노조 찬반투표 86.65% 가결…2년 연속 파업 위기",
+      "url": "https://n.news.naver.com/mnews/article/666/0000112562"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 9114.55,
+      "value": 8203.84,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 968.4,
+      "value": 891.52,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25587.04,
-      "change": -579.56,
-      "change_pct": -2.21
+      "value": 25476.63,
+      "change": -110.4,
+      "change_pct": -0.43
     },
     "usdkrw": {
-      "value": 1530.91,
-      "change": -0.42,
-      "change_pct": -0.03
+      "value": 1538.82,
+      "change": -0.23,
+      "change_pct": -0.01
     }
   },
   "gold": {
-    "price_usd": 4129.0,
-    "price_krw": 6321127,
-    "change": -52.9,
-    "change_pct": -1.26
+    "price_usd": 4016.4,
+    "price_krw": 6180516,
+    "change": -113.5,
+    "change_pct": -2.75
   },
-  "updated": "2026-06-24 07:06",
+  "updated": "2026-06-25 07:04",
   "error": null
 }
