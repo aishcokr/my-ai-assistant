@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "머나먼 MSCI 선진지수 편입...정부 \"개혁 꾸준히 추진하면 편입 예상\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005780485"
+      "title": "박홍근 “교부금 총액 줄이지 않겠다…학생 1인당 지원도 확대”",
+      "url": "https://n.news.naver.com/mnews/article/030/0003441254"
     },
     {
-      "title": "환율 1540원대 마감, 금융위기 이후 최고…“1550원도 열어둬야” [김혜란의 FX]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004634508"
+      "title": "귀촌 줄고 귀농은 늘었다…은퇴세대 유입에 귀농인 8.5%↑",
+      "url": "https://n.news.naver.com/mnews/article/119/0003104648"
     },
     {
-      "title": "연금특위 범부처 지원 TF회의‥연금제도별 구조개혁 방안 논의",
-      "url": "https://n.news.naver.com/mnews/article/214/0001507501"
+      "title": "국제유가 전쟁 전으로 뚝…국내 주유소는 여전히 2000원대, 왜?",
+      "url": "https://n.news.naver.com/mnews/article/421/0009024474"
     },
     {
-      "title": "“K-배터리, 지금이 도약 위한 ‘골든타임’···직접환급형 세제혜택 필요”",
-      "url": "https://n.news.naver.com/mnews/article/021/0002800093"
+      "title": "환급 기준금액 50% 이상 낮춘 반값 '모두의카드' 9월까지 연장",
+      "url": "https://n.news.naver.com/mnews/article/052/0002371022"
     },
     {
-      "title": "한화, 미래기술연구소 매각…한화솔루션 유증 참여 재원 마련",
-      "url": "https://n.news.naver.com/mnews/article/001/0016156958"
+      "title": "애플, 메모리 공급난에 맥북·아이패드 가격 인상",
+      "url": "https://n.news.naver.com/mnews/article/293/0000086808"
     },
     {
-      "title": "주식 성과급 시대 연 삼성전자…자사주 90조원어치 사들인다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006313979"
+      "title": "카뱅, 인뱅 최초 ‘캐피털업’ 진출 본격화… 마이크론발 훈풍에 9000피 회복 눈앞 [한강로 경제브리핑]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004138334"
     },
     {
-      "title": "롯데百, 라이프스타일 편집숍 더콘란샵 인천점 연다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006314198"
+      "title": "한국 선박 26척 중 절반 호르무즈 통과…‘대이란 외교 압박’ 통한 듯",
+      "url": "https://n.news.naver.com/mnews/article/028/0002811392"
     },
     {
-      "title": "메리츠 \"홈플러스 회생 책임은 MBK에…김병주 재산 공개하라\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014026119"
+      "title": "국민성장펀드, '재생에너지 인프라 구축'에 3700억 투자",
+      "url": "https://n.news.naver.com/mnews/article/421/0009024411"
     },
     {
-      "title": "인터넷은행 가계대출 목표 미준수…당국, 신용대출 '빚투' 주시",
-      "url": "https://n.news.naver.com/mnews/article/001/0016157385"
+      "title": "높아진 철강 장벽…英, 한국산 쿼터 ‘4개 9.3만t’→‘9개 17.3만t’ 강화",
+      "url": "https://n.news.naver.com/mnews/article/011/0004635101"
     },
     {
-      "title": "현대차 노조 찬반투표 86.65% 가결…2년 연속 파업 위기",
-      "url": "https://n.news.naver.com/mnews/article/666/0000112562"
+      "title": "[단독] 비수도권 발전소 갖춘 GS, 데이터센터 직접 지어 시너지 노린다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005302930"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 8203.84,
+      "value": 8471.02,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 891.52,
+      "value": 909.31,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25476.63,
-      "change": -110.4,
-      "change_pct": -0.43
+      "value": 25358.6,
+      "change": -118.04,
+      "change_pct": -0.46
     },
     "usdkrw": {
-      "value": 1538.82,
-      "change": -0.23,
-      "change_pct": -0.01
+      "value": 1544.32,
+      "change": 9.07,
+      "change_pct": 0.59
     }
   },
   "gold": {
-    "price_usd": 4016.4,
-    "price_krw": 6180516,
-    "change": -113.5,
-    "change_pct": -2.75
+    "price_usd": 4044.9,
+    "price_krw": 6246619,
+    "change": 54.6,
+    "change_pct": 1.37
   },
-  "updated": "2026-06-25 07:04",
+  "updated": "2026-06-26 07:13",
   "error": null
 }
