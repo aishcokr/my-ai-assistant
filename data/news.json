@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "박홍근 “교부금 총액 줄이지 않겠다…학생 1인당 지원도 확대”",
-      "url": "https://n.news.naver.com/mnews/article/030/0003441254"
+      "title": "코스피 5%대 하락 마감…8,400선까지 내려",
+      "url": "https://n.news.naver.com/mnews/article/215/0001256736"
     },
     {
-      "title": "귀촌 줄고 귀농은 늘었다…은퇴세대 유입에 귀농인 8.5%↑",
-      "url": "https://n.news.naver.com/mnews/article/119/0003104648"
+      "title": "5월 가계대출금리 4.46%로 0.03p 상승 서민들 이자부담 커져",
+      "url": "https://n.news.naver.com/mnews/article/214/0001507962"
     },
     {
-      "title": "국제유가 전쟁 전으로 뚝…국내 주유소는 여전히 2000원대, 왜?",
-      "url": "https://n.news.naver.com/mnews/article/421/0009024474"
+      "title": "\"미식으로 즐겨주길\"…잔 대신 접시 내민 위스키 업계 [현장+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005303395"
     },
     {
-      "title": "환급 기준금액 50% 이상 낮춘 반값 '모두의카드' 9월까지 연장",
-      "url": "https://n.news.naver.com/mnews/article/052/0002371022"
+      "title": "코스피, 툭하면 서킷브레이커",
+      "url": "https://n.news.naver.com/mnews/article/009/0005699399"
     },
     {
-      "title": "애플, 메모리 공급난에 맥북·아이패드 가격 인상",
-      "url": "https://n.news.naver.com/mnews/article/293/0000086808"
+      "title": "청년미래적금, 출시 닷새 만에 가입 신청자 100만 명 넘어",
+      "url": "https://n.news.naver.com/mnews/article/056/0012206854"
     },
     {
-      "title": "카뱅, 인뱅 최초 ‘캐피털업’ 진출 본격화… 마이크론발 훈풍에 9000피 회복 눈앞 [한강로 경제브리핑]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004138334"
+      "title": "대우건설, 지속가능경영보고서 발간…\"Hyper E&C 실현\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016160647"
     },
     {
-      "title": "한국 선박 26척 중 절반 호르무즈 통과…‘대이란 외교 압박’ 통한 듯",
-      "url": "https://n.news.naver.com/mnews/article/028/0002811392"
+      "title": "권봉석 LG 부회장, '달라진 LG' 이끄는 핵심 조력자[2026 100대 CEO]",
+      "url": "https://n.news.naver.com/mnews/article/050/0000107843"
     },
     {
-      "title": "국민성장펀드, '재생에너지 인프라 구축'에 3700억 투자",
-      "url": "https://n.news.naver.com/mnews/article/421/0009024411"
+      "title": "구윤철 \"오늘 석유최고가격 인하…석유류 가격 안정까지 유지\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016160443"
     },
     {
-      "title": "높아진 철강 장벽…英, 한국산 쿼터 ‘4개 9.3만t’→‘9개 17.3만t’ 강화",
-      "url": "https://n.news.naver.com/mnews/article/011/0004635101"
+      "title": "시멘트 업계, 2년 연속 투자 줄였다…향후 재원 마련도 '깜깜'",
+      "url": "https://n.news.naver.com/mnews/article/277/0005781916"
     },
     {
-      "title": "[단독] 비수도권 발전소 갖춘 GS, 데이터센터 직접 지어 시너지 노린다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005302930"
+      "title": "국민성장펀드 ‘리가켐바이오·LIG D&A’ 각 5000억, 총 1조 투자",
+      "url": "https://n.news.naver.com/mnews/article/016/0002661841"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 8471.02,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 909.31,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 25358.6,
-      "change": -118.04,
-      "change_pct": -0.46
+      "value": 25297.62,
+      "change": -60.98,
+      "change_pct": -0.24
     },
     "usdkrw": {
-      "value": 1544.32,
-      "change": 9.07,
-      "change_pct": 0.59
+      "value": 1535.0,
+      "change": -7.76,
+      "change_pct": -0.5
     }
   },
   "gold": {
-    "price_usd": 4044.9,
-    "price_krw": 6246619,
-    "change": 54.6,
-    "change_pct": 1.37
+    "price_usd": 4103.0,
+    "price_krw": 6298105,
+    "change": 72.5,
+    "change_pct": 1.8
   },
-  "updated": "2026-06-26 07:13",
+  "updated": "2026-06-27 06:58",
   "error": null
 }
