@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "코스피 5%대 하락 마감…8,400선까지 내려",
-      "url": "https://n.news.naver.com/mnews/article/215/0001256736"
+      "title": "휘발유 1,784원 경유 1,773원... 석유 최고가격 내린다",
+      "url": "https://n.news.naver.com/mnews/article/469/0000938863"
     },
     {
-      "title": "5월 가계대출금리 4.46%로 0.03p 상승 서민들 이자부담 커져",
-      "url": "https://n.news.naver.com/mnews/article/214/0001507962"
+      "title": "국내외 완성차 기업 한자리에…미래 모빌리티 대전 ‘후끈’",
+      "url": "https://n.news.naver.com/mnews/article/449/0000350742"
     },
     {
-      "title": "\"미식으로 즐겨주길\"…잔 대신 접시 내민 위스키 업계 [현장+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005303395"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000878950"
     },
     {
-      "title": "코스피, 툭하면 서킷브레이커",
-      "url": "https://n.news.naver.com/mnews/article/009/0005699399"
+      "title": "애플, 중국산 메모리 구입 검토…“미 정부 상대로 로비”",
+      "url": "https://n.news.naver.com/mnews/article/082/0001387248"
     },
     {
-      "title": "청년미래적금, 출시 닷새 만에 가입 신청자 100만 명 넘어",
-      "url": "https://n.news.naver.com/mnews/article/056/0012206854"
+      "title": "전국 주유소 기름값 6주 연속 하락…휘발유 2,007원대",
+      "url": "https://n.news.naver.com/mnews/article/057/0001955824"
     },
     {
-      "title": "대우건설, 지속가능경영보고서 발간…\"Hyper E&C 실현\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016160647"
+      "title": "호르무즈 해협 묶였던 한국 선박 2척 추가 통과…3척만 남아",
+      "url": "https://n.news.naver.com/mnews/article/654/0000187691"
     },
     {
-      "title": "권봉석 LG 부회장, '달라진 LG' 이끄는 핵심 조력자[2026 100대 CEO]",
-      "url": "https://n.news.naver.com/mnews/article/050/0000107843"
+      "title": "기후장관, 호남 물 부족 논란에…\"댐 7곳서 하루 337만t 공급\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014031855"
     },
     {
-      "title": "구윤철 \"오늘 석유최고가격 인하…석유류 가격 안정까지 유지\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016160443"
+      "title": "하이닉스 '뭉칫돈' 경로 확 열린다… '나스닥행' 이유 있었네",
+      "url": "https://n.news.naver.com/mnews/article/215/0001256796"
     },
     {
-      "title": "시멘트 업계, 2년 연속 투자 줄였다…향후 재원 마련도 '깜깜'",
-      "url": "https://n.news.naver.com/mnews/article/277/0005781916"
+      "title": "“샌들 사고 수박은 30% 할인”…유통가, 무더위 맞아 여름 고객 잡기",
+      "url": "https://n.news.naver.com/mnews/article/022/0004138552"
     },
     {
-      "title": "국민성장펀드 ‘리가켐바이오·LIG D&A’ 각 5000억, 총 1조 투자",
-      "url": "https://n.news.naver.com/mnews/article/016/0002661841"
+      "title": "WTI, 70달러 붕괴…선박 피격에도 \"호르무즈 통항 지속\"[국제유가]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005540308"
     }
   ],
   "stocks": {
@@ -53,9 +53,9 @@
       "change_pct": NaN
     },
     "nasdaq": {
-      "value": 25297.62,
-      "change": -60.98,
-      "change_pct": -0.24
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "usdkrw": {
       "value": 1535.0,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4103.0,
-    "price_krw": 6298105,
-    "change": 72.5,
-    "change_pct": 1.8
+    "price_usd": 4078.7,
+    "price_krw": 6260804,
+    "change": 48.2,
+    "change_pct": 1.2
   },
-  "updated": "2026-06-27 06:58",
+  "updated": "2026-06-28 06:49",
   "error": null
 }
