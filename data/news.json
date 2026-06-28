@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "국토교통 실무 체험…국토부, 청년인턴 130명 모집",
-      "url": "https://n.news.naver.com/mnews/article/119/0003105402"
+      "title": "“이젠 K역직구”…상품 인기·고환율에 활기, 플랫폼도 해외 판매 지원 경쟁",
+      "url": "https://n.news.naver.com/mnews/article/005/0001857689"
     },
     {
-      "title": "삼성 '역대급 투자' 윤곽 나온다…메가프로젝트 내일 발표",
-      "url": "https://n.news.naver.com/mnews/article/215/0001256809"
+      "title": "서킷브레이커 충격 넘을까…증시 향방 ‘2분기 실적’에 달렸다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002662587"
     },
     {
-      "title": "SK AI위원장 \"100개 스타트업 연결… AI 생태계 구축\" 선언",
-      "url": "https://n.news.naver.com/mnews/article/469/0000938968"
+      "title": "5만원 넘는 카카오 기프티콘, 새달부터 95% 현금으로 환불",
+      "url": "https://n.news.naver.com/mnews/article/081/0003656562"
     },
     {
-      "title": "홈플러스 피해자들 “MBK 김병주, 보증 말고 돈을 내놔라”",
-      "url": "https://n.news.naver.com/mnews/article/138/0002232294"
+      "title": "삼성바이오 노조 홀로서기…초기업 노조 떠난 이유는",
+      "url": "https://n.news.naver.com/mnews/article/001/0016163593"
     },
     {
-      "title": "2분기 평균 환율 1500원 넘을 듯···1998년 이후 처음",
-      "url": "https://n.news.naver.com/mnews/article/032/0003454719"
+      "title": "AI발 '배전' 슈퍼사이클도 접수…HD현대일렉 청주 캠퍼스 가보니[르포]",
+      "url": "https://n.news.naver.com/mnews/article/648/0000048406"
     },
     {
-      "title": "'500조원 시대' ETF, '쪼그라든' 코스닥 시장 넘겼다",
-      "url": "https://n.news.naver.com/mnews/article/374/0000518633"
+      "title": "'호남 반도체' 시대 열리나…삼성·SK '2000조' 쏟아붓는다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005303600"
     },
     {
-      "title": "호르무즈 내 韓선박 ‘3척’ 남았다…내달 중순 1척 여수항 도착",
-      "url": "https://n.news.naver.com/mnews/article/029/0003033928"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012207455"
     },
     {
-      "title": "작년 하반기 대부업 대출잔액·이용자 동반 증가",
-      "url": "https://n.news.naver.com/mnews/article/001/0016163255"
+      "title": "호르무즈 한국 선박 26척 중 23척 탈출",
+      "url": "https://n.news.naver.com/mnews/article/023/0003984571"
     },
     {
-      "title": "5월까지 누적 수출액 4000억 달러…하반기 반도체 등 고성장세 지속",
-      "url": "https://n.news.naver.com/mnews/article/018/0006316955"
+      "title": "고유가 피해지원금에 골목상권 매출 11% 증가[Biz & Now]",
+      "url": "https://n.news.naver.com/mnews/article/025/0003533728"
     },
     {
-      "title": "한전, 오픈AI와 맞손…에너지 산업 AI 전환 추진",
-      "url": "https://n.news.naver.com/mnews/article/001/0016163223"
+      "title": "류쉐량 BYD 부총리 “고객 접점 韓 전역 확대…PHEV 전기모드로 일상생활 충분” [부산모빌리티쇼]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002662538"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.24
     },
     "usdkrw": {
-      "value": 1535.0,
-      "change": -7.76,
-      "change_pct": -0.5
+      "value": 1535.11,
+      "change": -11.37,
+      "change_pct": -0.74
     }
   },
   "gold": {
     "price_usd": 4096.3,
-    "price_krw": 6287820,
+    "price_krw": 6288270,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-06-28 16:01",
+  "updated": "2026-06-29 06:50",
   "error": null
 }
