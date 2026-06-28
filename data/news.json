@@ -1,61 +1,61 @@
 {
   "news": [
     {
-      "title": "휘발유 1,784원 경유 1,773원... 석유 최고가격 내린다",
-      "url": "https://n.news.naver.com/mnews/article/469/0000938863"
+      "title": "국토교통 실무 체험…국토부, 청년인턴 130명 모집",
+      "url": "https://n.news.naver.com/mnews/article/119/0003105402"
     },
     {
-      "title": "국내외 완성차 기업 한자리에…미래 모빌리티 대전 ‘후끈’",
-      "url": "https://n.news.naver.com/mnews/article/449/0000350742"
+      "title": "삼성 '역대급 투자' 윤곽 나온다…메가프로젝트 내일 발표",
+      "url": "https://n.news.naver.com/mnews/article/215/0001256809"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000878950"
+      "title": "SK AI위원장 \"100개 스타트업 연결… AI 생태계 구축\" 선언",
+      "url": "https://n.news.naver.com/mnews/article/469/0000938968"
     },
     {
-      "title": "애플, 중국산 메모리 구입 검토…“미 정부 상대로 로비”",
-      "url": "https://n.news.naver.com/mnews/article/082/0001387248"
+      "title": "홈플러스 피해자들 “MBK 김병주, 보증 말고 돈을 내놔라”",
+      "url": "https://n.news.naver.com/mnews/article/138/0002232294"
     },
     {
-      "title": "전국 주유소 기름값 6주 연속 하락…휘발유 2,007원대",
-      "url": "https://n.news.naver.com/mnews/article/057/0001955824"
+      "title": "2분기 평균 환율 1500원 넘을 듯···1998년 이후 처음",
+      "url": "https://n.news.naver.com/mnews/article/032/0003454719"
     },
     {
-      "title": "호르무즈 해협 묶였던 한국 선박 2척 추가 통과…3척만 남아",
-      "url": "https://n.news.naver.com/mnews/article/654/0000187691"
+      "title": "'500조원 시대' ETF, '쪼그라든' 코스닥 시장 넘겼다",
+      "url": "https://n.news.naver.com/mnews/article/374/0000518633"
     },
     {
-      "title": "기후장관, 호남 물 부족 논란에…\"댐 7곳서 하루 337만t 공급\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014031855"
+      "title": "호르무즈 내 韓선박 ‘3척’ 남았다…내달 중순 1척 여수항 도착",
+      "url": "https://n.news.naver.com/mnews/article/029/0003033928"
     },
     {
-      "title": "하이닉스 '뭉칫돈' 경로 확 열린다… '나스닥행' 이유 있었네",
-      "url": "https://n.news.naver.com/mnews/article/215/0001256796"
+      "title": "작년 하반기 대부업 대출잔액·이용자 동반 증가",
+      "url": "https://n.news.naver.com/mnews/article/001/0016163255"
     },
     {
-      "title": "“샌들 사고 수박은 30% 할인”…유통가, 무더위 맞아 여름 고객 잡기",
-      "url": "https://n.news.naver.com/mnews/article/022/0004138552"
+      "title": "5월까지 누적 수출액 4000억 달러…하반기 반도체 등 고성장세 지속",
+      "url": "https://n.news.naver.com/mnews/article/018/0006316955"
     },
     {
-      "title": "WTI, 70달러 붕괴…선박 피격에도 \"호르무즈 통항 지속\"[국제유가]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005540308"
+      "title": "한전, 오픈AI와 맞손…에너지 산업 AI 전환 추진",
+      "url": "https://n.news.naver.com/mnews/article/001/0016163223"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 8411.21,
+      "change": -519.09,
+      "change_pct": -5.81
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 851.37,
+      "change": -36.44,
+      "change_pct": -4.1
     },
     "nasdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 25297.62,
+      "change": -60.98,
+      "change_pct": -0.24
     },
     "usdkrw": {
       "value": 1535.0,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4078.7,
-    "price_krw": 6260804,
-    "change": 48.2,
-    "change_pct": 1.2
+    "price_usd": 4096.3,
+    "price_krw": 6287820,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-06-28 06:49",
+  "updated": "2026-06-28 16:01",
   "error": null
 }
