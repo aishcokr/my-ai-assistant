@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "“이젠 K역직구”…상품 인기·고환율에 활기, 플랫폼도 해외 판매 지원 경쟁",
-      "url": "https://n.news.naver.com/mnews/article/005/0001857689"
+      "title": "산업장관 \"800조 들여 서남권에 반도체 생산거점 구축…충청권에 81조 투자\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009029921"
     },
     {
-      "title": "서킷브레이커 충격 넘을까…증시 향방 ‘2분기 실적’에 달렸다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002662587"
+      "title": "‘삼전닉스’, 호남 반도체에 800조·총 4755조 대규모 국내 투자 배경은?",
+      "url": "https://n.news.naver.com/mnews/article/032/0003454971"
     },
     {
-      "title": "5만원 넘는 카카오 기프티콘, 새달부터 95% 현금으로 환불",
-      "url": "https://n.news.naver.com/mnews/article/081/0003656562"
+      "title": "'전업주부' 남성 27만명 역대 최대…여성은 역대 최소",
+      "url": "https://n.news.naver.com/mnews/article/437/0000498465"
     },
     {
-      "title": "삼성바이오 노조 홀로서기…초기업 노조 떠난 이유는",
-      "url": "https://n.news.naver.com/mnews/article/001/0016163593"
-    },
-    {
-      "title": "AI발 '배전' 슈퍼사이클도 접수…HD현대일렉 청주 캠퍼스 가보니[르포]",
-      "url": "https://n.news.naver.com/mnews/article/648/0000048406"
-    },
-    {
-      "title": "'호남 반도체' 시대 열리나…삼성·SK '2000조' 쏟아붓는다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005303600"
+      "title": "\"12전 12패\"…형 신동주, 日 롯데 주총 올린 신동빈 해임 안건 또 부결",
+      "url": "https://n.news.naver.com/mnews/article/421/0009029965"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012207455"
+      "url": "https://n.news.naver.com/mnews/article/214/0001508443"
     },
     {
-      "title": "호르무즈 한국 선박 26척 중 23척 탈출",
-      "url": "https://n.news.naver.com/mnews/article/023/0003984571"
+      "title": "지역경제 ‘반도체’가 갈랐다…충북·경기 웃고 전남·충남 울고",
+      "url": "https://n.news.naver.com/mnews/article/016/0002662944"
     },
     {
-      "title": "고유가 피해지원금에 골목상권 매출 11% 증가[Biz & Now]",
-      "url": "https://n.news.naver.com/mnews/article/025/0003533728"
+      "title": "임태혁 삼성운용 본부장 \"단일종목 레버리지 순기능도\"[마켓人]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016163934"
     },
     {
-      "title": "류쉐량 BYD 부총리 “고객 접점 韓 전역 확대…PHEV 전기모드로 일상생활 충분” [부산모빌리티쇼]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002662538"
+      "title": "LG전자, 프리미엄 로봇청소기 ‘로니’ 출시… 출하가 219만원",
+      "url": "https://n.news.naver.com/mnews/article/366/0001175124"
+    },
+    {
+      "title": "최태원 \"서남권 반도체 팹에 400조원 투입\"…총 2100조 투자(상보)",
+      "url": "https://n.news.naver.com/mnews/article/018/0006318150"
+    },
+    {
+      "title": "뉴욕증시, 기술주 반등에 강세 마감…다우 사상 최고·나스닥 2%↑[월스트리트in]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006318447"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 8411.21,
-      "change": -519.09,
-      "change_pct": -5.81
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 851.37,
-      "change": -36.44,
-      "change_pct": -4.1
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25297.62,
-      "change": -60.98,
-      "change_pct": -0.24
+      "value": 25820.14,
+      "change": 522.53,
+      "change_pct": 2.07
     },
     "usdkrw": {
-      "value": 1535.11,
-      "change": -11.37,
-      "change_pct": -0.74
+      "value": 1540.65,
+      "change": -5.83,
+      "change_pct": -0.38
     }
   },
   "gold": {
-    "price_usd": 4096.3,
-    "price_krw": 6288270,
+    "price_usd": 4030.5,
+    "price_krw": 6209589,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-06-29 06:50",
+  "updated": "2026-06-30 07:01",
   "error": null
 }
