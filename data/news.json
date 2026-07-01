@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "지난해 98만개 사업자 폐업…사유는 \"수익성 악화·매출 부진\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000879858"
+      "title": "김정관 \"EU 철강 쿼터 감축분 51만톤, 국내 수요 창출해 지원\"",
+      "url": "https://n.news.naver.com/mnews/article/031/0001038850"
     },
     {
-      "title": "쿠팡 보안 투자 ‘역대 최대’…1349억원 썼지만 남은 과제는",
-      "url": "https://n.news.naver.com/mnews/article/138/0002232630"
+      "title": "또 걸린 구글 ‘앱마켓 갑질’...과징금 최대 8496억원",
+      "url": "https://n.news.naver.com/mnews/article/018/0006319840"
     },
     {
-      "title": "정부도 지키지 못한 공공 차량 2부제, 5부제로 완화",
-      "url": "https://n.news.naver.com/mnews/article/001/0016166875"
-    },
-    {
-      "title": "엔화가치 40년 만에 최저...“165엔 간다” 전망도",
-      "url": "https://n.news.naver.com/mnews/article/011/0004636592"
-    },
-    {
-      "title": "투자했더니 또 상폐...코스닥 '30년 개미 지옥' 오명 벗을까",
-      "url": "https://n.news.naver.com/mnews/article/469/0000939630"
-    },
-    {
-      "title": "10년간 해상풍력 입찰물량 55GW로 늘린다…선진국 수준 확대",
-      "url": "https://n.news.naver.com/mnews/article/008/0005379245"
-    },
-    {
-      "title": "공공시설에 생리대 비치…핸드폰으로 로또 산다[하반기 달라집니다]",
-      "url": "https://n.news.naver.com/mnews/article/025/0003534232"
-    },
-    {
-      "title": "동탄·기흥·구리도 3중 규제…정부, 집값 급등하자 추가 규제",
-      "url": "https://n.news.naver.com/mnews/article/025/0003534228"
-    },
-    {
-      "title": "천정부지 금값 어느새 뚝…2분기 들어 13년만에 최대 하락",
-      "url": "https://n.news.naver.com/mnews/article/008/0005379638"
+      "title": "10·15 규제지역 인근 주택 매입액 158.95%↑… '풍선효과' 확인",
+      "url": "https://n.news.naver.com/mnews/article/469/0000939680"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012209157"
+      "url": "https://n.news.naver.com/mnews/article/055/0001368827"
+    },
+    {
+      "title": "HS효성 조현상, 창업 60주년 맞아… “헤리티지 DNA로 가치 경영”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001175862"
+    },
+    {
+      "title": "호남 반도체 프로젝트 뜨자... 삼성 노조 ‘우리와 협의하라’",
+      "url": "https://n.news.naver.com/mnews/article/023/0003985128"
+    },
+    {
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012210034"
+    },
+    {
+      "title": "상반기 환율 'IMF 이후 최고'…6월 1527.9원, 외인 매도에 7월도 공포",
+      "url": "https://n.news.naver.com/mnews/article/421/0009033155"
+    },
+    {
+      "title": "대출부터 우편까지…금융·생활정책 대거 손질",
+      "url": "https://n.news.naver.com/mnews/article/654/0000188515"
+    },
+    {
+      "title": "CNN, 정주영 추모 음악회 비하인드 조명…“삶을 그린 음악적 초상”",
+      "url": "https://n.news.naver.com/mnews/article/119/0003106596"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 8394.65,
+      "value": 8476.48,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 920.57,
+      "value": 916.18,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26213.72,
-      "change": 393.58,
-      "change_pct": 1.52
+      "value": 26040.03,
+      "change": -173.69,
+      "change_pct": -0.66
     },
     "usdkrw": {
-      "value": 1546.6,
-      "change": 11.36,
-      "change_pct": 0.74
+      "value": 1554.49,
+      "change": 12.76,
+      "change_pct": 0.83
     }
   },
   "gold": {
-    "price_usd": 4021.8,
-    "price_krw": 6220115,
-    "change": -0.5,
-    "change_pct": -0.01
+    "price_usd": 4045.6,
+    "price_krw": 6288844,
+    "change": 22.7,
+    "change_pct": 0.56
   },
-  "updated": "2026-07-01 07:06",
+  "updated": "2026-07-02 07:10",
   "error": null
 }
