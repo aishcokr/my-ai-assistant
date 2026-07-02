@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "김정관 \"EU 철강 쿼터 감축분 51만톤, 국내 수요 창출해 지원\"",
-      "url": "https://n.news.naver.com/mnews/article/031/0001038850"
+      "title": "뉴욕 증시, 반도체 추락 속 혼조 마감...다우 최고치",
+      "url": "https://n.news.naver.com/mnews/article/052/0002374111"
     },
     {
-      "title": "또 걸린 구글 ‘앱마켓 갑질’...과징금 최대 8496억원",
-      "url": "https://n.news.naver.com/mnews/article/018/0006319840"
+      "title": "포스코, 트리플 코어 체제 구축⋯2035년 매출 187조·영업익 13조 목표",
+      "url": "https://n.news.naver.com/mnews/article/031/0001039348"
     },
     {
-      "title": "10·15 규제지역 인근 주택 매입액 158.95%↑… '풍선효과' 확인",
-      "url": "https://n.news.naver.com/mnews/article/469/0000939680"
+      "title": "대치 은마, 사업시행인가 문턱 넘었다…5850가구 재건축 본궤도",
+      "url": "https://n.news.naver.com/mnews/article/277/0005784751"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001368827"
+      "title": "SK그룹, 협력사 상생 위해 5년간 1조4천억 투입",
+      "url": "https://n.news.naver.com/mnews/article/028/0002812445"
     },
     {
-      "title": "HS효성 조현상, 창업 60주년 맞아… “헤리티지 DNA로 가치 경영”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001175862"
+      "title": "이중근 노인회장, 오세훈에 \"무임승차 연령 사회적 합의 먼저\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016171980"
     },
     {
-      "title": "호남 반도체 프로젝트 뜨자... 삼성 노조 ‘우리와 협의하라’",
-      "url": "https://n.news.naver.com/mnews/article/023/0003985128"
+      "title": "석유류·컴퓨터값 뛰자… 6월 물가, 2년 6개월만에 최고 (종합)",
+      "url": "https://n.news.naver.com/mnews/article/014/0005542849"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012210034"
+      "title": "레버리지 ETF 손보나…금감원, 운용사 소집",
+      "url": "https://n.news.naver.com/mnews/article/015/0005305681"
     },
     {
-      "title": "상반기 환율 'IMF 이후 최고'…6월 1527.9원, 외인 매도에 7월도 공포",
-      "url": "https://n.news.naver.com/mnews/article/421/0009033155"
+      "title": "OECD “韓 올해 정부부채 비율 전망치 48.2%→51.4%로 정정\"",
+      "url": "https://n.news.naver.com/mnews/article/366/0001176239"
     },
     {
-      "title": "대출부터 우편까지…금융·생활정책 대거 손질",
-      "url": "https://n.news.naver.com/mnews/article/654/0000188515"
+      "title": "위고비·마운자로 맞다가…주사제 부작용 신고 19배 급증",
+      "url": "https://n.news.naver.com/mnews/article/422/0000880732"
     },
     {
-      "title": "CNN, 정주영 추모 음악회 비하인드 조명…“삶을 그린 음악적 초상”",
-      "url": "https://n.news.naver.com/mnews/article/119/0003106596"
+      "title": "한화오션, KDDX 선도함 우선협상대상자 선정…내달 최종 계약",
+      "url": "https://n.news.naver.com/mnews/article/055/0001369052"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 8476.48,
+      "value": 8303.41,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 916.18,
+      "value": 929.35,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26040.03,
-      "change": -173.69,
-      "change_pct": -0.66
+      "value": 25832.67,
+      "change": -207.36,
+      "change_pct": -0.8
     },
     "usdkrw": {
-      "value": 1554.49,
-      "change": 12.76,
-      "change_pct": 0.83
+      "value": 1537.99,
+      "change": -10.62,
+      "change_pct": -0.69
     }
   },
   "gold": {
-    "price_usd": 4045.6,
-    "price_krw": 6288844,
-    "change": 22.7,
-    "change_pct": 0.56
+    "price_usd": 4135.5,
+    "price_krw": 6360357,
+    "change": 67.2,
+    "change_pct": 1.65
   },
-  "updated": "2026-07-02 07:10",
+  "updated": "2026-07-03 06:55",
   "error": null
 }
