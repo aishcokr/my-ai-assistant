@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "\"2분기 메모리 시장규모 350조원…내년 하반기 상승세 둔화\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016175094"
+      "title": "새만금 9조·영남권 42조…현대차, 서남-동남권 잇는 '첨단산업 지도' 그린다",
+      "url": "https://n.news.naver.com/mnews/article/003/0014046127"
     },
     {
-      "title": "2035년까지 한국판 스타링크 띄운다…달 착륙 목표도 앞당겨",
-      "url": "https://n.news.naver.com/mnews/article/422/0000881245"
+      "title": "하이닉스 14.57% 폭락 다음날, 목표가 420만원 나온 이유 [숫자 뒤의 진실]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004140385"
     },
     {
-      "title": "[속보] 법원, 홈플러스 회생절차 폐지 결정",
-      "url": "https://n.news.naver.com/mnews/article/025/0003535154"
+      "title": "코스피 반등 키 쥔 삼성전자…2분기 잠정 실적 발표에 시선 집중",
+      "url": "https://n.news.naver.com/mnews/article/001/0016176053"
     },
     {
-      "title": "“강북 개발땐 공공기여 부담 절반 축소”",
-      "url": "https://n.news.naver.com/mnews/article/023/0003985662"
+      "title": "\"45조 유입\" 소문에 환율 30원 폭락…SK하닉 선물환 매도에 당국도 \"선반영\" 인정",
+      "url": "https://n.news.naver.com/mnews/article/014/0005543603"
     },
     {
-      "title": "예상 밑돈 美 고용지표·엔화 가치 반등…환율 10원 넘게 하락",
-      "url": "https://n.news.naver.com/mnews/article/001/0016174057"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002374836"
     },
     {
-      "title": "현대차그룹 “영남에 투자 확대…10년간 42조원 쏟는다”",
-      "url": "https://n.news.naver.com/mnews/article/005/0001858818"
+      "title": "직원 1만2000명 실직 위기… 납품사 1곳당 미지급금 평균 7억7000만원",
+      "url": "https://n.news.naver.com/mnews/article/020/0003731472"
     },
     {
-      "title": "민·군 감항협력이 여는 K-항공 강국의 미래[기고]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005305866"
+      "title": "휴가철 유류비 안정세…주유소 휘발윳값 한주 새 56원 내려",
+      "url": "https://n.news.naver.com/mnews/article/016/0002665640"
     },
     {
-      "title": "예탁원, 디지털 전환 가속화 위한 조직개편…토큰증권부 등 상설화",
-      "url": "https://n.news.naver.com/mnews/article/008/0005381215"
+      "title": "우리은행 고객정보 1만7551건 유출 사고…재수탁사 직원 과실",
+      "url": "https://n.news.naver.com/mnews/article/421/0009040210"
     },
     {
-      "title": "삼성, 앤트로픽 손잡고 파운드리 부활 신호탄",
-      "url": "https://n.news.naver.com/mnews/article/009/0005702546"
+      "title": "테슬라 독주에 BYD 가세…상반기 판매 수입차 절반은 전기차",
+      "url": "https://n.news.naver.com/mnews/article/022/0004140516"
     },
     {
-      "title": "외환보유액 소폭 늘었지만…순위는 싱가포르에 역전, 13위로 내려앉아",
-      "url": "https://n.news.naver.com/mnews/article/023/0003985508"
+      "title": "세계 식량가격, 2개월 연속 하락세…쌀·닭고기는 상승",
+      "url": "https://n.news.naver.com/mnews/article/056/0012211725"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 8088.34,
+      "change": 440.25,
+      "change_pct": 5.76
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 868.41,
+      "change": 1.69,
+      "change_pct": 0.19
     },
     "nasdaq": {
       "value": 25832.67,
@@ -69,6 +69,6 @@
     "change": 74.6,
     "change_pct": 1.81
   },
-  "updated": "2026-07-04 06:52",
+  "updated": "2026-07-05 06:43",
   "error": null
 }
