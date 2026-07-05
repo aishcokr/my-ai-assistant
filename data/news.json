@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "새만금 9조·영남권 42조…현대차, 서남-동남권 잇는 '첨단산업 지도' 그린다",
-      "url": "https://n.news.naver.com/mnews/article/003/0014046127"
+      "title": "올해도 복날엔 삼계탕? 사먹기 겁나네···한그릇 ‘평균 1만8154원’ 5년 새 가격 29% 올랐다",
+      "url": "https://n.news.naver.com/mnews/article/032/0003456115"
     },
     {
-      "title": "하이닉스 14.57% 폭락 다음날, 목표가 420만원 나온 이유 [숫자 뒤의 진실]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004140385"
+      "title": "진옥동 신한금융 회장 “리더부터 AI 역량 강화 나서야”",
+      "url": "https://n.news.naver.com/mnews/article/138/0002233157"
     },
     {
-      "title": "코스피 반등 키 쥔 삼성전자…2분기 잠정 실적 발표에 시선 집중",
-      "url": "https://n.news.naver.com/mnews/article/001/0016176053"
+      "title": "반도체 호황에도 청년은 일자리 잃었다…AI가 덮친 취업시장",
+      "url": "https://n.news.naver.com/mnews/article/469/0000940408"
     },
     {
-      "title": "\"45조 유입\" 소문에 환율 30원 폭락…SK하닉 선물환 매도에 당국도 \"선반영\" 인정",
-      "url": "https://n.news.naver.com/mnews/article/014/0005543603"
+      "title": "FIU, 자금세탁방지 우수교육과정 인증제 실시",
+      "url": "https://n.news.naver.com/mnews/article/016/0002665909"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002374836"
+      "title": "삼성전자, 5억원 사내 주택자금 대출 85㎡ 이하로 제한",
+      "url": "https://n.news.naver.com/mnews/article/660/0000112558"
     },
     {
-      "title": "직원 1만2000명 실직 위기… 납품사 1곳당 미지급금 평균 7억7000만원",
-      "url": "https://n.news.naver.com/mnews/article/020/0003731472"
+      "title": "12억 넘는 집도, 재건축 집도…주택연금 됩니다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003535482"
     },
     {
-      "title": "휴가철 유류비 안정세…주유소 휘발윳값 한주 새 56원 내려",
-      "url": "https://n.news.naver.com/mnews/article/016/0002665640"
+      "title": "쿠팡 이용자 수 해킹 사태 이전보다 더 늘었다",
+      "url": "https://n.news.naver.com/mnews/article/023/0003985773"
     },
     {
-      "title": "우리은행 고객정보 1만7551건 유출 사고…재수탁사 직원 과실",
-      "url": "https://n.news.naver.com/mnews/article/421/0009040210"
+      "title": "아파트에서 밀려나는 임차인들",
+      "url": "https://n.news.naver.com/mnews/article/081/0003658448"
     },
     {
-      "title": "테슬라 독주에 BYD 가세…상반기 판매 수입차 절반은 전기차",
-      "url": "https://n.news.naver.com/mnews/article/022/0004140516"
+      "title": "미국인 참기름 맛까지 알아버렸다…K푸드 수출액 역대 최대",
+      "url": "https://n.news.naver.com/mnews/article/025/0003535412"
     },
     {
-      "title": "세계 식량가격, 2개월 연속 하락세…쌀·닭고기는 상승",
-      "url": "https://n.news.naver.com/mnews/article/056/0012211725"
+      "title": "고용없는 성장, 청년에 더 큰 타격… 15∼29세만 5개월째 취업 감소",
+      "url": "https://n.news.naver.com/mnews/article/020/0003731714"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.8
     },
     "usdkrw": {
-      "value": 1530.15,
-      "change": -21.66,
-      "change_pct": -1.4
+      "value": 1529.09,
+      "change": -13.04,
+      "change_pct": -0.85
     }
   },
   "gold": {
     "price_usd": 4187.3,
-    "price_krw": 6407196,
+    "price_krw": 6402758,
     "change": 74.6,
     "change_pct": 1.81
   },
-  "updated": "2026-07-05 06:43",
+  "updated": "2026-07-06 06:45",
   "error": null
 }
