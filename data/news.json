@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "올해도 복날엔 삼계탕? 사먹기 겁나네···한그릇 ‘평균 1만8154원’ 5년 새 가격 29% 올랐다",
-      "url": "https://n.news.naver.com/mnews/article/032/0003456115"
+      "title": "오리온홀딩스, 창사 첫 분기배당 실시[Biz & Now]",
+      "url": "https://n.news.naver.com/mnews/article/025/0003535743"
     },
     {
-      "title": "진옥동 신한금융 회장 “리더부터 AI 역량 강화 나서야”",
-      "url": "https://n.news.naver.com/mnews/article/138/0002233157"
+      "title": "현대차 아틀라스, 월드컵 16강 하프타임 깜짝 등장…케인·홀란드 세리머니 재현",
+      "url": "https://n.news.naver.com/mnews/article/014/0005544096"
     },
     {
-      "title": "반도체 호황에도 청년은 일자리 잃었다…AI가 덮친 취업시장",
-      "url": "https://n.news.naver.com/mnews/article/469/0000940408"
+      "title": "삼성전자 DX 노조, 성과급 격차 반발 집회 예고",
+      "url": "https://n.news.naver.com/mnews/article/277/0005786086"
     },
     {
-      "title": "FIU, 자금세탁방지 우수교육과정 인증제 실시",
-      "url": "https://n.news.naver.com/mnews/article/016/0002665909"
+      "title": "진주 LH 이성훈 사장 \"좋은 집 빠르게 공급\"",
+      "url": "https://n.news.naver.com/mnews/article/002/0002447415"
     },
     {
-      "title": "삼성전자, 5억원 사내 주택자금 대출 85㎡ 이하로 제한",
-      "url": "https://n.news.naver.com/mnews/article/660/0000112558"
+      "title": "“SK하이닉스, 오는 10일 나스닥 ADR 상장…외국기업 최대규모”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012212238"
     },
     {
-      "title": "12억 넘는 집도, 재건축 집도…주택연금 됩니다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003535482"
+      "title": "오늘부터 폰 개통 시 안면인증…모바일신분증·초본으로 대체도",
+      "url": "https://n.news.naver.com/mnews/article/014/0005544057"
     },
     {
-      "title": "쿠팡 이용자 수 해킹 사태 이전보다 더 늘었다",
-      "url": "https://n.news.naver.com/mnews/article/023/0003985773"
+      "title": "자산운용사 의결권 행사율 91.8%·반대율 8.2%…전년 대비 개선",
+      "url": "https://n.news.naver.com/mnews/article/055/0001370016"
     },
     {
-      "title": "아파트에서 밀려나는 임차인들",
-      "url": "https://n.news.naver.com/mnews/article/081/0003658448"
+      "title": "청와대·정부, 추가 원전 건설 불지피나…기후·환경단체 반발",
+      "url": "https://n.news.naver.com/mnews/article/028/0002812775"
     },
     {
-      "title": "미국인 참기름 맛까지 알아버렸다…K푸드 수출액 역대 최대",
-      "url": "https://n.news.naver.com/mnews/article/025/0003535412"
+      "title": "HD현대일렉, 올 수주목표 23% 높여 8조원",
+      "url": "https://n.news.naver.com/mnews/article/020/0003731916"
     },
     {
-      "title": "고용없는 성장, 청년에 더 큰 타격… 15∼29세만 5개월째 취업 감소",
-      "url": "https://n.news.naver.com/mnews/article/020/0003731714"
+      "title": "현대차, 'DMZ 다큐영화제' 후원…수소 모빌리티 알려",
+      "url": "https://n.news.naver.com/mnews/article/018/0006323786"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 8088.34,
-      "change": 440.25,
-      "change_pct": 5.76
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 868.41,
-      "change": 1.69,
-      "change_pct": 0.19
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25832.67,
-      "change": -207.36,
-      "change_pct": -0.8
+      "value": 26121.16,
+      "change": 288.49,
+      "change_pct": 1.12
     },
     "usdkrw": {
-      "value": 1529.09,
-      "change": -13.04,
-      "change_pct": -0.85
+      "value": 1530.05,
+      "change": -12.08,
+      "change_pct": -0.78
     }
   },
   "gold": {
     "price_usd": 4187.3,
-    "price_krw": 6402758,
-    "change": 74.6,
-    "change_pct": 1.81
+    "price_krw": 6406778,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-07-06 06:45",
+  "updated": "2026-07-07 07:04",
   "error": null
 }
