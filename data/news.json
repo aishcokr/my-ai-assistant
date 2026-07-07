@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "오리온홀딩스, 창사 첫 분기배당 실시[Biz & Now]",
-      "url": "https://n.news.naver.com/mnews/article/025/0003535743"
+      "title": "한화오션, 캐나다 수주 불발…“나토 동맹 벽 못 넘어…대안 강구해 도약”",
+      "url": "https://n.news.naver.com/mnews/article/030/0003445011"
     },
     {
-      "title": "현대차 아틀라스, 월드컵 16강 하프타임 깜짝 등장…케인·홀란드 세리머니 재현",
-      "url": "https://n.news.naver.com/mnews/article/014/0005544096"
+      "title": "HMM, 스페인-서아프리카 연결 컨테이너 신규 서비스 시작",
+      "url": "https://n.news.naver.com/mnews/article/055/0001370310"
     },
     {
-      "title": "삼성전자 DX 노조, 성과급 격차 반발 집회 예고",
-      "url": "https://n.news.naver.com/mnews/article/277/0005786086"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000882379"
     },
     {
-      "title": "진주 LH 이성훈 사장 \"좋은 집 빠르게 공급\"",
-      "url": "https://n.news.naver.com/mnews/article/002/0002447415"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002376154"
     },
     {
-      "title": "“SK하이닉스, 오는 10일 나스닥 ADR 상장…외국기업 최대규모”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012212238"
+      "title": "구윤철 “부동산 세제, 7월 말 발표…보유세·거래세 균형 맞춰야”",
+      "url": "https://n.news.naver.com/mnews/article/009/0005703690"
     },
     {
-      "title": "오늘부터 폰 개통 시 안면인증…모바일신분증·초본으로 대체도",
-      "url": "https://n.news.naver.com/mnews/article/014/0005544057"
+      "title": "박홍근 \"청년 어려움 개인 문제 아냐…'회복 사다리' 국가 책무\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006324667"
     },
     {
-      "title": "자산운용사 의결권 행사율 91.8%·반대율 8.2%…전년 대비 개선",
-      "url": "https://n.news.naver.com/mnews/article/055/0001370016"
+      "title": "LG엔솔, 2분기 영업익 1133억 ‘흑자전환’…매출 7조원대 회복",
+      "url": "https://n.news.naver.com/mnews/article/016/0002666691"
     },
     {
-      "title": "청와대·정부, 추가 원전 건설 불지피나…기후·환경단체 반발",
-      "url": "https://n.news.naver.com/mnews/article/028/0002812775"
+      "title": "물가지수, 고사리 빼고 생성형 AI 구독료 넣는다",
+      "url": "https://n.news.naver.com/mnews/article/081/0003659259"
     },
     {
-      "title": "HD현대일렉, 올 수주목표 23% 높여 8조원",
-      "url": "https://n.news.naver.com/mnews/article/020/0003731916"
+      "title": "\"중동 사막에서 키운 韓딸기\"…韓기업, UAE에 36억 규모 스마트팜 수출",
+      "url": "https://n.news.naver.com/mnews/article/277/0005786843"
     },
     {
-      "title": "현대차, 'DMZ 다큐영화제' 후원…수소 모빌리티 알려",
-      "url": "https://n.news.naver.com/mnews/article/018/0006323786"
+      "title": "\"메모리 겨울\" 모건스탠리, 이번엔 \"삼전닉스 팔아라\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000882401"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 8088.34,
+      "value": 8051.33,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 868.41,
+      "value": 847.07,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26121.16,
-      "change": 288.49,
-      "change_pct": 1.12
+      "value": 25818.69,
+      "change": -302.47,
+      "change_pct": -1.16
     },
     "usdkrw": {
-      "value": 1530.05,
-      "change": -12.08,
-      "change_pct": -0.78
+      "value": 1513.68,
+      "change": -17.32,
+      "change_pct": -1.13
     }
   },
   "gold": {
-    "price_usd": 4187.3,
-    "price_krw": 6406778,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4116.6,
+    "price_krw": 6231215,
+    "change": -38.5,
+    "change_pct": -0.93
   },
-  "updated": "2026-07-07 07:04",
+  "updated": "2026-07-08 07:02",
   "error": null
 }
