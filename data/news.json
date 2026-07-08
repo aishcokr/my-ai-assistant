@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "한화오션, 캐나다 수주 불발…“나토 동맹 벽 못 넘어…대안 강구해 도약”",
-      "url": "https://n.news.naver.com/mnews/article/030/0003445011"
+      "title": "이성훈 LH사장, 취임 첫 행보로 서리풀지구 방문…\"2028년 착공\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016182147"
     },
     {
-      "title": "HMM, 스페인-서아프리카 연결 컨테이너 신규 서비스 시작",
-      "url": "https://n.news.naver.com/mnews/article/055/0001370310"
+      "title": "'벼랑 끝' 홈플러스 두고 메리츠·MBK 공방 지속…커지는 최대주주 책임론",
+      "url": "https://n.news.naver.com/mnews/article/030/0003445784"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000882379"
+      "title": "6년뒤 3000곳 스코프3 사정권…뒤집힌 로드맵에 기업 ‘발등의 불’",
+      "url": "https://n.news.naver.com/mnews/article/011/0004639588"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002376154"
+      "title": "신한금융, 행안부와 '사회연대경제 활성화' 협력…3년간 60억 지원",
+      "url": "https://n.news.naver.com/mnews/article/648/0000048742"
     },
     {
-      "title": "구윤철 “부동산 세제, 7월 말 발표…보유세·거래세 균형 맞춰야”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005703690"
+      "title": "조선업계, AI시대 맞아 '바다 위 데이터센터'로 사업 확대",
+      "url": "https://n.news.naver.com/mnews/article/001/0016182383"
     },
     {
-      "title": "박홍근 \"청년 어려움 개인 문제 아냐…'회복 사다리' 국가 책무\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006324667"
+      "title": "효성 'AI융합연구원' 신설…카이스트 명예교수 영임",
+      "url": "https://n.news.naver.com/mnews/article/374/0000520587"
     },
     {
-      "title": "LG엔솔, 2분기 영업익 1133억 ‘흑자전환’…매출 7조원대 회복",
-      "url": "https://n.news.naver.com/mnews/article/016/0002666691"
+      "title": "코스피 7200선 후퇴·코스닥 800선 붕괴…‘패닉셀’에 나란히 매도 사이드카 [투자360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002667550"
     },
     {
-      "title": "물가지수, 고사리 빼고 생성형 AI 구독료 넣는다",
-      "url": "https://n.news.naver.com/mnews/article/081/0003659259"
+      "title": "5월 경상흑자 386.1억달러 '역대 최대'…반도체 랠리에 37개월째 흑자",
+      "url": "https://n.news.naver.com/mnews/article/421/0009046479"
     },
     {
-      "title": "\"중동 사막에서 키운 韓딸기\"…韓기업, UAE에 36억 규모 스마트팜 수출",
-      "url": "https://n.news.naver.com/mnews/article/277/0005786843"
+      "title": "전세사기 피해자 4만명 육박…국토부, 공동담보 지원 이달 시행",
+      "url": "https://n.news.naver.com/mnews/article/448/0000625313"
     },
     {
-      "title": "\"메모리 겨울\" 모건스탠리, 이번엔 \"삼전닉스 팔아라\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000882401"
+      "title": "기후부 “호남권 반도체 산단, 재생에너지·원전으로 안정적 전력공급 가능”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001177685"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 8051.33,
+      "value": 7656.31,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 847.07,
+      "value": 831.23,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25818.69,
-      "change": -302.47,
-      "change_pct": -1.16
+      "value": 25870.65,
+      "change": 51.96,
+      "change_pct": 0.2
     },
     "usdkrw": {
-      "value": 1513.68,
-      "change": -17.32,
-      "change_pct": -1.13
+      "value": 1505.57,
+      "change": -23.19,
+      "change_pct": -1.52
     }
   },
   "gold": {
-    "price_usd": 4116.6,
-    "price_krw": 6231215,
-    "change": -38.5,
-    "change_pct": -0.93
+    "price_usd": 4086.6,
+    "price_krw": 6152662,
+    "change": -58.7,
+    "change_pct": -1.42
   },
-  "updated": "2026-07-08 07:02",
+  "updated": "2026-07-09 06:54",
   "error": null
 }
