@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "이성훈 LH사장, 취임 첫 행보로 서리풀지구 방문…\"2028년 착공\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016182147"
+      "title": "저가 수입품 ‘라벨 갈이’ 416억 규모 적발",
+      "url": "https://n.news.naver.com/mnews/article/056/0012214882"
     },
     {
-      "title": "'벼랑 끝' 홈플러스 두고 메리츠·MBK 공방 지속…커지는 최대주주 책임론",
-      "url": "https://n.news.naver.com/mnews/article/030/0003445784"
+      "title": "韓 총리 \"건설 AI 기술 개발, 인재 양성, 해외 진출 위한 생태계 조성 지원할 것\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005787955"
     },
     {
-      "title": "6년뒤 3000곳 스코프3 사정권…뒤집힌 로드맵에 기업 ‘발등의 불’",
-      "url": "https://n.news.naver.com/mnews/article/011/0004639588"
+      "title": "\"애국기업 살리자\"…'돈쭐' 응원, 한성기업 주가까지 번졌다",
+      "url": "https://n.news.naver.com/mnews/article/050/0000108344"
     },
     {
-      "title": "신한금융, 행안부와 '사회연대경제 활성화' 협력…3년간 60억 지원",
-      "url": "https://n.news.naver.com/mnews/article/648/0000048742"
+      "title": "국민은행 이어 신한도 대출 문턱 높였다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005308320"
     },
     {
-      "title": "조선업계, AI시대 맞아 '바다 위 데이터센터'로 사업 확대",
-      "url": "https://n.news.naver.com/mnews/article/001/0016182383"
+      "title": "미래에셋 가상자산 시장 진출… 공정위, 코빗 인수 승인",
+      "url": "https://n.news.naver.com/mnews/article/021/0002803530"
     },
     {
-      "title": "효성 'AI융합연구원' 신설…카이스트 명예교수 영임",
-      "url": "https://n.news.naver.com/mnews/article/374/0000520587"
+      "title": "“더 뉴 그랜저, 편안함에 이르렀나?”…현대차 ‘더 뉴 그랜저 하이브리드’ 진동·소음 잡았다",
+      "url": "https://n.news.naver.com/mnews/article/032/0003457120"
     },
     {
-      "title": "코스피 7200선 후퇴·코스닥 800선 붕괴…‘패닉셀’에 나란히 매도 사이드카 [투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002667550"
+      "title": "CU, 몽골 600호점 돌파… ‘K편의점’ 글로벌 확장 경쟁 가열",
+      "url": "https://n.news.naver.com/mnews/article/022/0004141961"
     },
     {
-      "title": "5월 경상흑자 386.1억달러 '역대 최대'…반도체 랠리에 37개월째 흑자",
-      "url": "https://n.news.naver.com/mnews/article/421/0009046479"
+      "title": "3중으로 묶었는데…구리·용인 집값 더 뛰었다",
+      "url": "https://n.news.naver.com/mnews/article/020/0003732723"
     },
     {
-      "title": "전세사기 피해자 4만명 육박…국토부, 공동담보 지원 이달 시행",
-      "url": "https://n.news.naver.com/mnews/article/448/0000625313"
+      "title": "KB국민은행, 포스코와 'K-철강 공급망 상생을 위한 업무협약'",
+      "url": "https://n.news.naver.com/mnews/article/014/0005546120"
     },
     {
-      "title": "기후부 “호남권 반도체 산단, 재생에너지·원전으로 안정적 전력공급 가능”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001177685"
+      "title": "NH증권, 인도 '초이스 증권' 2대주주로…\"파트너십 구축\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005788022"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7656.31,
+      "value": 7246.79,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 831.23,
+      "value": 785.0,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25870.65,
-      "change": 51.96,
-      "change_pct": 0.2
+      "value": 26206.89,
+      "change": 336.24,
+      "change_pct": 1.3
     },
     "usdkrw": {
-      "value": 1505.57,
-      "change": -23.19,
-      "change_pct": -1.52
+      "value": 1506.48,
+      "change": -13.38,
+      "change_pct": -0.88
     }
   },
   "gold": {
-    "price_usd": 4086.6,
-    "price_krw": 6152662,
-    "change": -58.7,
-    "change_pct": -1.42
+    "price_usd": 4133.6,
+    "price_krw": 6227185,
+    "change": 62.7,
+    "change_pct": 1.54
   },
-  "updated": "2026-07-09 06:54",
+  "updated": "2026-07-10 07:10",
   "error": null
 }
