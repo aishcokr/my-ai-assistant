@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "저가 수입품 ‘라벨 갈이’ 416억 규모 적발",
-      "url": "https://n.news.naver.com/mnews/article/056/0012214882"
+      "title": "성과급을 지역화폐로? 與, 법안 발의했다 논란 끝에 철회",
+      "url": "https://n.news.naver.com/mnews/article/011/0004640300"
     },
     {
-      "title": "韓 총리 \"건설 AI 기술 개발, 인재 양성, 해외 진출 위한 생태계 조성 지원할 것\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005787955"
+      "title": "경총 “CJ대한통운 대법 판결 존중…노란봉투법 보완 입법해야”",
+      "url": "https://n.news.naver.com/mnews/article/022/0004142057"
     },
     {
-      "title": "\"애국기업 살리자\"…'돈쭐' 응원, 한성기업 주가까지 번졌다",
-      "url": "https://n.news.naver.com/mnews/article/050/0000108344"
+      "title": "이마트, 몽골 울란바토르에 노브랜드 1호점…이달 말 2호점도",
+      "url": "https://n.news.naver.com/mnews/article/001/0016187346"
     },
     {
-      "title": "국민은행 이어 신한도 대출 문턱 높였다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005308320"
+      "title": "SK하이닉스, ADR 美 나스닥 데뷔…40조원 조달",
+      "url": "https://n.news.naver.com/mnews/article/293/0000087505"
     },
     {
-      "title": "미래에셋 가상자산 시장 진출… 공정위, 코빗 인수 승인",
-      "url": "https://n.news.naver.com/mnews/article/021/0002803530"
+      "title": "최태원 “나스닥 입성, 역사적 순간…AI분야 수백억달러 투자”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003536830"
     },
     {
-      "title": "“더 뉴 그랜저, 편안함에 이르렀나?”…현대차 ‘더 뉴 그랜저 하이브리드’ 진동·소음 잡았다",
-      "url": "https://n.news.naver.com/mnews/article/032/0003457120"
+      "title": "합동대응단, 코스닥 알파AI 압수수색…200억 대 부당이득",
+      "url": "https://n.news.naver.com/mnews/article/055/0001371455"
     },
     {
-      "title": "CU, 몽골 600호점 돌파… ‘K편의점’ 글로벌 확장 경쟁 가열",
-      "url": "https://n.news.naver.com/mnews/article/022/0004141961"
+      "title": "주담대 한 달 만 4.3조↑ ...은행권 더 조인다[Pick코노미]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004640120"
     },
     {
-      "title": "3중으로 묶었는데…구리·용인 집값 더 뛰었다",
-      "url": "https://n.news.naver.com/mnews/article/020/0003732723"
+      "title": "‘책임 있는 금융’ 말한 김병주 MBK 회장…‘홈플러스 사태  책임론’은 어떻게?",
+      "url": "https://n.news.naver.com/mnews/article/021/0002803728"
     },
     {
-      "title": "KB국민은행, 포스코와 'K-철강 공급망 상생을 위한 업무협약'",
-      "url": "https://n.news.naver.com/mnews/article/014/0005546120"
+      "title": "서울시, 31만호 주택공급 속도전…부시장이 직접 챙긴다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005308462"
     },
     {
-      "title": "NH증권, 인도 '초이스 증권' 2대주주로…\"파트너십 구축\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005788022"
+      "title": "중앙일보 워크아웃 개시…경영권 매각 등 추진(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016188269"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7246.79,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 785.0,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26206.89,
-      "change": 336.24,
-      "change_pct": 1.3
+      "value": 26281.61,
+      "change": 74.72,
+      "change_pct": 0.29
     },
     "usdkrw": {
-      "value": 1506.48,
-      "change": -13.38,
-      "change_pct": -0.88
+      "value": 1498.87,
+      "change": -4.48,
+      "change_pct": -0.3
     }
   },
   "gold": {
-    "price_usd": 4133.6,
-    "price_krw": 6227185,
-    "change": 62.7,
-    "change_pct": 1.54
+    "price_usd": 4128.9,
+    "price_krw": 6188684,
+    "change": -1.7,
+    "change_pct": -0.04
   },
-  "updated": "2026-07-10 07:10",
+  "updated": "2026-07-11 06:46",
   "error": null
 }
