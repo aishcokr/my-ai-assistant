@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "성과급을 지역화폐로? 與, 법안 발의했다 논란 끝에 철회",
-      "url": "https://n.news.naver.com/mnews/article/011/0004640300"
-    },
-    {
-      "title": "경총 “CJ대한통운 대법 판결 존중…노란봉투법 보완 입법해야”",
-      "url": "https://n.news.naver.com/mnews/article/022/0004142057"
-    },
-    {
-      "title": "이마트, 몽골 울란바토르에 노브랜드 1호점…이달 말 2호점도",
-      "url": "https://n.news.naver.com/mnews/article/001/0016187346"
-    },
-    {
-      "title": "SK하이닉스, ADR 美 나스닥 데뷔…40조원 조달",
-      "url": "https://n.news.naver.com/mnews/article/293/0000087505"
-    },
-    {
-      "title": "최태원 “나스닥 입성, 역사적 순간…AI분야 수백억달러 투자”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003536830"
-    },
-    {
-      "title": "합동대응단, 코스닥 알파AI 압수수색…200억 대 부당이득",
-      "url": "https://n.news.naver.com/mnews/article/055/0001371455"
-    },
-    {
-      "title": "주담대 한 달 만 4.3조↑ ...은행권 더 조인다[Pick코노미]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004640120"
-    },
-    {
-      "title": "‘책임 있는 금융’ 말한 김병주 MBK 회장…‘홈플러스 사태  책임론’은 어떻게?",
-      "url": "https://n.news.naver.com/mnews/article/021/0002803728"
-    },
-    {
-      "title": "서울시, 31만호 주택공급 속도전…부시장이 직접 챙긴다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005308462"
-    },
-    {
       "title": "중앙일보 워크아웃 개시…경영권 매각 등 추진(종합)",
       "url": "https://n.news.naver.com/mnews/article/001/0016188269"
+    },
+    {
+      "title": "최태원 회장 ‘대박’ 월가 ‘들썩’…외신 “SK하이닉스, 역사적 데뷔”",
+      "url": "https://n.news.naver.com/mnews/article/081/0003660337"
+    },
+    {
+      "title": "집은 계약했는데 대출길 막혔다…잔금 앞둔 차주들 ‘비상’",
+      "url": "https://n.news.naver.com/mnews/article/029/0003036472"
+    },
+    {
+      "title": "[영상] 진짜 안유진이 이웃될까? ‘디에이치 방배’가보니, 단지 전체가 미술관 수준 [부동산360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002668873"
+    },
+    {
+      "title": "하루 만에 1400억 증발…‘빚투 개미’들의 눈물",
+      "url": "https://n.news.naver.com/mnews/article/022/0004142236"
+    },
+    {
+      "title": "“국민들께 진심 감사”…상폐 위기 벗어난 모나미 대표가 쓴 자필 편지 ‘화제’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005705965"
+    },
+    {
+      "title": "같은 SK하이닉스인데 美에서 16% 더 비싸…'역김치 프리미엄' 얼마나 갈까",
+      "url": "https://n.news.naver.com/mnews/article/003/0014060518"
+    },
+    {
+      "title": "기름값 8주 연속 하락...1800원대 안착",
+      "url": "https://n.news.naver.com/mnews/article/014/0005546741"
+    },
+    {
+      "title": "\"반도체 고점인가요\"…증권가 목표주가 잇단 하향에 '피크아웃' 우려 확산",
+      "url": "https://n.news.naver.com/mnews/article/003/0014060344"
+    },
+    {
+      "title": "카지노업계 다시 기지개…중국發 유입 훈풍에 달라지는 판도",
+      "url": "https://n.news.naver.com/mnews/hotissue/article/421/0009054122?type=series&cid=2002230"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 7475.94,
+      "change": 184.03,
+      "change_pct": 2.52
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 837.43,
+      "change": 43.43,
+      "change_pct": 5.47
     },
     "nasdaq": {
       "value": 26281.61,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4128.9,
-    "price_krw": 6188684,
-    "change": -1.7,
-    "change_pct": -0.04
+    "price_usd": 4104.1,
+    "price_krw": 6151512,
+    "change": -26.5,
+    "change_pct": -0.64
   },
-  "updated": "2026-07-11 06:46",
+  "updated": "2026-07-12 06:36",
   "error": null
 }
