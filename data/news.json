@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "중앙일보 워크아웃 개시…경영권 매각 등 추진(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016188269"
+      "title": "SK하이닉스, 나스닥 흥행 대박…국내 주가·환율에 훈풍 부나",
+      "url": "https://n.news.naver.com/mnews/article/079/0004167579"
     },
     {
-      "title": "최태원 회장 ‘대박’ 월가 ‘들썩’…외신 “SK하이닉스, 역사적 데뷔”",
-      "url": "https://n.news.naver.com/mnews/article/081/0003660337"
+      "title": "\"삼전닉스 레버리지? 지금은 비중 축소 권한다\"[경제적본능]",
+      "url": "https://n.news.naver.com/mnews/article/079/0004167420"
     },
     {
-      "title": "집은 계약했는데 대출길 막혔다…잔금 앞둔 차주들 ‘비상’",
-      "url": "https://n.news.naver.com/mnews/article/029/0003036472"
+      "title": "우리은행, 강북경찰서와 보이스피싱 예방 업무협약",
+      "url": "https://n.news.naver.com/mnews/article/001/0016189260"
     },
     {
-      "title": "[영상] 진짜 안유진이 이웃될까? ‘디에이치 방배’가보니, 단지 전체가 미술관 수준 [부동산360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002668873"
+      "title": "모아주택 사업 속도 높인다…서울시, 전자투표·온라인총회 지원",
+      "url": "https://n.news.naver.com/mnews/article/008/0005384859"
     },
     {
-      "title": "하루 만에 1400억 증발…‘빚투 개미’들의 눈물",
-      "url": "https://n.news.naver.com/mnews/article/022/0004142236"
+      "title": "상법개정 1년···기업 10곳 중 8곳, 이사회 운영방식 변화",
+      "url": "https://n.news.naver.com/mnews/article/009/0005706124"
     },
     {
-      "title": "“국민들께 진심 감사”…상폐 위기 벗어난 모나미 대표가 쓴 자필 편지 ‘화제’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005705965"
+      "title": "에코프로 그룹, 인니 니켈제련소 투자…전기차 150만대 분량 자원 확보",
+      "url": "https://n.news.naver.com/mnews/article/018/0006328255"
     },
     {
-      "title": "같은 SK하이닉스인데 美에서 16% 더 비싸…'역김치 프리미엄' 얼마나 갈까",
-      "url": "https://n.news.naver.com/mnews/article/003/0014060518"
+      "title": "분산된 지표 한 권에…무협, ‘경제·산업·사회지표로 보는 인도’ 통계집 첫 발간",
+      "url": "https://n.news.naver.com/mnews/article/277/0005788763"
     },
     {
-      "title": "기름값 8주 연속 하락...1800원대 안착",
-      "url": "https://n.news.naver.com/mnews/article/014/0005546741"
+      "title": "‘긴축시계’ 3년 반만 다시 째깍… 한은, 금리 얼마나 올릴까[기획]",
+      "url": "https://n.news.naver.com/mnews/article/029/0003036568"
     },
     {
-      "title": "\"반도체 고점인가요\"…증권가 목표주가 잇단 하향에 '피크아웃' 우려 확산",
-      "url": "https://n.news.naver.com/mnews/article/003/0014060344"
+      "title": "삼성전자 용인 반도체 공장, 2029년으로 가동 시점 앞당긴다",
+      "url": "https://n.news.naver.com/mnews/article/057/0001958114"
     },
     {
-      "title": "카지노업계 다시 기지개…중국發 유입 훈풍에 달라지는 판도",
-      "url": "https://n.news.naver.com/mnews/hotissue/article/421/0009054122?type=series&cid=2002230"
+      "title": "\"올해 기업 여름휴가 평균 3.8일…8월 초에 집중\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016189473"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.29
     },
     "usdkrw": {
-      "value": 1498.87,
-      "change": -4.48,
-      "change_pct": -0.3
+      "value": 1498.27,
+      "change": -7.64,
+      "change_pct": -0.51
     }
   },
   "gold": {
-    "price_usd": 4104.1,
-    "price_krw": 6151512,
-    "change": -26.5,
-    "change_pct": -0.64
+    "price_usd": 4113.7,
+    "price_krw": 6163433,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-07-12 06:36",
+  "updated": "2026-07-13 06:35",
   "error": null
 }
