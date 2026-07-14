@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "이찬진 \"ETF 거짓·과장광고 엄중…'복붙' 공시도 뿌리 뽑아야\"",
-      "url": "https://n.news.naver.com/mnews/article/648/0000048857"
+      "title": "‘호남 반도체 84% 반대’ 삼전 노조에 노동부 “교섭 대상 아냐”",
+      "url": "https://n.news.naver.com/mnews/article/028/0002814060"
     },
     {
-      "title": "7월 1~10일 수출 298억달러, ‘역대 최대’… 반도체 193% 증가",
-      "url": "https://n.news.naver.com/mnews/article/366/0001178680"
+      "title": "민간 도심항공교통(UAM) 기체 첫 공개…‘K-UAM 비행 쇼케이스’ 개최",
+      "url": "https://n.news.naver.com/mnews/article/056/0012217624"
     },
     {
-      "title": "2030년 재생에너지 100GW…AI·반도체 전력망 선제 구축",
-      "url": "https://n.news.naver.com/mnews/article/119/0003110918"
+      "title": "현대로템 K2 전차, 국내 첫 나토 인증…시장 공략 탄력",
+      "url": "https://n.news.naver.com/mnews/article/001/0016192543"
     },
     {
-      "title": "구윤철 \"2030년까지 청년 일자리 20만 개 창출‥공공임대 우선 배정\"",
-      "url": "https://n.news.naver.com/mnews/article/214/0001511343"
+      "title": "\"불붙어도 차단\"…삼성SDI, 세계 최초 UPS 배터리 대형 화재 테스트 통과",
+      "url": "https://n.news.naver.com/mnews/article/003/0014064568"
     },
     {
-      "title": "구미시 \"오뚜기라면 품고 라면도시 위상 높인다\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005385306"
+      "title": "현대차 이어 한국GM도 15일부터 4시간씩 부분파업",
+      "url": "https://n.news.naver.com/mnews/article/015/0005309952"
     },
     {
-      "title": "\"지각비 냈어요\"…6월 팔린 아파트 절반 이상이 '상승 거래'",
-      "url": "https://n.news.naver.com/mnews/article/008/0005385155"
+      "title": "레버리지ETF 대책 고심 … 예탁금 상향 등 논의",
+      "url": "https://n.news.naver.com/mnews/article/009/0005707569"
     },
     {
-      "title": "현대차 노조, 사흘간 부분파업 돌입…2년 연속 생산 차질",
-      "url": "https://n.news.naver.com/mnews/article/092/0002430334"
+      "title": "정부, 전세사기 위험진단 서비스 민간 플랫폼에도 연계하기로",
+      "url": "https://n.news.naver.com/mnews/article/214/0001511518"
     },
     {
-      "title": "홈플러스 “운영자금 고갈”…오늘부터 전국 대형마트 휴업",
-      "url": "https://n.news.naver.com/mnews/article/020/0003733443"
+      "title": "무협, '민간 통상교섭·AI 무역 플랫폼·메가 MICE'…“3대 과제로 미래 100년 준비”",
+      "url": "https://n.news.naver.com/mnews/article/030/0003447789"
     },
     {
-      "title": "“과거 사이클과 다른 장기 호황”… 한은, 반도체 고점론 일축",
-      "url": "https://n.news.naver.com/mnews/article/005/0001860741"
+      "title": "'만나자' 할 땐 언제고 당일되니 취소‥MBK·홈플 노조 면담 불발",
+      "url": "https://n.news.naver.com/mnews/article/214/0001511529"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012216589"
+      "title": "미 6월 CPI '깜짝 둔화'…전월 0.4%↓·근원물가 보합(종합)",
+      "url": "https://n.news.naver.com/mnews/article/018/0006330301"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7475.94,
+      "value": 6806.93,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 837.43,
+      "value": 799.36,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25873.18,
-      "change": -408.43,
-      "change_pct": -1.55
+      "value": 26107.01,
+      "change": 233.83,
+      "change_pct": 0.9
     },
     "usdkrw": {
-      "value": 1497.02,
-      "change": -8.89,
-      "change_pct": -0.59
+      "value": 1488.24,
+      "change": -10.24,
+      "change_pct": -0.68
     }
   },
   "gold": {
-    "price_usd": 4008.7,
-    "price_krw": 6001104,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4058.3,
+    "price_krw": 6039724,
+    "change": 61.3,
+    "change_pct": 1.53
   },
-  "updated": "2026-07-14 06:41",
+  "updated": "2026-07-15 06:42",
   "error": null
 }
