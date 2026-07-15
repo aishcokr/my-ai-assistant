@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "‘호남 반도체 84% 반대’ 삼전 노조에 노동부 “교섭 대상 아냐”",
-      "url": "https://n.news.naver.com/mnews/article/028/0002814060"
+      "title": "가계부채 엄격관리 유지…KB식 한도 축소에 \"타 은행은 고려 안해\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000885319"
     },
     {
-      "title": "민간 도심항공교통(UAM) 기체 첫 공개…‘K-UAM 비행 쇼케이스’ 개최",
-      "url": "https://n.news.naver.com/mnews/article/056/0012217624"
+      "title": "한국은행, 오늘 기준금리 인상 유력…집값·환율에 칼 빼드나",
+      "url": "https://n.news.naver.com/mnews/article/005/0001861297"
     },
     {
-      "title": "현대로템 K2 전차, 국내 첫 나토 인증…시장 공략 탄력",
-      "url": "https://n.news.naver.com/mnews/article/001/0016192543"
+      "title": "신한은행, ‘신한SOL클러스터 전남광주’ 개소",
+      "url": "https://n.news.naver.com/mnews/article/032/0003458333"
     },
     {
-      "title": "\"불붙어도 차단\"…삼성SDI, 세계 최초 UPS 배터리 대형 화재 테스트 통과",
-      "url": "https://n.news.naver.com/mnews/article/003/0014064568"
+      "title": "인텔, 6000억 차세대 ASML 장비 첫 투입…AI칩 공정경쟁 승부수",
+      "url": "https://n.news.naver.com/mnews/article/421/0009061713"
     },
     {
-      "title": "현대차 이어 한국GM도 15일부터 4시간씩 부분파업",
-      "url": "https://n.news.naver.com/mnews/article/015/0005309952"
+      "title": "GS안전관리 AI에이전트 ‘AIR’…   레드닷 어워드서 본상 2개 수상",
+      "url": "https://n.news.naver.com/mnews/article/021/0002804898"
     },
     {
-      "title": "레버리지ETF 대책 고심 … 예탁금 상향 등 논의",
-      "url": "https://n.news.naver.com/mnews/article/009/0005707569"
+      "title": "국민성장펀드 200조로 확대… 우주항공에도 투자",
+      "url": "https://n.news.naver.com/mnews/article/366/0001179314"
     },
     {
-      "title": "정부, 전세사기 위험진단 서비스 민간 플랫폼에도 연계하기로",
-      "url": "https://n.news.naver.com/mnews/article/214/0001511518"
+      "title": "한화, 임시주총서 테크·라이프 부문 인적분할… 3세 승계구도 마무리",
+      "url": "https://n.news.naver.com/mnews/article/469/0000942473"
     },
     {
-      "title": "무협, '민간 통상교섭·AI 무역 플랫폼·메가 MICE'…“3대 과제로 미래 100년 준비”",
-      "url": "https://n.news.naver.com/mnews/article/030/0003447789"
+      "title": "'아파트 대체재' 서울 오피스텔 전셋값 폭등…평균 월세 94만원",
+      "url": "https://n.news.naver.com/mnews/article/422/0000885371"
     },
     {
-      "title": "'만나자' 할 땐 언제고 당일되니 취소‥MBK·홈플 노조 면담 불발",
-      "url": "https://n.news.naver.com/mnews/article/214/0001511529"
+      "title": "전세계 흔드는 삼전닉스 레버리지…외신도 ‘경고등’ 켰다",
+      "url": "https://n.news.naver.com/mnews/article/119/0003111725"
     },
     {
-      "title": "미 6월 CPI '깜짝 둔화'…전월 0.4%↓·근원물가 보합(종합)",
-      "url": "https://n.news.naver.com/mnews/article/018/0006330301"
+      "title": "\"일자리 안정자금 부활시켜 소상공인 숨통 틔워야\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006331128"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6806.93,
+      "value": 6856.83,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 799.36,
+      "value": 783.98,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26107.01,
-      "change": 233.83,
-      "change_pct": 0.9
+      "value": 26269.23,
+      "change": 162.22,
+      "change_pct": 0.62
     },
     "usdkrw": {
-      "value": 1488.24,
-      "change": -10.24,
-      "change_pct": -0.68
+      "value": 1486.04,
+      "change": -11.66,
+      "change_pct": -0.78
     }
   },
   "gold": {
-    "price_usd": 4058.3,
-    "price_krw": 6039724,
-    "change": 61.3,
-    "change_pct": 1.53
+    "price_usd": 4066.9,
+    "price_krw": 6043575,
+    "change": 5.8,
+    "change_pct": 0.14
   },
-  "updated": "2026-07-15 06:42",
+  "updated": "2026-07-16 06:44",
   "error": null
 }
