@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "\"2000억 들어와도 불안\"…홈플러스 직원들 웃지 못하는 까닭 [현장+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005311168"
-    },
-    {
-      "title": "“왜 고정형으로 안 했을까”···영끌·빚투족 비상, 금리 0.5%p 오르면 연이자 60만원↑",
-      "url": "https://n.news.naver.com/mnews/article/032/0003458735"
-    },
-    {
-      "title": "현대차 노조, 추가 파업 예고…\"하루 8시간 부분 파업\"",
-      "url": "https://n.news.naver.com/mnews/article/448/0000627549"
-    },
-    {
-      "title": "집중호우 최대 300㎜ 예보…농식품부, 연휴 비상대응 돌입",
-      "url": "https://n.news.naver.com/mnews/article/016/0002671631"
-    },
-    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000886051"
+      "url": "https://n.news.naver.com/mnews/article/448/0000627579"
     },
     {
-      "title": "‘피자부터 게임·화학까지’…무신사, 경계 없는 ‘이색 협업’ 눈길",
-      "url": "https://n.news.naver.com/mnews/article/009/0005708753"
+      "title": "'세계 꼴찌 수익률' 추락한 코스닥…증권가 \"'바텀피싱' 기회 있다\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009066238"
     },
     {
-      "title": "최태원 “하닉 주식, 샀다 팔았다 말고 갖고 계시라…우상향할 것”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003538281"
+      "title": "애플, 엔비디아 제치고 장중 글로벌 시총 1위 탈환",
+      "url": "https://n.news.naver.com/mnews/article/001/0016200909"
     },
     {
-      "title": "한 달 새 7조 몰린 ‘삼전닉스’ 레버리지… 보완대책 약발 먹힐까",
-      "url": "https://n.news.naver.com/mnews/article/081/0003662099"
+      "title": "스페이스X, 상장 후 첫 '스타십' 비행 연기⋯발사 직전 중단",
+      "url": "https://n.news.naver.com/mnews/article/031/0001042968"
     },
     {
-      "title": "보호무역에 대응…韓, 중견국 협의체 'FIT-P' 가입",
-      "url": "https://n.news.naver.com/mnews/article/015/0005311120"
+      "title": "주유소 기름값 내림세 둔화…미·이란 충돌에 국제유가 다시 들썩",
+      "url": "https://n.news.naver.com/mnews/article/586/0000134012"
     },
     {
-      "title": "“8월에 또 오를 수도”···긴축 고삐 죄는 한은, 다시 ‘고금리 예금’ 시대 막 오르나[경제뭔데]",
-      "url": "https://n.news.naver.com/mnews/article/032/0003458812"
+      "title": "하정우 “초과세수로 청년세대 투자…지능 수출국 돼야”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004642688"
+    },
+    {
+      "title": "‘마스가의 거침없는 진격’…한화 필리조선소, ‘美 골든돔’ 지원",
+      "url": "https://n.news.naver.com/mnews/article/016/0002671693"
+    },
+    {
+      "title": "세종시, 삼성에 국가산단 추가 투자 요청…원형지 개발 제안",
+      "url": "https://n.news.naver.com/mnews/article/656/0000181760"
+    },
+    {
+      "title": "'SK하닉 ADR을 담아라'…국내 11개 액티브 ETF에 편입",
+      "url": "https://n.news.naver.com/mnews/article/001/0016201476"
+    },
+    {
+      "title": "박홍근 \"반도체 호황 쉽게 꺾이지 않을 것…미래대응기금, 청년에 우선 투자\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000522318"
     }
   ],
   "stocks": {
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4023.0,
-    "price_krw": 5984051,
-    "change": 37.4,
-    "change_pct": 0.94
+    "price_usd": 4012.7,
+    "price_krw": 5968730,
+    "change": 27.1,
+    "change_pct": 0.68
   },
-  "updated": "2026-07-18 06:37",
+  "updated": "2026-07-19 06:37",
   "error": null
 }
