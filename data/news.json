@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "대형 화재인데 출근하라니…쿠팡 노조 “사측, 안전보다 로켓배송이 먼저”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005709277"
+      "title": "현대차 노조, 이번엔 사흘간 4시간 부분파업",
+      "url": "https://n.news.naver.com/mnews/article/020/0003735200"
     },
     {
-      "title": "현대차노조, 올해 네 번째 부분파업 돌입…22일까지 파업",
-      "url": "https://n.news.naver.com/mnews/article/448/0000628020"
+      "title": "7월 1~20일 수출 549억 달러…반도체 180%↑",
+      "url": "https://n.news.naver.com/mnews/article/081/0003662872"
     },
     {
-      "title": "\"이런 말씀 죄송, 레버리지 투자 말아야\"…운용사 대표의 이례적 메시지",
-      "url": "https://n.news.naver.com/mnews/article/001/0016204683"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000502194"
     },
     {
-      "title": "‘상위 1%’ 서울아파트 사려면 최소 46억5000만원",
-      "url": "https://n.news.naver.com/mnews/article/011/0004643261"
+      "title": "코오롱 TG-C마저…잇따른 악재에 K-바이오 '곡소리' 커진다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005388665"
     },
     {
-      "title": "2.4조에서 1.2조로…쪼그라든 한화솔루션 유상증자",
-      "url": "https://n.news.naver.com/mnews/article/050/0000108755"
+      "title": "“건설경기 회복 견인”…LH, 민간참여사업 금용지원 설명회 개최",
+      "url": "https://n.news.naver.com/mnews/article/009/0005710130"
     },
     {
-      "title": "홈플러스 본사 부지, 아파트로 개발…제이알리츠의 ‘플랜B’",
-      "url": "https://n.news.naver.com/mnews/article/015/0005311568"
+      "title": "카카오뱅크 노조, 임금 교섭 결렬로 31일 전일 파업",
+      "url": "https://n.news.naver.com/mnews/article/014/0005550727"
     },
     {
-      "title": "골든돔이 연 美 군함 시장…한화 필리조선소 존재감 커진다",
-      "url": "https://n.news.naver.com/mnews/article/003/0014075470"
+      "title": "\"'삼전닉스 수요 지속…키미3 훨씬 많은 메모리 요구\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000522708"
     },
     {
-      "title": "\"기대 컸는데\" 美3상 고배마신 인보사…운명은?",
-      "url": "https://n.news.naver.com/mnews/article/003/0014077158"
+      "title": "부광약품, 상반기 매출 첫 1000억 돌파…영업익은 전년비 감소",
+      "url": "https://n.news.naver.com/mnews/article/629/0000517828"
     },
     {
-      "title": "[속보] 코스닥 이어 코스피도 매도 사이드카…장중 4% 급락",
-      "url": "https://n.news.naver.com/mnews/article/016/0002672306"
+      "title": "원·엔 환율 900원대…하이닉스 효과에 1년8개월 만에 최저",
+      "url": "https://n.news.naver.com/mnews/article/025/0003539088"
     },
     {
-      "title": "\"필라테스 이용자 10%, 휴폐업에 돈 떼여\"…'2주 전 고지' 명시",
-      "url": "https://n.news.naver.com/mnews/article/001/0016203421"
+      "title": "삼성전자, 노태문 직속 ‘RX사업추진실’ 신설…휴머노이드·자율공장 속도",
+      "url": "https://n.news.naver.com/mnews/article/277/0005792524"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6820.6,
+      "value": 6516.27,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 791.84,
+      "value": 749.64,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25508.07,
-      "change": -12.17,
-      "change_pct": -0.05
+      "value": 25837.21,
+      "change": 329.14,
+      "change_pct": 1.29
     },
     "usdkrw": {
-      "value": 1475.45,
-      "change": -3.4,
-      "change_pct": -0.23
+      "value": 1479.79,
+      "change": -7.6,
+      "change_pct": -0.51
     }
   },
   "gold": {
-    "price_usd": 4011.8,
-    "price_krw": 5919210,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4082.2,
+    "price_krw": 6040798,
+    "change": 71.9,
+    "change_pct": 1.79
   },
-  "updated": "2026-07-21 06:53",
+  "updated": "2026-07-22 06:50",
   "error": null
 }
