@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "현대차 노조, 이번엔 사흘간 4시간 부분파업",
-      "url": "https://n.news.naver.com/mnews/article/020/0003735200"
+      "title": "디스플레이가 로봇을 만났다…‘피지컬 AI’로 채운 K-디스플레이[현장]",
+      "url": "https://n.news.naver.com/mnews/article/029/0003038250"
     },
     {
-      "title": "7월 1~20일 수출 549억 달러…반도체 180%↑",
-      "url": "https://n.news.naver.com/mnews/article/081/0003662872"
+      "title": "포항시, 국내 첫 민관협력 첨단제조 인큐베이팅센터 개소",
+      "url": "https://n.news.naver.com/mnews/article/079/0004170996"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000502194"
+      "title": "용인 반도체 산단 전력 11년 앞당긴다…용수도 2029년 공급 목표",
+      "url": "https://n.news.naver.com/mnews/article/421/0009072700"
     },
     {
-      "title": "코오롱 TG-C마저…잇따른 악재에 K-바이오 '곡소리' 커진다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005388665"
+      "title": "부유해진 가계, 인당 2억7475만원···국부는 증가세 '멈칫'",
+      "url": "https://n.news.naver.com/mnews/article/014/0005551253"
     },
     {
-      "title": "“건설경기 회복 견인”…LH, 민간참여사업 금용지원 설명회 개최",
-      "url": "https://n.news.naver.com/mnews/article/009/0005710130"
+      "title": "LG디스플레이, 작년 상반기 부진 딛고 올해는 흑자로 전환",
+      "url": "https://n.news.naver.com/mnews/article/079/0004170759"
     },
     {
-      "title": "카카오뱅크 노조, 임금 교섭 결렬로 31일 전일 파업",
-      "url": "https://n.news.naver.com/mnews/article/014/0005550727"
+      "title": "‘주택대출 풀로 땡겼는데, 어쩌나?’…주담대 금리 곧 ‘8% 시대’ 오나",
+      "url": "https://n.news.naver.com/mnews/article/021/0002806064"
     },
     {
-      "title": "\"'삼전닉스 수요 지속…키미3 훨씬 많은 메모리 요구\"",
-      "url": "https://n.news.naver.com/mnews/article/374/0000522708"
+      "title": "한국GM 노사, 임단협 잠정 합의↑기본급 9.2만원↑·성과급 1500만원",
+      "url": "https://n.news.naver.com/mnews/article/277/0005793293"
     },
     {
-      "title": "부광약품, 상반기 매출 첫 1000억 돌파…영업익은 전년비 감소",
-      "url": "https://n.news.naver.com/mnews/article/629/0000517828"
+      "title": "삼성바이오에피스, 인투셀과 ADC 신약 본계약 체결",
+      "url": "https://n.news.naver.com/mnews/article/009/0005710834"
     },
     {
-      "title": "원·엔 환율 900원대…하이닉스 효과에 1년8개월 만에 최저",
-      "url": "https://n.news.naver.com/mnews/article/025/0003539088"
+      "title": "관세청, 상반기 마약류 적발 역대 최대",
+      "url": "https://n.news.naver.com/mnews/article/016/0002673485"
     },
     {
-      "title": "삼성전자, 노태문 직속 ‘RX사업추진실’ 신설…휴머노이드·자율공장 속도",
-      "url": "https://n.news.naver.com/mnews/article/277/0005792524"
+      "title": "대통령 세종집무실 건축설계 착수…2029년 8월 입주 목표",
+      "url": "https://n.news.naver.com/mnews/article/016/0002673581"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6516.27,
+      "value": 6747.95,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 749.64,
+      "value": 753.34,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25837.21,
-      "change": 329.14,
-      "change_pct": 1.29
+      "value": 25690.9,
+      "change": -146.31,
+      "change_pct": -0.57
     },
     "usdkrw": {
-      "value": 1479.79,
-      "change": -7.6,
-      "change_pct": -0.51
+      "value": 1476.54,
+      "change": 1.53,
+      "change_pct": 0.1
     }
   },
   "gold": {
-    "price_usd": 4082.2,
-    "price_krw": 6040798,
-    "change": 71.9,
-    "change_pct": 1.79
+    "price_usd": 4135.0,
+    "price_krw": 6105492,
+    "change": 63.9,
+    "change_pct": 1.57
   },
-  "updated": "2026-07-22 06:50",
+  "updated": "2026-07-23 06:54",
   "error": null
 }
