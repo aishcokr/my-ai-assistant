@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "디스플레이가 로봇을 만났다…‘피지컬 AI’로 채운 K-디스플레이[현장]",
-      "url": "https://n.news.naver.com/mnews/article/029/0003038250"
+      "title": "삼성바이오, 하반기 新공장 효과로 '가이던스 상단' 자신",
+      "url": "https://n.news.naver.com/mnews/article/030/0003450300"
     },
     {
-      "title": "포항시, 국내 첫 민관협력 첨단제조 인큐베이팅센터 개소",
-      "url": "https://n.news.naver.com/mnews/article/079/0004170996"
+      "title": "원통형 배터리 모방…LG엔솔, 중국 업체 소송",
+      "url": "https://n.news.naver.com/mnews/article/025/0003539761"
     },
     {
-      "title": "용인 반도체 산단 전력 11년 앞당긴다…용수도 2029년 공급 목표",
-      "url": "https://n.news.naver.com/mnews/article/421/0009072700"
+      "title": "쌍용·삼표·한라 한자리에…강원 시멘트 상생협약 체결",
+      "url": "https://n.news.naver.com/mnews/article/014/0005552143"
     },
     {
-      "title": "부유해진 가계, 인당 2억7475만원···국부는 증가세 '멈칫'",
-      "url": "https://n.news.naver.com/mnews/article/014/0005551253"
+      "title": "OCI홀딩스, 2Q 흑자전환…태양광 밸류체인 증설로 호실적 이어간다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005390142"
     },
     {
-      "title": "LG디스플레이, 작년 상반기 부진 딛고 올해는 흑자로 전환",
-      "url": "https://n.news.naver.com/mnews/article/079/0004170759"
+      "title": "현대카드, 상반기 순이익 1852억원… 전년比 11.9% 증가",
+      "url": "https://n.news.naver.com/mnews/article/366/0001181425"
     },
     {
-      "title": "‘주택대출 풀로 땡겼는데, 어쩌나?’…주담대 금리 곧 ‘8% 시대’ 오나",
-      "url": "https://n.news.naver.com/mnews/article/021/0002806064"
+      "title": "현대차, 2분기 '역대 최대' 매출에도 영업이익 20.8% 감소(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016210998"
     },
     {
-      "title": "한국GM 노사, 임단협 잠정 합의↑기본급 9.2만원↑·성과급 1500만원",
-      "url": "https://n.news.naver.com/mnews/article/277/0005793293"
+      "title": "국외여행 ‘카드 비번 노출 주의보’…“타인 정상입력 땐 보상 안 돼”",
+      "url": "https://n.news.naver.com/mnews/article/028/0002815402"
     },
     {
-      "title": "삼성바이오에피스, 인투셀과 ADC 신약 본계약 체결",
-      "url": "https://n.news.naver.com/mnews/article/009/0005710834"
+      "title": "박현주 \"미래에셋 새 일원 코빗, Digital X로 새출발\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016211337"
     },
     {
-      "title": "관세청, 상반기 마약류 적발 역대 최대",
-      "url": "https://n.news.naver.com/mnews/article/016/0002673485"
+      "title": "닻 올린 韓美 마스가 30여 곳이 업무협약",
+      "url": "https://n.news.naver.com/mnews/article/023/0003989367"
     },
     {
-      "title": "대통령 세종집무실 건축설계 착수…2029년 8월 입주 목표",
-      "url": "https://n.news.naver.com/mnews/article/016/0002673581"
+      "title": "이 대통령 “초고가·투기용에 보유세 차등”",
+      "url": "https://n.news.naver.com/mnews/article/032/0003460100"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6747.95,
+      "value": 6797.7,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 753.34,
+      "value": 751.09,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25690.9,
-      "change": -146.31,
-      "change_pct": -0.57
+      "value": 25137.69,
+      "change": -553.21,
+      "change_pct": -2.15
     },
     "usdkrw": {
-      "value": 1476.54,
-      "change": 1.53,
-      "change_pct": 0.1
+      "value": 1474.13,
+      "change": -5.59,
+      "change_pct": -0.38
     }
   },
   "gold": {
-    "price_usd": 4135.0,
-    "price_krw": 6105492,
-    "change": 63.9,
-    "change_pct": 1.57
+    "price_usd": 4052.3,
+    "price_krw": 5973617,
+    "change": -94.6,
+    "change_pct": -2.28
   },
-  "updated": "2026-07-23 06:54",
+  "updated": "2026-07-24 06:51",
   "error": null
 }
