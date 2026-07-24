@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼성바이오, 하반기 新공장 효과로 '가이던스 상단' 자신",
-      "url": "https://n.news.naver.com/mnews/article/030/0003450300"
+      "title": "농심·뚜레쥬르·던킨, 일부 제품 가격 인상…“원가 부담”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012224446"
     },
     {
-      "title": "원통형 배터리 모방…LG엔솔, 중국 업체 소송",
-      "url": "https://n.news.naver.com/mnews/article/025/0003539761"
+      "title": "'단일종목 레버리지 예탁금 3천만 원' 31일부터 시행",
+      "url": "https://n.news.naver.com/mnews/article/055/0001375066"
     },
     {
-      "title": "쌍용·삼표·한라 한자리에…강원 시멘트 상생협약 체결",
-      "url": "https://n.news.naver.com/mnews/article/014/0005552143"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000523517"
     },
     {
-      "title": "OCI홀딩스, 2Q 흑자전환…태양광 밸류체인 증설로 호실적 이어간다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005390142"
+      "title": "소비자원 “결혼 중개 서비스 피해 매년 늘어”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012224477"
     },
     {
-      "title": "현대카드, 상반기 순이익 1852억원… 전년比 11.9% 증가",
-      "url": "https://n.news.naver.com/mnews/article/366/0001181425"
+      "title": "한미 조선협력센터 찾은 러트닉 “말만 하는건 아무 의미 없어” 압박",
+      "url": "https://n.news.naver.com/mnews/article/020/0003736414"
     },
     {
-      "title": "현대차, 2분기 '역대 최대' 매출에도 영업이익 20.8% 감소(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016210998"
+      "title": "기아 \"유럽서 中업체 단기 대응 위해 인센티브 확대…장기적인 전략 아냐\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005390553"
     },
     {
-      "title": "국외여행 ‘카드 비번 노출 주의보’…“타인 정상입력 땐 보상 안 돼”",
-      "url": "https://n.news.naver.com/mnews/article/028/0002815402"
+      "title": "쿠팡, 인천 물류센터 화재 피해 주민 진료비·약값, 청소·세차비 지원",
+      "url": "https://n.news.naver.com/mnews/article/469/0000944159"
     },
     {
-      "title": "박현주 \"미래에셋 새 일원 코빗, Digital X로 새출발\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016211337"
+      "title": "최태원, 美서 젠슨 황과 만찬…내일 李대통령 행사 함께 참석",
+      "url": "https://n.news.naver.com/mnews/article/020/0003736326"
     },
     {
-      "title": "닻 올린 韓美 마스가 30여 곳이 업무협약",
-      "url": "https://n.news.naver.com/mnews/article/023/0003989367"
+      "title": "유가 상승에 증시 충격…코스피·코스닥 5%대 하락 마감",
+      "url": "https://n.news.naver.com/mnews/article/056/0012224604"
     },
     {
-      "title": "이 대통령 “초고가·투기용에 보유세 차등”",
-      "url": "https://n.news.naver.com/mnews/article/032/0003460100"
+      "title": "우리금융 2분기 순이익 1조46억원, 7.4%↑…역대 두 번째(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016213580"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6797.7,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 751.09,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 25137.69,
-      "change": -553.21,
-      "change_pct": -2.15
+      "value": 24975.82,
+      "change": -161.87,
+      "change_pct": -0.64
     },
     "usdkrw": {
-      "value": 1474.13,
-      "change": -5.59,
-      "change_pct": -0.38
+      "value": 1459.42,
+      "change": -16.21,
+      "change_pct": -1.1
     }
   },
   "gold": {
-    "price_usd": 4052.3,
-    "price_krw": 5973617,
-    "change": -94.6,
-    "change_pct": -2.28
+    "price_usd": 4055.7,
+    "price_krw": 5918969,
+    "change": 9.1,
+    "change_pct": 0.22
   },
-  "updated": "2026-07-24 06:51",
+  "updated": "2026-07-25 06:51",
   "error": null
 }
