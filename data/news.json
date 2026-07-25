@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "농심·뚜레쥬르·던킨, 일부 제품 가격 인상…“원가 부담”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012224446"
+      "title": "K로봇, AI와 방산으로 확장…두산·현대로템, 차세대 시장 '정조준'[로봇 전쟁③]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014087835"
     },
     {
-      "title": "'단일종목 레버리지 예탁금 3천만 원' 31일부터 시행",
-      "url": "https://n.news.naver.com/mnews/article/055/0001375066"
+      "title": "삼성전자, 브로드컴과 AI 반도체 동맹‥5년간 2천억 달러",
+      "url": "https://n.news.naver.com/mnews/article/214/0001513877"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000523517"
+      "title": "휘발유 15%·경유 25%↓…유류세 인하 9월 말까지 연장",
+      "url": "https://n.news.naver.com/mnews/article/022/0004145754"
     },
     {
-      "title": "소비자원 “결혼 중개 서비스 피해 매년 늘어”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012224477"
+      "title": "이재용·정의선·이해진, 엔비디아 본사 찾아 젠슨 황과 회동",
+      "url": "https://n.news.naver.com/mnews/article/018/0006336718"
     },
     {
-      "title": "한미 조선협력센터 찾은 러트닉 “말만 하는건 아무 의미 없어” 압박",
-      "url": "https://n.news.naver.com/mnews/article/020/0003736414"
+      "title": "정의선 회장 \" 글로벌 최고 수준 휴머노이드 상용화 시점 앞당길 것\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005390863"
     },
     {
-      "title": "기아 \"유럽서 中업체 단기 대응 위해 인센티브 확대…장기적인 전략 아냐\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005390553"
+      "title": "李가 겨눈 초고가 ‘똘똘한 한 채’… “보유세 올려도 수요 안 줄어”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001181895"
     },
     {
-      "title": "쿠팡, 인천 물류센터 화재 피해 주민 진료비·약값, 청소·세차비 지원",
-      "url": "https://n.news.naver.com/mnews/article/469/0000944159"
+      "title": "“공제 줄이고 특례 없애야”…부동산 토론회 전날 나온 국회 ‘보유세 보고서’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005712155"
     },
     {
-      "title": "최태원, 美서 젠슨 황과 만찬…내일 李대통령 행사 함께 참석",
-      "url": "https://n.news.naver.com/mnews/article/020/0003736326"
+      "title": "이재용, 이 대통령 자서전 언급하며 “AI 세대 더 큰 꿈 이루도록 노력”",
+      "url": "https://n.news.naver.com/mnews/article/028/0002815703"
     },
     {
-      "title": "유가 상승에 증시 충격…코스피·코스닥 5%대 하락 마감",
-      "url": "https://n.news.naver.com/mnews/article/056/0012224604"
+      "title": "규합위, '대주주 적격성' 개선권고…두나무·네이버 '숨통'",
+      "url": "https://n.news.naver.com/mnews/article/001/0016213884"
     },
     {
-      "title": "우리금융 2분기 순이익 1조46억원, 7.4%↑…역대 두 번째(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016213580"
+      "title": "\"널뛰는 증시, 오히려 좋아\"…요즘 투자자들 몰린 곳 [ETF언박싱]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006336769"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6690.62,
+      "change": -406.27,
+      "change_pct": -5.72
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 748.22,
+      "change": -42.06,
+      "change_pct": -5.32
     },
     "nasdaq": {
       "value": 24975.82,
@@ -58,17 +58,17 @@
       "change_pct": -0.64
     },
     "usdkrw": {
-      "value": 1459.42,
-      "change": -16.21,
-      "change_pct": -1.1
+      "value": 1462.1,
+      "change": -11.94,
+      "change_pct": -0.81
     }
   },
   "gold": {
-    "price_usd": 4055.7,
-    "price_krw": 5918969,
-    "change": 9.1,
-    "change_pct": 0.22
+    "price_usd": 4067.6,
+    "price_krw": 5947238,
+    "change": 21.0,
+    "change_pct": 0.52
   },
-  "updated": "2026-07-25 06:51",
+  "updated": "2026-07-26 06:40",
   "error": null
 }
