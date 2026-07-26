@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "K로봇, AI와 방산으로 확장…두산·현대로템, 차세대 시장 '정조준'[로봇 전쟁③]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014087835"
+      "title": "“같이 경험하고, 성장하자” 현정은 현대그룹 회장, 신입사원 수료식서 ‘소통·신뢰’ 가치 강조",
+      "url": "https://n.news.naver.com/mnews/article/016/0002675066"
     },
     {
-      "title": "삼성전자, 브로드컴과 AI 반도체 동맹‥5년간 2천억 달러",
-      "url": "https://n.news.naver.com/mnews/article/214/0001513877"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/025/0003540163"
     },
     {
-      "title": "휘발유 15%·경유 25%↓…유류세 인하 9월 말까지 연장",
-      "url": "https://n.news.naver.com/mnews/article/022/0004145754"
+      "title": "자동차 내수 3년 만에 170만대 돌파 전망…친환경차, 내연기관 역전",
+      "url": "https://n.news.naver.com/mnews/article/029/0003038882"
     },
     {
-      "title": "이재용·정의선·이해진, 엔비디아 본사 찾아 젠슨 황과 회동",
-      "url": "https://n.news.naver.com/mnews/article/018/0006336718"
+      "title": "정의선의 승부수는 피지컬 AI…자동차 넘어 도시 운영까지 [리더의 나침반]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004145885"
     },
     {
-      "title": "정의선 회장 \" 글로벌 최고 수준 휴머노이드 상용화 시점 앞당길 것\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005390863"
+      "title": "부산 안강식당, 대전 전주복집 등 백년가게 간판 단다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004645385"
     },
     {
-      "title": "李가 겨눈 초고가 ‘똘똘한 한 채’… “보유세 올려도 수요 안 줄어”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001181895"
+      "title": "100만원 결혼 세액공제, 보조금으로 직접 준다",
+      "url": "https://n.news.naver.com/mnews/article/023/0003989644"
     },
     {
-      "title": "“공제 줄이고 특례 없애야”…부동산 토론회 전날 나온 국회 ‘보유세 보고서’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005712155"
+      "title": "과표 20억 넘는 초고가 1주택 작년 종부세 461억원 공제…153%↑",
+      "url": "https://n.news.naver.com/mnews/article/001/0016214644"
     },
     {
-      "title": "이재용, 이 대통령 자서전 언급하며 “AI 세대 더 큰 꿈 이루도록 노력”",
-      "url": "https://n.news.naver.com/mnews/article/028/0002815703"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000889025"
     },
     {
-      "title": "규합위, '대주주 적격성' 개선권고…두나무·네이버 '숨통'",
-      "url": "https://n.news.naver.com/mnews/article/001/0016213884"
+      "title": "중동 변수에 숨죽인 증시…AI 실적 시즌이 가른다 [주간 증시 전망]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005552879"
     },
     {
-      "title": "\"널뛰는 증시, 오히려 좋아\"…요즘 투자자들 몰린 곳 [ETF언박싱]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006336769"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012225315"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.64
     },
     "usdkrw": {
-      "value": 1462.1,
-      "change": -11.94,
-      "change_pct": -0.81
+      "value": 1459.42,
+      "change": -14.62,
+      "change_pct": -0.99
     }
   },
   "gold": {
-    "price_usd": 4067.6,
-    "price_krw": 5947238,
-    "change": 21.0,
-    "change_pct": 0.52
+    "price_usd": 4070.8,
+    "price_krw": 5941007,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-07-26 06:40",
+  "updated": "2026-07-27 06:44",
   "error": null
 }
