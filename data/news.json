@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "“같이 경험하고, 성장하자” 현정은 현대그룹 회장, 신입사원 수료식서 ‘소통·신뢰’ 가치 강조",
-      "url": "https://n.news.naver.com/mnews/article/016/0002675066"
+      "title": "한화오션 2분기 영업익 7361억원, 전년比 98% 증가",
+      "url": "https://n.news.naver.com/mnews/article/023/0003989841"
+    },
+    {
+      "title": "'잇단 중대재해' HD현대중공업, 사흘간 전 사업장 '안전 셧다운'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009081553"
+    },
+    {
+      "title": "중국도 주목한 한국 원전 부품… 두산에너빌리티, 라이양 5·6호기 단조품 수주",
+      "url": "https://n.news.naver.com/mnews/article/020/0003736724"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/025/0003540163"
+      "url": "https://n.news.naver.com/mnews/article/422/0000889085"
     },
     {
-      "title": "자동차 내수 3년 만에 170만대 돌파 전망…친환경차, 내연기관 역전",
-      "url": "https://n.news.naver.com/mnews/article/029/0003038882"
+      "title": "CXMT 목표가, 노무라 “116위안” 모닝스타 “14.90위안”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012225734"
     },
     {
-      "title": "정의선의 승부수는 피지컬 AI…자동차 넘어 도시 운영까지 [리더의 나침반]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004145885"
+      "title": "LG전자, 액체냉각 솔루션 국내 첫 엔비디아 인증",
+      "url": "https://n.news.naver.com/mnews/article/015/0005314321"
     },
     {
-      "title": "부산 안강식당, 대전 전주복집 등 백년가게 간판 단다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004645385"
+      "title": "\"보유세 높이고 양도세 낮춰야\"…부동산 세제 국민 제안 봇물(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009081838"
     },
     {
-      "title": "100만원 결혼 세액공제, 보조금으로 직접 준다",
-      "url": "https://n.news.naver.com/mnews/article/023/0003989644"
+      "title": "iM금융, 상반기 순이익 2956억원…자사주 300억원 추가 소각",
+      "url": "https://n.news.naver.com/mnews/article/008/0005391579"
     },
     {
-      "title": "과표 20억 넘는 초고가 1주택 작년 종부세 461억원 공제…153%↑",
-      "url": "https://n.news.naver.com/mnews/article/001/0016214644"
+      "title": "국토장관 “필요하면 그린벨트 푼다”…비아파트 공급 승부수",
+      "url": "https://n.news.naver.com/mnews/article/016/0002675826"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000889025"
-    },
-    {
-      "title": "중동 변수에 숨죽인 증시…AI 실적 시즌이 가른다 [주간 증시 전망]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005552879"
-    },
-    {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012225315"
+      "title": "“단골 많은 사장님은 인정해줘야”…매출 적어도 소상공인 대출 OK",
+      "url": "https://n.news.naver.com/mnews/article/009/0005713025"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6690.62,
-      "change": -406.27,
-      "change_pct": -5.72
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 748.22,
-      "change": -42.06,
-      "change_pct": -5.32
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24975.82,
-      "change": -161.87,
-      "change_pct": -0.64
+      "value": 24932.08,
+      "change": -43.74,
+      "change_pct": -0.18
     },
     "usdkrw": {
-      "value": 1459.42,
-      "change": -14.62,
-      "change_pct": -0.99
+      "value": 1465.79,
+      "change": -8.25,
+      "change_pct": -0.56
     }
   },
   "gold": {
-    "price_usd": 4070.8,
-    "price_krw": 5941007,
+    "price_usd": 4078.6,
+    "price_krw": 5978371,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-07-27 06:44",
+  "updated": "2026-07-28 06:54",
   "error": null
 }
