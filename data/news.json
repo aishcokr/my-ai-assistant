@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "한화오션 2분기 영업익 7361억원, 전년比 98% 증가",
-      "url": "https://n.news.naver.com/mnews/article/023/0003989841"
+      "title": "원·엔 환율 800원대 日여행 환전 언제하는 게 좋을까",
+      "url": "https://n.news.naver.com/mnews/article/018/0006338551"
     },
     {
-      "title": "'잇단 중대재해' HD현대중공업, 사흘간 전 사업장 '안전 셧다운'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009081553"
+      "title": "경기지역 7월 소비자심리지수 106.7…소폭 하락",
+      "url": "https://n.news.naver.com/mnews/article/003/0014093129"
     },
     {
-      "title": "중국도 주목한 한국 원전 부품… 두산에너빌리티, 라이양 5·6호기 단조품 수주",
-      "url": "https://n.news.naver.com/mnews/article/020/0003736724"
+      "title": "HD현대일렉트릭, 2분기 영업익 2870억원…전년 대비 37.3%↑",
+      "url": "https://n.news.naver.com/mnews/article/008/0005392071"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000889085"
+      "title": "금리 공포 현실화… ‘지금 싼’ 변동형 금리로 몰린다",
+      "url": "https://n.news.naver.com/mnews/article/005/0001863694"
     },
     {
-      "title": "CXMT 목표가, 노무라 “116위안” 모닝스타 “14.90위안”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012225734"
+      "title": "코스피, 10.8% 폭락 마감...장중 한때 6000 붕괴",
+      "url": "https://n.news.naver.com/mnews/article/023/0003990049"
     },
     {
-      "title": "LG전자, 액체냉각 솔루션 국내 첫 엔비디아 인증",
-      "url": "https://n.news.naver.com/mnews/article/015/0005314321"
+      "title": "화웨이 그림자 짙은 中 DUV 자립…실체는 '아이성나'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006338627"
     },
     {
-      "title": "\"보유세 높이고 양도세 낮춰야\"…부동산 세제 국민 제안 봇물(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009081838"
+      "title": "[단독] 북경한미, 1000억 매출채권 손실 가능성…황상연 리더십 시험대 [시그널]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004646236"
     },
     {
-      "title": "iM금융, 상반기 순이익 2956억원…자사주 300억원 추가 소각",
-      "url": "https://n.news.naver.com/mnews/article/008/0005391579"
+      "title": "‘개미 계좌가 반토막이 났다’…15조원 산 단일 레버리지 상장가 대비 절반 이하로 추락",
+      "url": "https://n.news.naver.com/mnews/article/021/0002807611"
     },
     {
-      "title": "국토장관 “필요하면 그린벨트 푼다”…비아파트 공급 승부수",
-      "url": "https://n.news.naver.com/mnews/article/016/0002675826"
+      "title": "금융위, 금융업계에 단일종목 레버리지 보완책 신속 이행 협조 당부",
+      "url": "https://n.news.naver.com/mnews/article/214/0001514306"
     },
     {
-      "title": "“단골 많은 사장님은 인정해줘야”…매출 적어도 소상공인 대출 OK",
-      "url": "https://n.news.naver.com/mnews/article/009/0005713025"
+      "title": "생산연령인구 70%선 무너졌다…고령인구는 첫 20% 돌파",
+      "url": "https://n.news.naver.com/mnews/article/277/0005795607"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6690.62,
+      "value": 6755.75,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 748.22,
+      "value": 764.86,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24932.08,
-      "change": -43.74,
-      "change_pct": -0.18
+      "value": 24876.91,
+      "change": -55.17,
+      "change_pct": -0.22
     },
     "usdkrw": {
-      "value": 1465.79,
-      "change": -8.25,
-      "change_pct": -0.56
+      "value": 1453.62,
+      "change": -4.39,
+      "change_pct": -0.3
     }
   },
   "gold": {
-    "price_usd": 4078.6,
-    "price_krw": 5978371,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4028.8,
+    "price_krw": 5856344,
+    "change": -45.7,
+    "change_pct": -1.12
   },
-  "updated": "2026-07-28 06:54",
+  "updated": "2026-07-29 06:52",
   "error": null
 }
