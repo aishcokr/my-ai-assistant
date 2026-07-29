@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "원·엔 환율 800원대 日여행 환전 언제하는 게 좋을까",
-      "url": "https://n.news.naver.com/mnews/article/018/0006338551"
+      "title": "\"개미 다 죽는다\" 비명 터진 날…사상 초유 이틀 연속 '동반 서킷브레이커'",
+      "url": "https://n.news.naver.com/mnews/article/008/0005392830"
     },
     {
-      "title": "경기지역 7월 소비자심리지수 106.7…소폭 하락",
-      "url": "https://n.news.naver.com/mnews/article/003/0014093129"
+      "title": "LG유플러스, 파주 AI 데이터센터에 1조3000억원 추가 투자",
+      "url": "https://n.news.naver.com/mnews/article/366/0001182965"
     },
     {
-      "title": "HD현대일렉트릭, 2분기 영업익 2870억원…전년 대비 37.3%↑",
-      "url": "https://n.news.naver.com/mnews/article/008/0005392071"
+      "title": "\"P버튼 길게 누르면 차 멈춰\"…'신형 아반떼'로 선보인 현대차 신기술 [영상]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005315206"
     },
     {
-      "title": "금리 공포 현실화… ‘지금 싼’ 변동형 금리로 몰린다",
-      "url": "https://n.news.naver.com/mnews/article/005/0001863694"
+      "title": "성수동 삼표부지에 81층 주상복합...병무청역세권 1233가구 본궤도",
+      "url": "https://n.news.naver.com/mnews/article/014/0005554469"
     },
     {
-      "title": "코스피, 10.8% 폭락 마감...장중 한때 6000 붕괴",
-      "url": "https://n.news.naver.com/mnews/article/023/0003990049"
+      "title": "SK하이닉스, 빅테크 등 10곳과 장기계약…설비투자 40조 후반 ‘증설 속도’",
+      "url": "https://n.news.naver.com/mnews/article/011/0004646585"
     },
     {
-      "title": "화웨이 그림자 짙은 中 DUV 자립…실체는 '아이성나'",
-      "url": "https://n.news.naver.com/mnews/article/018/0006338627"
+      "title": "‘계란값 담합’ 산란계협회 설립허가 취소…출범 3년 만에 해산 위기",
+      "url": "https://n.news.naver.com/mnews/article/011/0004646443"
     },
     {
-      "title": "[단독] 북경한미, 1000억 매출채권 손실 가능성…황상연 리더십 시험대 [시그널]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004646236"
+      "title": "올해 5월까지 출생아 12만명 돌파…7년 만에 최대",
+      "url": "https://n.news.naver.com/mnews/article/277/0005796259"
     },
     {
-      "title": "‘개미 계좌가 반토막이 났다’…15조원 산 단일 레버리지 상장가 대비 절반 이하로 추락",
-      "url": "https://n.news.naver.com/mnews/article/021/0002807611"
+      "title": "구윤철 \"가상자산 과세, 예정대로 내년 시행\"",
+      "url": "https://n.news.naver.com/mnews/article/092/0002432322"
     },
     {
-      "title": "금융위, 금융업계에 단일종목 레버리지 보완책 신속 이행 협조 당부",
-      "url": "https://n.news.naver.com/mnews/article/214/0001514306"
+      "title": "하단~대티, 진해~신호 신설 부울경에 BRT 8곳 달린다",
+      "url": "https://n.news.naver.com/mnews/article/082/0001391884"
     },
     {
-      "title": "생산연령인구 70%선 무너졌다…고령인구는 첫 20% 돌파",
-      "url": "https://n.news.naver.com/mnews/article/277/0005795607"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001376556"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6755.75,
+      "value": 6023.66,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 764.86,
+      "value": 705.85,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24876.91,
-      "change": -55.17,
-      "change_pct": -0.22
+      "value": 24442.94,
+      "change": -433.97,
+      "change_pct": -1.74
     },
     "usdkrw": {
-      "value": 1453.62,
-      "change": -4.39,
-      "change_pct": -0.3
+      "value": 1443.7,
+      "change": -20.74,
+      "change_pct": -1.42
     }
   },
   "gold": {
-    "price_usd": 4028.8,
-    "price_krw": 5856344,
-    "change": -45.7,
-    "change_pct": -1.12
+    "price_usd": 4126.0,
+    "price_krw": 5956706,
+    "change": 89.7,
+    "change_pct": 2.22
   },
-  "updated": "2026-07-29 06:52",
+  "updated": "2026-07-30 06:43",
   "error": null
 }
