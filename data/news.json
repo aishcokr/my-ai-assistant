@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"개미 다 죽는다\" 비명 터진 날…사상 초유 이틀 연속 '동반 서킷브레이커'",
-      "url": "https://n.news.naver.com/mnews/article/008/0005392830"
+      "title": "한화자산운용, 신임 대표에 임동준 전략사업 부사장 내정",
+      "url": "https://n.news.naver.com/mnews/article/469/0000945396"
     },
     {
-      "title": "LG유플러스, 파주 AI 데이터센터에 1조3000억원 추가 투자",
-      "url": "https://n.news.naver.com/mnews/article/366/0001182965"
-    },
-    {
-      "title": "\"P버튼 길게 누르면 차 멈춰\"…'신형 아반떼'로 선보인 현대차 신기술 [영상]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005315206"
-    },
-    {
-      "title": "성수동 삼표부지에 81층 주상복합...병무청역세권 1233가구 본궤도",
-      "url": "https://n.news.naver.com/mnews/article/014/0005554469"
-    },
-    {
-      "title": "SK하이닉스, 빅테크 등 10곳과 장기계약…설비투자 40조 후반 ‘증설 속도’",
-      "url": "https://n.news.naver.com/mnews/article/011/0004646585"
-    },
-    {
-      "title": "‘계란값 담합’ 산란계협회 설립허가 취소…출범 3년 만에 해산 위기",
-      "url": "https://n.news.naver.com/mnews/article/011/0004646443"
-    },
-    {
-      "title": "올해 5월까지 출생아 12만명 돌파…7년 만에 최대",
-      "url": "https://n.news.naver.com/mnews/article/277/0005796259"
-    },
-    {
-      "title": "구윤철 \"가상자산 과세, 예정대로 내년 시행\"",
-      "url": "https://n.news.naver.com/mnews/article/092/0002432322"
-    },
-    {
-      "title": "하단~대티, 진해~신호 신설 부울경에 BRT 8곳 달린다",
-      "url": "https://n.news.naver.com/mnews/article/082/0001391884"
+      "title": "삼성전자 2분기 반도체 영업익 89.2조…완제품은 8천억 적자",
+      "url": "https://n.news.naver.com/mnews/article/056/0012228012"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001376556"
+      "url": "https://n.news.naver.com/mnews/article/056/0012228178"
+    },
+    {
+      "title": "워시 \"목표는 오직 2% 인플레 달성…시장 금리 상승이 긴축 효과\" [Fed워치][질의응답]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005315433"
+    },
+    {
+      "title": "“시간 두면 우상향” 최태원, 하닉 주식 48억어치 첫 매수 [뉴스 투데이]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004147319"
+    },
+    {
+      "title": "내일부터 단일종목 레버리지 예탁금 1천→3천만원",
+      "url": "https://n.news.naver.com/mnews/article/422/0000890690"
+    },
+    {
+      "title": "“명동을 랜드마크로”… 롯데百, 초대형 미디어 파사드로 관광객 잡는다",
+      "url": "https://n.news.naver.com/mnews/article/020/0003737723"
+    },
+    {
+      "title": "분양은 늘었는데…지난달 서울 주택 준공 77.7%↓(06시)",
+      "url": "https://n.news.naver.com/mnews/article/056/0012228751"
+    },
+    {
+      "title": "삼성SDI, 2분기 영업익 2038억…7분기 만에 흑자 전환",
+      "url": "https://n.news.naver.com/mnews/article/020/0003737724"
+    },
+    {
+      "title": "포스코홀딩스 2분기 영업이익 8,200억…이차전지 흑자 전환",
+      "url": "https://n.news.naver.com/mnews/article/422/0000890662"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6023.66,
+      "value": 5663.24,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 705.85,
+      "value": 662.68,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24442.94,
-      "change": -433.97,
-      "change_pct": -1.74
+      "value": 25122.18,
+      "change": 679.24,
+      "change_pct": 2.78
     },
     "usdkrw": {
-      "value": 1443.7,
-      "change": -20.74,
-      "change_pct": -1.42
+      "value": 1421.34,
+      "change": -31.82,
+      "change_pct": -2.19
     }
   },
   "gold": {
-    "price_usd": 4126.0,
-    "price_krw": 5956706,
-    "change": 89.7,
-    "change_pct": 2.22
+    "price_usd": 4162.8,
+    "price_krw": 5916753,
+    "change": 128.1,
+    "change_pct": 3.17
   },
-  "updated": "2026-07-30 06:43",
+  "updated": "2026-07-31 06:55",
   "error": null
 }
