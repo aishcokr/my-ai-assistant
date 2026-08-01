@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "반도체 역사적 반등…SK하이닉스 상한가·삼성전자 27%↑[핫종목](종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009090868"
+      "title": "삼전닉스 레버리지 예탁금 상향, 첫날 거래 급감...외국인은?[ETF워치]",
+      "url": "https://n.news.naver.com/mnews/article/648/0000049425"
+    },
+    {
+      "title": "미국 해군력 재건과 한미 조선협력의 전략적 과제",
+      "url": "https://n.news.naver.com/mnews/article/053/0000060364"
+    },
+    {
+      "title": "“하루 만에 1000P 폭등”…외국인 8.8조 쓸어담고 개미 10조 던졌다 [숫자 뒤의 진실]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004147642"
+    },
+    {
+      "title": "7월 수출 62.8% 늘어난 989억 달러…반도체 수출 179%↑",
+      "url": "https://n.news.naver.com/mnews/article/008/0005394235"
+    },
+    {
+      "title": "'돌 씹힌다' 민원 속출…맥도날드 충주찰옥수수버거 판매 조기 종료",
+      "url": "https://n.news.naver.com/mnews/article/656/0000183010"
+    },
+    {
+      "title": "“실적과 주가 별개인건 美장도 똑같네” 애플, 최대 매출에도 시간외 6% 하락",
+      "url": "https://n.news.naver.com/mnews/article/021/0002808422"
+    },
+    {
+      "title": "두산, SK실트론 2.3조에 인수…반도체 전·후공정 밸류체인 완성",
+      "url": "https://n.news.naver.com/mnews/article/031/0001046505"
     },
     {
       "title": "최태원, 어제 하닉 3620주 줍줍…오늘 14억 수익",
       "url": "https://n.news.naver.com/mnews/article/021/0002808420"
     },
     {
-      "title": "SK, 두산에 SK실트론 매각… 거래금액 2.3조원",
-      "url": "https://n.news.naver.com/mnews/article/020/0003738075"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000504037"
     },
     {
-      "title": "확 쪼그라든 ‘새집 마련의 꿈’···서울 상반기 주택 준공 전년비 반토막, 공급 부족 현실화",
-      "url": "https://n.news.naver.com/mnews/article/032/0003461544"
-    },
-    {
-      "title": "현대건설, 상반기 영업이익 4천427억원…주택 부문 수익성 개선",
-      "url": "https://n.news.naver.com/mnews/article/374/0000524880"
-    },
-    {
-      "title": "“1인당 10만원” 쿠팡 개인정보 유출 배상책임 첫 인정",
-      "url": "https://n.news.naver.com/mnews/article/310/0000138768"
-    },
-    {
-      "title": "일본은행, 기준금리 동결…1% 유지",
-      "url": "https://n.news.naver.com/mnews/article/001/0016226768"
-    },
-    {
-      "title": "한화오션, KDDX 선도함 건조계약...2032년 해군 인도",
-      "url": "https://n.news.naver.com/mnews/article/052/0002387305"
-    },
-    {
-      "title": "현대제철 노사, 임단협 잠정합의…기본급 8만원↑·성과급 300%",
-      "url": "https://n.news.naver.com/mnews/article/119/0003117113"
-    },
-    {
-      "title": "LG AI연구원, 국내 최대 7천500억 파라미터 'K-엑사원 2.0' 공개",
-      "url": "https://n.news.naver.com/mnews/article/001/0016226326"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012229647"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6595.45,
+      "change": 1001.89,
+      "change_pct": 17.91
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 719.76,
+      "change": 74.98,
+      "change_pct": 11.63
     },
     "nasdaq": {
       "value": 25373.85,
@@ -58,17 +58,17 @@
       "change_pct": 1.0
     },
     "usdkrw": {
-      "value": 1442.07,
-      "change": -0.21,
-      "change_pct": -0.01
+      "value": 1436.6,
+      "change": 16.0,
+      "change_pct": 1.13
     }
   },
   "gold": {
-    "price_usd": 4098.6,
-    "price_krw": 5910468,
-    "change": -1.5,
-    "change_pct": -0.04
+    "price_usd": 4049.1,
+    "price_krw": 5816937,
+    "change": -51.0,
+    "change_pct": -1.24
   },
-  "updated": "2026-08-01 06:53",
+  "updated": "2026-08-02 06:43",
   "error": null
 }
