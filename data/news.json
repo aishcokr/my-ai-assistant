@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "삼전닉스 레버리지 예탁금 상향, 첫날 거래 급감...외국인은?[ETF워치]",
-      "url": "https://n.news.naver.com/mnews/article/648/0000049425"
+      "title": "5대 은행 주담대 11개월만에 최대 폭 증가…신용대출·마통도 '빚투'에 들썩",
+      "url": "https://n.news.naver.com/mnews/article/277/0005797621"
     },
     {
-      "title": "미국 해군력 재건과 한미 조선협력의 전략적 과제",
-      "url": "https://n.news.naver.com/mnews/article/053/0000060364"
+      "title": "KTX·SRT 9월 기차표, 5일부터 한 앱서 산다…수서 좌석수 30% 늘려",
+      "url": "https://n.news.naver.com/mnews/article/277/0005797650"
     },
     {
-      "title": "“하루 만에 1000P 폭등”…외국인 8.8조 쓸어담고 개미 10조 던졌다 [숫자 뒤의 진실]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004147642"
+      "title": "SK실트론 품은 두산…최태원 회장 남은 지분 29.4% 매각·현금화 속도 내나",
+      "url": "https://n.news.naver.com/mnews/article/003/0014102857"
     },
     {
-      "title": "7월 수출 62.8% 늘어난 989억 달러…반도체 수출 179%↑",
-      "url": "https://n.news.naver.com/mnews/article/008/0005394235"
+      "title": "1~5월 출생아 15.2% 늘어… 7년만에 출산율 0.9명 기대",
+      "url": "https://n.news.naver.com/mnews/article/020/0003738262"
     },
     {
-      "title": "'돌 씹힌다' 민원 속출…맥도날드 충주찰옥수수버거 판매 조기 종료",
-      "url": "https://n.news.naver.com/mnews/article/656/0000183010"
+      "title": "삼성화재, 국내 민간기업 최초…S&P 신용등급 'AA' 획득했다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005715563"
     },
     {
-      "title": "“실적과 주가 별개인건 美장도 똑같네” 애플, 최대 매출에도 시간외 6% 하락",
-      "url": "https://n.news.naver.com/mnews/article/021/0002808422"
+      "title": "'상한가 폭등' 뒤 엇갈린 승부수…외인·기관은 레버리지, 개인은 인버스로 맞섰다 [증시는 왜]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005555898"
     },
     {
-      "title": "두산, SK실트론 2.3조에 인수…반도체 전·후공정 밸류체인 완성",
-      "url": "https://n.news.naver.com/mnews/article/031/0001046505"
+      "title": "\"서학개미 잡으려다 쫓아낸 격\"…삼전닉스 레버리지의 역설",
+      "url": "https://n.news.naver.com/mnews/article/079/0004174692"
     },
     {
-      "title": "최태원, 어제 하닉 3620주 줍줍…오늘 14억 수익",
-      "url": "https://n.news.naver.com/mnews/article/021/0002808420"
+      "title": "정부, 호르무즈 봉쇄 대비 수급 점검…\"필요시 비축유 스와프\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005316437"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000504037"
+      "title": "LG전자, 제주 히트펌프 보급 사업 1위…“국내 탈탄소 전환 가속화”",
+      "url": "https://n.news.naver.com/mnews/article/030/0003453347"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012229647"
+      "title": "\"8% 적금부터 크루즈 티켓까지\"…하나금융, 청라 이전 기념 이벤트",
+      "url": "https://n.news.naver.com/mnews/article/008/0005394345"
     }
   ],
   "stocks": {
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4049.1,
-    "price_krw": 5816937,
-    "change": -51.0,
-    "change_pct": -1.24
+    "price_usd": 4107.0,
+    "price_krw": 5900116,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-08-02 06:43",
+  "updated": "2026-08-03 06:41",
   "error": null
 }
