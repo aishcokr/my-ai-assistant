@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "5대 은행 주담대 11개월만에 최대 폭 증가…신용대출·마통도 '빚투'에 들썩",
-      "url": "https://n.news.naver.com/mnews/article/277/0005797621"
+      "title": "청년층 월세세액공제액 최대 54만원 늘어난다 [2026 세제 개편안]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004148074"
     },
     {
-      "title": "KTX·SRT 9월 기차표, 5일부터 한 앱서 산다…수서 좌석수 30% 늘려",
-      "url": "https://n.news.naver.com/mnews/article/277/0005797650"
+      "title": "\"10%단체 난립은 브랜드 붕괴\"…프차협회, 공정위 시행령 재검토 촉구",
+      "url": "https://n.news.naver.com/mnews/article/018/0006343281"
     },
     {
-      "title": "SK실트론 품은 두산…최태원 회장 남은 지분 29.4% 매각·현금화 속도 내나",
-      "url": "https://n.news.naver.com/mnews/article/003/0014102857"
+      "title": "모건스탠리 \"9천피 간다…韓증시 36% 더 오를 것\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000525367"
     },
     {
-      "title": "1~5월 출생아 15.2% 늘어… 7년만에 출산율 0.9명 기대",
-      "url": "https://n.news.naver.com/mnews/article/020/0003738262"
+      "title": "‘한국판 IRA’ 국내생산세액공제 신설… 전액 비과세 ‘생산적 금융 ISA’ 발표 [2026 세제 개편안]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004148076"
     },
     {
-      "title": "삼성화재, 국내 민간기업 최초…S&P 신용등급 'AA' 획득했다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005715563"
+      "title": "한국판 IRA 내년 도입…반도체·2차전지 등 생산 세액공제",
+      "url": "https://n.news.naver.com/mnews/article/025/0003542105"
     },
     {
-      "title": "'상한가 폭등' 뒤 엇갈린 승부수…외인·기관은 레버리지, 개인은 인버스로 맞섰다 [증시는 왜]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005555898"
+      "title": "반포자이 84㎡ 1주택 …본인 거주땐 年2764만원, 세주면 3318만원",
+      "url": "https://n.news.naver.com/mnews/article/009/0005716115"
     },
     {
-      "title": "\"서학개미 잡으려다 쫓아낸 격\"…삼전닉스 레버리지의 역설",
-      "url": "https://n.news.naver.com/mnews/article/079/0004174692"
+      "title": "‘20억 차익 양도세’ 2년만 실거주땐 2.3억→3.2억→4억 ‘껑충’",
+      "url": "https://n.news.naver.com/mnews/article/028/0002816994"
     },
     {
-      "title": "정부, 호르무즈 봉쇄 대비 수급 점검…\"필요시 비축유 스와프\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005316437"
+      "title": "中 CXMT, 베이징에 두 번째 D램 공장 추진<로이터>",
+      "url": "https://n.news.naver.com/mnews/article/014/0005556723"
     },
     {
-      "title": "LG전자, 제주 히트펌프 보급 사업 1위…“국내 탈탄소 전환 가속화”",
-      "url": "https://n.news.naver.com/mnews/article/030/0003453347"
+      "title": "주차장·창고·약국 등 가업상속공제서 제외",
+      "url": "https://n.news.naver.com/mnews/article/015/0005316893"
     },
     {
-      "title": "\"8% 적금부터 크루즈 티켓까지\"…하나금융, 청라 이전 기념 이벤트",
-      "url": "https://n.news.naver.com/mnews/article/008/0005394345"
+      "title": "“SK실트론 매각해 SK 순자산가치 5000억 증가…주주환원 여력 확대”",
+      "url": "https://n.news.naver.com/mnews/article/215/0001260911"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6595.45,
-      "change": 1001.89,
-      "change_pct": 17.91
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 719.76,
-      "change": 74.98,
-      "change_pct": 11.63
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25373.85,
-      "change": 251.67,
-      "change_pct": 1.0
+      "value": 25913.9,
+      "change": 540.05,
+      "change_pct": 2.13
     },
     "usdkrw": {
-      "value": 1436.6,
-      "change": 16.0,
-      "change_pct": 1.13
+      "value": 1428.78,
+      "change": 8.18,
+      "change_pct": 0.58
     }
   },
   "gold": {
-    "price_usd": 4107.0,
-    "price_krw": 5900116,
+    "price_usd": 4110.9,
+    "price_krw": 5873571,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-08-03 06:41",
+  "updated": "2026-08-04 06:54",
   "error": null
 }
