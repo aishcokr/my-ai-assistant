@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "청년층 월세세액공제액 최대 54만원 늘어난다 [2026 세제 개편안]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004148074"
+      "title": "스페이스X 첫 성적표, 매출 2배인데...주가는 '뚝'",
+      "url": "https://n.news.naver.com/mnews/article/215/0001261167"
     },
     {
-      "title": "\"10%단체 난립은 브랜드 붕괴\"…프차협회, 공정위 시행령 재검토 촉구",
-      "url": "https://n.news.naver.com/mnews/article/018/0006343281"
+      "title": "강한 성장·높은 근원물가…시장 시선 '연속 인상'으로 이동",
+      "url": "https://n.news.naver.com/mnews/article/018/0006344110"
     },
     {
-      "title": "모건스탠리 \"9천피 간다…韓증시 36% 더 오를 것\"",
-      "url": "https://n.news.naver.com/mnews/article/374/0000525367"
+      "title": "[속보] 쿠팡 2분기 영업손실 8000억…美 증시 상장 이래 최대 적자",
+      "url": "https://n.news.naver.com/mnews/article/002/0002451014"
     },
     {
-      "title": "‘한국판 IRA’ 국내생산세액공제 신설… 전액 비과세 ‘생산적 금융 ISA’ 발표 [2026 세제 개편안]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004148076"
+      "title": "삼성증권, 상반기 순이익 9391억원…전년比 94.4%↑",
+      "url": "https://n.news.naver.com/mnews/article/138/0002236561"
     },
     {
-      "title": "한국판 IRA 내년 도입…반도체·2차전지 등 생산 세액공제",
-      "url": "https://n.news.naver.com/mnews/article/025/0003542105"
+      "title": "오세훈 \"집값 잡겠다며 세금만 올려…결국 서민 부담 커질 것\"",
+      "url": "https://n.news.naver.com/mnews/article/586/0000135205"
     },
     {
-      "title": "반포자이 84㎡ 1주택 …본인 거주땐 年2764만원, 세주면 3318만원",
-      "url": "https://n.news.naver.com/mnews/article/009/0005716115"
+      "title": "예탁금 상향 2거래일만에… 레버리지 거래 12.4조 →1.3조",
+      "url": "https://n.news.naver.com/mnews/article/020/0003738528"
     },
     {
-      "title": "‘20억 차익 양도세’ 2년만 실거주땐 2.3억→3.2억→4억 ‘껑충’",
-      "url": "https://n.news.naver.com/mnews/article/028/0002816994"
+      "title": "HD현대 정기선, 2대주주 된다…父 정몽준 지분 3.54％ 증여받아",
+      "url": "https://n.news.naver.com/mnews/article/016/0002679515"
     },
     {
-      "title": "中 CXMT, 베이징에 두 번째 D램 공장 추진<로이터>",
-      "url": "https://n.news.naver.com/mnews/article/014/0005556723"
+      "title": "마이크론, SK 1%p차 추격… HBM 빅3 경쟁 판세 요동 [짚어봅시다]",
+      "url": "https://n.news.naver.com/mnews/article/029/0003040589"
     },
     {
-      "title": "주차장·창고·약국 등 가업상속공제서 제외",
-      "url": "https://n.news.naver.com/mnews/article/015/0005316893"
+      "title": "국내 판매 전기차 3대 중 1대 중국산…\"국내생산촉진세제 필요\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016233708"
     },
     {
-      "title": "“SK실트론 매각해 SK 순자산가치 5000억 증가…주주환원 여력 확대”",
-      "url": "https://n.news.naver.com/mnews/article/215/0001260911"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000892301"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6595.45,
+      "value": 6257.45,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 719.76,
+      "value": 737.35,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25913.9,
-      "change": 540.05,
-      "change_pct": 2.13
+      "value": 26584.99,
+      "change": 671.09,
+      "change_pct": 2.59
     },
     "usdkrw": {
-      "value": 1428.78,
-      "change": 8.18,
-      "change_pct": 0.58
+      "value": 1429.28,
+      "change": 0.78,
+      "change_pct": 0.05
     }
   },
   "gold": {
-    "price_usd": 4110.9,
-    "price_krw": 5873571,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4134.2,
+    "price_krw": 5908929,
+    "change": 100.5,
+    "change_pct": 2.49
   },
-  "updated": "2026-08-04 06:54",
+  "updated": "2026-08-05 07:00",
   "error": null
 }
