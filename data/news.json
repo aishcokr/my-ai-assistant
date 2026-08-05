@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "스페이스X 첫 성적표, 매출 2배인데...주가는 '뚝'",
-      "url": "https://n.news.naver.com/mnews/article/215/0001261167"
+      "title": "삼성전기·LG이노텍, 나란히 14%↑…삼전닉스보다 강한 '훈풍'",
+      "url": "https://n.news.naver.com/mnews/article/215/0001261271"
     },
     {
-      "title": "강한 성장·높은 근원물가…시장 시선 '연속 인상'으로 이동",
-      "url": "https://n.news.naver.com/mnews/article/018/0006344110"
+      "title": "'깜짝 실적' 스페이스X, 주가 급락…월가는 이렇게 본다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006345418"
     },
     {
-      "title": "[속보] 쿠팡 2분기 영업손실 8000억…美 증시 상장 이래 최대 적자",
-      "url": "https://n.news.naver.com/mnews/article/002/0002451014"
+      "title": "쿠팡, 2분기 8350억 영업손실… 최대 분기 적자",
+      "url": "https://n.news.naver.com/mnews/article/020/0003738988"
     },
     {
-      "title": "삼성증권, 상반기 순이익 9391억원…전년比 94.4%↑",
-      "url": "https://n.news.naver.com/mnews/article/138/0002236561"
-    },
-    {
-      "title": "오세훈 \"집값 잡겠다며 세금만 올려…결국 서민 부담 커질 것\"",
-      "url": "https://n.news.naver.com/mnews/article/586/0000135205"
-    },
-    {
-      "title": "예탁금 상향 2거래일만에… 레버리지 거래 12.4조 →1.3조",
-      "url": "https://n.news.naver.com/mnews/article/020/0003738528"
-    },
-    {
-      "title": "HD현대 정기선, 2대주주 된다…父 정몽준 지분 3.54％ 증여받아",
-      "url": "https://n.news.naver.com/mnews/article/016/0002679515"
-    },
-    {
-      "title": "마이크론, SK 1%p차 추격… HBM 빅3 경쟁 판세 요동 [짚어봅시다]",
-      "url": "https://n.news.naver.com/mnews/article/029/0003040589"
-    },
-    {
-      "title": "국내 판매 전기차 3대 중 1대 중국산…\"국내생산촉진세제 필요\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016233708"
+      "title": "7월 외환보유액 4,279억달러…두 달 연속 증가",
+      "url": "https://n.news.naver.com/mnews/article/422/0000892542"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000892301"
+      "url": "https://n.news.naver.com/mnews/article/052/0002389349"
+    },
+    {
+      "title": "서정진 셀트리온 회장, 글로벌 경영 돌입",
+      "url": "https://n.news.naver.com/mnews/article/081/0003668036"
+    },
+    {
+      "title": "\"LG 가전 최대 700만원 할인\"…폭염에 '역대급 세일' 열린다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005317869"
+    },
+    {
+      "title": "“HBM·낸드 모두 위로 쌓는다” 삼성전자, 차세대 3차원 메모리 공개",
+      "url": "https://n.news.naver.com/mnews/article/016/0002679731"
+    },
+    {
+      "title": "내년 최저임금 1만700원 확정…올해보다 380원 인상",
+      "url": "https://n.news.naver.com/mnews/article/057/0001962079"
+    },
+    {
+      "title": "폭염에 제주 최대전력수요 1186.3㎿ 역대 최고…예비율 36.6%",
+      "url": "https://n.news.naver.com/mnews/article/421/0009097926"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6257.45,
+      "value": 6358.95,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 737.35,
+      "value": 780.72,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26584.99,
-      "change": 671.09,
-      "change_pct": 2.59
+      "value": 26363.44,
+      "change": -221.55,
+      "change_pct": -0.83
     },
     "usdkrw": {
-      "value": 1429.28,
-      "change": 0.78,
-      "change_pct": 0.05
+      "value": 1421.72,
+      "change": -6.78,
+      "change_pct": -0.47
     }
   },
   "gold": {
-    "price_usd": 4134.2,
-    "price_krw": 5908929,
-    "change": 100.5,
-    "change_pct": 2.49
+    "price_usd": 4308.0,
+    "price_krw": 6124769,
+    "change": 212.6,
+    "change_pct": 5.19
   },
-  "updated": "2026-08-05 07:00",
+  "updated": "2026-08-06 07:01",
   "error": null
 }
