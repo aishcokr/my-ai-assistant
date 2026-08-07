@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼성전기·LG이노텍, 나란히 14%↑…삼전닉스보다 강한 '훈풍'",
-      "url": "https://n.news.naver.com/mnews/article/215/0001261271"
-    },
-    {
-      "title": "'깜짝 실적' 스페이스X, 주가 급락…월가는 이렇게 본다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006345418"
-    },
-    {
-      "title": "쿠팡, 2분기 8350억 영업손실… 최대 분기 적자",
-      "url": "https://n.news.naver.com/mnews/article/020/0003738988"
-    },
-    {
-      "title": "7월 외환보유액 4,279억달러…두 달 연속 증가",
-      "url": "https://n.news.naver.com/mnews/article/422/0000892542"
-    },
-    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002389349"
+      "url": "https://n.news.naver.com/mnews/article/374/0000526123"
     },
     {
-      "title": "서정진 셀트리온 회장, 글로벌 경영 돌입",
-      "url": "https://n.news.naver.com/mnews/article/081/0003668036"
+      "title": "LH사장 \"보상인력 늘려 주택공급 속도…강남사옥도 주택부지로\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016237971"
     },
     {
-      "title": "\"LG 가전 최대 700만원 할인\"…폭염에 '역대급 세일' 열린다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005317869"
+      "title": "CJ온스타일, 서울시와 K라이프스타일 브랜드 키운다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005799644"
     },
     {
-      "title": "“HBM·낸드 모두 위로 쌓는다” 삼성전자, 차세대 3차원 메모리 공개",
-      "url": "https://n.news.naver.com/mnews/article/016/0002679731"
+      "title": "닛케이 “美, 원화환율 개입 관측 배경엔 對韓 무역적자 확대 우려”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002680484"
     },
     {
-      "title": "내년 최저임금 1만700원 확정…올해보다 380원 인상",
-      "url": "https://n.news.naver.com/mnews/article/057/0001962079"
+      "title": "삼성전자 차세대 메모리, 'FMS 2026'서 2개 부문 수상…기술력 입증",
+      "url": "https://n.news.naver.com/mnews/article/277/0005799543"
     },
     {
-      "title": "폭염에 제주 최대전력수요 1186.3㎿ 역대 최고…예비율 36.6%",
-      "url": "https://n.news.naver.com/mnews/article/421/0009097926"
+      "title": "‘호남 반도체 주52시간’ 두고, 노동장관·산업장관 충돌",
+      "url": "https://n.news.naver.com/mnews/article/023/0003991762"
+    },
+    {
+      "title": "[속보] 경상수지, 또 신기록···수출은 사상 첫 1000억달러 돌파",
+      "url": "https://n.news.naver.com/mnews/article/014/0005557891"
+    },
+    {
+      "title": "'몸값 오른'  中 CXMT, 애플 가격 인하 요구 거부",
+      "url": "https://n.news.naver.com/mnews/article/018/0006346485"
+    },
+    {
+      "title": "“국고채 시장 조성이 담합?”…15조 과징금 예고에 금융사 ‘발칵’",
+      "url": "https://n.news.naver.com/mnews/article/011/0004649230"
+    },
+    {
+      "title": "BGF리테일, 2분기 영업이익 22% 증가…차별화 상품·외국인 증가 영향",
+      "url": "https://n.news.naver.com/mnews/article/374/0000526061"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6358.95,
+      "value": 6281.38,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 780.72,
+      "value": 802.99,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26363.44,
-      "change": -221.55,
-      "change_pct": -0.83
+      "value": 26348.35,
+      "change": -15.09,
+      "change_pct": -0.06
     },
     "usdkrw": {
-      "value": 1421.72,
-      "change": -6.78,
-      "change_pct": -0.47
+      "value": 1421.48,
+      "change": 0.32,
+      "change_pct": 0.02
     }
   },
   "gold": {
-    "price_usd": 4308.0,
-    "price_krw": 6124769,
-    "change": 212.6,
-    "change_pct": 5.19
+    "price_usd": 4290.5,
+    "price_krw": 6098859,
+    "change": 44.7,
+    "change_pct": 1.05
   },
-  "updated": "2026-08-06 07:01",
+  "updated": "2026-08-07 09:59",
   "error": null
 }
