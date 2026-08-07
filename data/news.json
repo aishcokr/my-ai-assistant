@@ -1,74 +1,74 @@
 {
   "news": [
     {
+      "title": "SK하이닉스, 용인·청주에 54조 투자 확정",
+      "url": "https://n.news.naver.com/mnews/article/015/0005318545"
+    },
+    {
+      "title": "SK하이닉스, 2733억원 분기배당⋯추가 주주환원안 3분기 발표",
+      "url": "https://n.news.naver.com/mnews/article/031/0001048119"
+    },
+    {
+      "title": "KDB생명 본입찰, 한화·흥국·한투 3파전…삼성·교보 '불참'",
+      "url": "https://n.news.naver.com/mnews/article/277/0005800403"
+    },
+    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000526123"
+      "url": "https://n.news.naver.com/mnews/article/056/0012233802"
     },
     {
-      "title": "LH사장 \"보상인력 늘려 주택공급 속도…강남사옥도 주택부지로\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016237971"
+      "title": "\"장사합니다\"…25일 만에 문 연 홈플러스, 생존할까 [영상]",
+      "url": "https://n.news.naver.com/mnews/article/666/0000118290"
     },
     {
-      "title": "CJ온스타일, 서울시와 K라이프스타일 브랜드 키운다",
-      "url": "https://n.news.naver.com/mnews/article/277/0005799644"
+      "title": "태양광·반도체·이차전지 국내 생산시 2036년까지 세액공제(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016238955"
     },
     {
-      "title": "닛케이 “美, 원화환율 개입 관측 배경엔 對韓 무역적자 확대 우려”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002680484"
+      "title": "서울시 “주택 부족은 박원순 공급 억제 때문...  재개발·재건축이 답\"",
+      "url": "https://n.news.naver.com/mnews/article/023/0003991826"
     },
     {
-      "title": "삼성전자 차세대 메모리, 'FMS 2026'서 2개 부문 수상…기술력 입증",
-      "url": "https://n.news.naver.com/mnews/article/277/0005799543"
+      "title": "교촌에프앤비, 2분기 매출 전년比 4.9%↑…원가 부담에 수익성 ‘아쉬움’",
+      "url": "https://n.news.naver.com/mnews/article/020/0003739353"
     },
     {
-      "title": "‘호남 반도체 주52시간’ 두고, 노동장관·산업장관 충돌",
-      "url": "https://n.news.naver.com/mnews/article/023/0003991762"
+      "title": "GS리테일 2분기 영업이익 27.5% 늘어...편의점·슈퍼 체질 개선",
+      "url": "https://n.news.naver.com/mnews/article/009/0005717901"
     },
     {
-      "title": "[속보] 경상수지, 또 신기록···수출은 사상 첫 1000억달러 돌파",
-      "url": "https://n.news.naver.com/mnews/article/014/0005557891"
-    },
-    {
-      "title": "'몸값 오른'  中 CXMT, 애플 가격 인하 요구 거부",
-      "url": "https://n.news.naver.com/mnews/article/018/0006346485"
-    },
-    {
-      "title": "“국고채 시장 조성이 담합?”…15조 과징금 예고에 금융사 ‘발칵’",
-      "url": "https://n.news.naver.com/mnews/article/011/0004649230"
-    },
-    {
-      "title": "BGF리테일, 2분기 영업이익 22% 증가…차별화 상품·외국인 증가 영향",
-      "url": "https://n.news.naver.com/mnews/article/374/0000526061"
+      "title": "농협, 폭염·가뭄 지원 확대…재해자금 3천억 긴급 지원",
+      "url": "https://n.news.naver.com/mnews/article/001/0016239783"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6281.38,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 802.99,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26348.35,
-      "change": -15.09,
-      "change_pct": -0.06
+      "value": 26690.62,
+      "change": 342.27,
+      "change_pct": 1.3
     },
     "usdkrw": {
-      "value": 1421.48,
-      "change": 0.32,
-      "change_pct": 0.02
+      "value": 1407.45,
+      "change": -13.71,
+      "change_pct": -0.96
     }
   },
   "gold": {
-    "price_usd": 4290.5,
-    "price_krw": 6098859,
-    "change": 44.7,
-    "change_pct": 1.05
+    "price_usd": 4401.3,
+    "price_krw": 6194609,
+    "change": 159.3,
+    "change_pct": 3.76
   },
-  "updated": "2026-08-07 09:59",
+  "updated": "2026-08-08 06:25",
   "error": null
 }
