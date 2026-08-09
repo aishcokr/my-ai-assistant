@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012233825"
+      "title": "1600원 코앞이더니 1300원?…환율 변동성 금융위기 이후 '최대'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005318804"
     },
     {
-      "title": "\"매일 원전 1기 더 돌려야\"…역대급 폭염에 전력 사용량 급증",
-      "url": "https://n.news.naver.com/mnews/article/421/0009103340"
+      "title": "블룸버그 \"한국증시 변동성 일단락 가능성\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002390852"
     },
     {
-      "title": "빅테크 깜짝 호실적…서학개미, 다시 아마존·마이크론으로",
-      "url": "https://n.news.naver.com/mnews/article/057/0001962664"
+      "title": "전세대출금리·기준금리 차, 3년 반 만에 최대",
+      "url": "https://n.news.naver.com/mnews/article/025/0003543235"
     },
     {
-      "title": "\"반도체 근원 경쟁력 회복 신호탄\"…삼성, 3D HBM 승부수 [강경주의 테크X]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005318708"
+      "title": "\"다주택자 매물 출회 걸림돌\"…12월 종료되는 토허제 실거주 유예 연장될까",
+      "url": "https://n.news.naver.com/mnews/article/277/0005800562"
     },
     {
-      "title": "거래대금 15분의 1 급감…ETF 비중도 6분의 1토막[레버리지 그후①]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014115286"
+      "title": "한경협 “창업팀 100개 육성”…투자·대기업 사업연계 지원",
+      "url": "https://n.news.naver.com/mnews/article/011/0004649965"
     },
     {
-      "title": "\"이틀 새 15% 빠지네\"… SK하이닉스 추가 하락 가능성은",
-      "url": "https://n.news.naver.com/mnews/article/003/0014115080"
+      "title": "에어컨 없이 버티기 힘든 폭염에…전력수요 또 역대 5위 경신",
+      "url": "https://n.news.naver.com/mnews/article/022/0004149477"
     },
     {
-      "title": "거래소 “삼전닉스 레버리지 ETF 예비심사기간 13일…대표지수형보다 길어”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004649718"
+      "title": "잔금·청년·신혼부부 '실수요'는 가계대출 총량서 제외 검토",
+      "url": "https://n.news.naver.com/mnews/article/421/0009103772"
     },
     {
-      "title": "일곱 번째 KDB생명 매각…관건은 산은 증자 규모",
-      "url": "https://n.news.naver.com/mnews/article/011/0004649783"
+      "title": "9년 된 상품도 ‘신상품’...입점 장려금 챙긴 농협하나로유통 제재",
+      "url": "https://n.news.naver.com/mnews/article/018/0006347972"
     },
     {
-      "title": "포스코홀딩스, 계열사 인터·DX 지분 일부 매각… 2조5000억원 확보",
-      "url": "https://n.news.naver.com/mnews/article/366/0001184996"
+      "title": "농협, 폭염·가뭄 대응 총력…재해자금 3000억원 긴급 지원",
+      "url": "https://n.news.naver.com/mnews/article/030/0003455386"
     },
     {
-      "title": "똘똘한 아파트의 종언, 하지만…李 대통령 '부동산 양도소득' 저격 後",
-      "url": "https://n.news.naver.com/mnews/hotissue/article/665/0000007908?type=series&cid=2002956"
+      "title": "로봇이 신선식품 척척 담는다…롯데마트의 물류 혁신[르포]",
+      "url": "https://n.news.naver.com/mnews/article/648/0000049652"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 1.3
     },
     "usdkrw": {
-      "value": 1407.45,
-      "change": -13.71,
-      "change_pct": -0.96
+      "value": 1407.78,
+      "change": -14.52,
+      "change_pct": -1.02
     }
   },
   "gold": {
-    "price_usd": 4340.7,
-    "price_krw": 6109318,
-    "change": 98.7,
-    "change_pct": 2.33
+    "price_usd": 4399.7,
+    "price_krw": 6193809,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-08-09 06:15",
+  "updated": "2026-08-10 06:18",
   "error": null
 }
