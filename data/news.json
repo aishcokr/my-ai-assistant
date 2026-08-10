@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "1600원 코앞이더니 1300원?…환율 변동성 금융위기 이후 '최대'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005318804"
+      "title": "코스피·삼전닉스 쉬어가자…코스닥·소외섹터 ‘불기둥’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005719027"
     },
     {
-      "title": "블룸버그 \"한국증시 변동성 일단락 가능성\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002390852"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012235004"
     },
     {
-      "title": "전세대출금리·기준금리 차, 3년 반 만에 최대",
-      "url": "https://n.news.naver.com/mnews/article/025/0003543235"
+      "title": "“온라인 배송도 시동 걸었다”…홈플러스, 회생 속도 붙을까",
+      "url": "https://n.news.naver.com/mnews/article/016/0002681937"
     },
     {
-      "title": "\"다주택자 매물 출회 걸림돌\"…12월 종료되는 토허제 실거주 유예 연장될까",
-      "url": "https://n.news.naver.com/mnews/article/277/0005800562"
+      "title": "청년미래적금 138만5000명 최종 가입",
+      "url": "https://n.news.naver.com/mnews/article/277/0005801176"
     },
     {
-      "title": "한경협 “창업팀 100개 육성”…투자·대기업 사업연계 지원",
-      "url": "https://n.news.naver.com/mnews/article/011/0004649965"
+      "title": "“삼성전자, 주주환원 최대 200조 예상”…KB證 , 목표가 60만원 유지",
+      "url": "https://n.news.naver.com/mnews/article/366/0001185163"
     },
     {
-      "title": "에어컨 없이 버티기 힘든 폭염에…전력수요 또 역대 5위 경신",
-      "url": "https://n.news.naver.com/mnews/article/022/0004149477"
+      "title": "역풍 센 ‘ISA 개편’…장투 혜택 유지로 선회",
+      "url": "https://n.news.naver.com/mnews/article/025/0003543498"
     },
     {
-      "title": "잔금·청년·신혼부부 '실수요'는 가계대출 총량서 제외 검토",
-      "url": "https://n.news.naver.com/mnews/article/421/0009103772"
+      "title": "K-치킨, 미주 공략 확대…멕시코·미국서 잇단 출점",
+      "url": "https://n.news.naver.com/mnews/article/001/0016241858"
     },
     {
-      "title": "9년 된 상품도 ‘신상품’...입점 장려금 챙긴 농협하나로유통 제재",
-      "url": "https://n.news.naver.com/mnews/article/018/0006347972"
+      "title": "새벽 5시부터 ‘대출런’…5년 만에 부활한 대출총량제 공포",
+      "url": "https://n.news.naver.com/mnews/article/025/0003543534"
     },
     {
-      "title": "농협, 폭염·가뭄 대응 총력…재해자금 3000억원 긴급 지원",
-      "url": "https://n.news.naver.com/mnews/article/030/0003455386"
+      "title": "'호카' 전 총판 대표 \"폭행 인정하지만…판권 탈취 기획 의혹\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000894289"
     },
     {
-      "title": "로봇이 신선식품 척척 담는다…롯데마트의 물류 혁신[르포]",
-      "url": "https://n.news.naver.com/mnews/article/648/0000049652"
+      "title": "GS건설, LS일렉과 AI 데이터센터 '직류배전' 협약",
+      "url": "https://n.news.naver.com/mnews/article/031/0001048500"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6258.77,
-      "change": -37.61,
-      "change_pct": -0.6
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 798.81,
-      "change": -2.86,
-      "change_pct": -0.36
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26690.62,
-      "change": 342.27,
-      "change_pct": 1.3
+      "value": 26605.36,
+      "change": -85.26,
+      "change_pct": -0.32
     },
     "usdkrw": {
-      "value": 1407.78,
-      "change": -14.52,
-      "change_pct": -1.02
+      "value": 1417.67,
+      "change": -4.63,
+      "change_pct": -0.33
     }
   },
   "gold": {
-    "price_usd": 4399.7,
-    "price_krw": 6193809,
+    "price_usd": 4448.6,
+    "price_krw": 6306646,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-08-10 06:18",
+  "updated": "2026-08-11 06:28",
   "error": null
 }
