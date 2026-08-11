@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "코스피·삼전닉스 쉬어가자…코스닥·소외섹터 ‘불기둥’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005719027"
+      "title": "로또복권 미수령 당첨금 자동지급 도입 등 제도개선",
+      "url": "https://n.news.naver.com/mnews/article/079/0004177469"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012235004"
+      "url": "https://n.news.naver.com/mnews/article/422/0000894811"
     },
     {
-      "title": "“온라인 배송도 시동 걸었다”…홈플러스, 회생 속도 붙을까",
-      "url": "https://n.news.naver.com/mnews/article/016/0002681937"
+      "title": "삼성SDI, GM 합작사 지분 전량 인수…美 배터리 공장 단독 운영",
+      "url": "https://n.news.naver.com/mnews/article/020/0003740079"
     },
     {
-      "title": "청년미래적금 138만5000명 최종 가입",
-      "url": "https://n.news.naver.com/mnews/article/277/0005801176"
+      "title": "에코프로, 인도네시아 니켈 제련소 설명회 개최",
+      "url": "https://n.news.naver.com/mnews/article/022/0004150240"
     },
     {
-      "title": "“삼성전자, 주주환원 최대 200조 예상”…KB證 , 목표가 60만원 유지",
-      "url": "https://n.news.naver.com/mnews/article/366/0001185163"
+      "title": "인텔, AI 투자 위해 첫 유증…21조원 실탄 조달(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016244780"
     },
     {
-      "title": "역풍 센 ‘ISA 개편’…장투 혜택 유지로 선회",
-      "url": "https://n.news.naver.com/mnews/article/025/0003543498"
+      "title": "지방 이전설 금융권 '술렁'…국책은행·예보 노조 반대행동 개시",
+      "url": "https://n.news.naver.com/mnews/article/001/0016245484"
     },
     {
-      "title": "K-치킨, 미주 공략 확대…멕시코·미국서 잇단 출점",
-      "url": "https://n.news.naver.com/mnews/article/001/0016241858"
+      "title": "함영주 하나금융 회장, 보훈장관과 현충원 참배",
+      "url": "https://n.news.naver.com/mnews/article/081/0003669596"
     },
     {
-      "title": "새벽 5시부터 ‘대출런’…5년 만에 부활한 대출총량제 공포",
-      "url": "https://n.news.naver.com/mnews/article/025/0003543534"
+      "title": "한화, 필리 이어 美함정 전문 오스탈 인수 타진…핵잠 공급망 진입 겨냥[biz-플러스]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004650824"
     },
     {
-      "title": "'호카' 전 총판 대표 \"폭행 인정하지만…판권 탈취 기획 의혹\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000894289"
+      "title": "2분기 전체 수출액 전년비 57.3% 증가…대기업 수출 81.8% 급증",
+      "url": "https://n.news.naver.com/mnews/article/421/0009107710"
     },
     {
-      "title": "GS건설, LS일렉과 AI 데이터센터 '직류배전' 협약",
-      "url": "https://n.news.naver.com/mnews/article/031/0001048500"
+      "title": "코스맥스, 2분기 매출·영익 사상 최대…美법인 첫 흑자",
+      "url": "https://n.news.naver.com/mnews/article/008/0005398525"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6258.77,
+      "value": 6299.66,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 798.81,
+      "value": 854.47,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26605.36,
-      "change": -85.26,
-      "change_pct": -0.32
+      "value": 26445.45,
+      "change": -159.91,
+      "change_pct": -0.6
     },
     "usdkrw": {
-      "value": 1417.67,
-      "change": -4.63,
-      "change_pct": -0.33
+      "value": 1412.65,
+      "change": 5.65,
+      "change_pct": 0.4
     }
   },
   "gold": {
-    "price_usd": 4448.6,
-    "price_krw": 6306646,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4427.8,
+    "price_krw": 6254931,
+    "change": 66.0,
+    "change_pct": 1.51
   },
-  "updated": "2026-08-11 06:28",
+  "updated": "2026-08-12 06:31",
   "error": null
 }
