@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "로또복권 미수령 당첨금 자동지급 도입 등 제도개선",
-      "url": "https://n.news.naver.com/mnews/article/079/0004177469"
+      "title": "잘 나가는 K뷰티 덕…콜마·코스맥스 2분기 역대급 실적",
+      "url": "https://n.news.naver.com/mnews/article/025/0003543959"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000894811"
+      "title": "동원산업, 2분기 영업익 1515억원… 전년比 13.3% 증가",
+      "url": "https://n.news.naver.com/mnews/article/366/0001185853"
     },
     {
-      "title": "삼성SDI, GM 합작사 지분 전량 인수…美 배터리 공장 단독 운영",
-      "url": "https://n.news.naver.com/mnews/article/020/0003740079"
+      "title": "7월 청년 실업률 6.8%로 전년비 1.3%p 올라… 상승폭 코로나 이후 최대",
+      "url": "https://n.news.naver.com/mnews/article/366/0001185675"
     },
     {
-      "title": "에코프로, 인도네시아 니켈 제련소 설명회 개최",
-      "url": "https://n.news.naver.com/mnews/article/022/0004150240"
+      "title": "SK하이닉스 통합노조 출범 임박…\"성과급 현금 지급 사수\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000894891"
     },
     {
-      "title": "인텔, AI 투자 위해 첫 유증…21조원 실탄 조달(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016244780"
+      "title": "美 7월 소비자물가 3.4% 상승 \"예상 부합\"…근원물가도 둔화",
+      "url": "https://n.news.naver.com/mnews/article/421/0009111050"
     },
     {
-      "title": "지방 이전설 금융권 '술렁'…국책은행·예보 노조 반대행동 개시",
-      "url": "https://n.news.naver.com/mnews/article/001/0016245484"
+      "title": "한화 김승연 회장, 폭염 속 임직원 전원에 사비 30억 보양식 선물",
+      "url": "https://n.news.naver.com/mnews/article/437/0000505835"
     },
     {
-      "title": "함영주 하나금융 회장, 보훈장관과 현충원 참배",
-      "url": "https://n.news.naver.com/mnews/article/081/0003669596"
+      "title": "‘동전주·시총 미달’ 36개 종목, 이르면 10월 퇴출",
+      "url": "https://n.news.naver.com/mnews/article/032/0003463896"
     },
     {
-      "title": "한화, 필리 이어 美함정 전문 오스탈 인수 타진…핵잠 공급망 진입 겨냥[biz-플러스]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004650824"
+      "title": "'재계 저승사자' 칼 빼든 국세청…고액체납 '추적·세무조사' 전담팀 신설",
+      "url": "https://n.news.naver.com/mnews/article/421/0009109634"
     },
     {
-      "title": "2분기 전체 수출액 전년비 57.3% 증가…대기업 수출 81.8% 급증",
-      "url": "https://n.news.naver.com/mnews/article/421/0009107710"
+      "title": "“삼성전자보다 ‘이 기업’이 낫다”…모건스탠리, 최선호주 갈아탔다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005720209"
     },
     {
-      "title": "코스맥스, 2분기 매출·영익 사상 최대…美법인 첫 흑자",
-      "url": "https://n.news.naver.com/mnews/article/008/0005398525"
+      "title": "SK하이닉스 인디애나팹 27일 착공…최태원·젠슨 황 회동하나",
+      "url": "https://n.news.naver.com/mnews/article/025/0003543957"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6299.66,
+      "value": 6345.53,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 854.47,
+      "value": 857.84,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26445.45,
-      "change": -159.91,
-      "change_pct": -0.6
+      "value": 26588.49,
+      "change": 143.04,
+      "change_pct": 0.54
     },
     "usdkrw": {
-      "value": 1412.65,
-      "change": 5.65,
-      "change_pct": 0.4
+      "value": 1416.64,
+      "change": -0.67,
+      "change_pct": -0.05
     }
   },
   "gold": {
-    "price_usd": 4427.8,
-    "price_krw": 6254931,
-    "change": 66.0,
-    "change_pct": 1.51
+    "price_usd": 4469.0,
+    "price_krw": 6330964,
+    "change": 86.0,
+    "change_pct": 1.96
   },
-  "updated": "2026-08-12 06:31",
+  "updated": "2026-08-13 06:31",
   "error": null
 }
