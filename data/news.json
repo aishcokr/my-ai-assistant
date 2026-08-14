@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "가계부채 총량 관리목표 2배로…\"30조로 대출오픈런 해소 기대\"(종합)[8·13대책]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016250427"
+      "title": "현대차그룹, 민·관·군 협력 국군 장병 안전 제고 나선다",
+      "url": "https://n.news.naver.com/mnews/article/629/0000524764"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/449/0000356796"
+      "url": "https://n.news.naver.com/mnews/article/437/0000506302"
     },
     {
-      "title": "150㎢+α 그린벨트 토허 지정…추가 공급 서울시 협의 ‘난관’",
-      "url": "https://n.news.naver.com/mnews/article/025/0003544161"
+      "title": "홈플러스, 재개장 첫날 매출 100억 돌파…방문 고객 17% 증가",
+      "url": "https://n.news.naver.com/mnews/article/056/0012237858"
     },
     {
-      "title": "고려아연 자회사 케이잼, 배터리용 동박 첫 공급…이차전지 소재 신사업 속도",
-      "url": "https://n.news.naver.com/mnews/article/029/0003042327"
+      "title": "\"보너스 쏟아부었는데…\" SK하이닉스 투자한 직장인 '피눈물'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005320940"
     },
     {
-      "title": "정부, '모두의 창업' 지원 규모 2배 늘린다",
-      "url": "https://n.news.naver.com/mnews/article/088/0001023396"
+      "title": "LS, 상반기에만 영업익 1조 돌파",
+      "url": "https://n.news.naver.com/mnews/article/015/0005321105"
     },
     {
-      "title": "국세청, KB국민은행 특별 세무조사 착수…조사4국 투입",
-      "url": "https://n.news.naver.com/mnews/article/030/0003457054"
+      "title": "\"완전 싸다, 내가 좋아하는건데\" 샀다간 큰일…메탄올 '최대 484배 검출'된 위조 향수",
+      "url": "https://n.news.naver.com/mnews/article/277/0005803420"
     },
     {
-      "title": "\"청년들 월세 낼 돈으로 오피스텔 사라\"…2.5억짜리 사면 2억 빌려준다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005399578"
+      "title": "최태원·빌 게이츠 만났다…SK·테라파워, '나트륨 SMR' 사업 본격화",
+      "url": "https://n.news.naver.com/mnews/article/079/0004179022"
     },
     {
-      "title": "서울 아파트 매매가격 상승폭 축소…강남·서초는 하락 반전",
-      "url": "https://n.news.naver.com/mnews/article/056/0012237077"
+      "title": "30조 대출여력 풀면서 집단대출은 '총량 족쇄' 푼다…\"적극 공급\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009114821"
     },
     {
-      "title": "비거주 전세대출 은행이 판단…전문가 “또 다른 불평등 부를 것”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003544362"
+      "title": "\"하닉맨들 통장서 벌써 억 소리 날듯\"…보수 보니 '입이 쩍'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006352104"
     },
     {
-      "title": "\"SK오션플랜트, 2Q 양호…매출인식 공백에 목표가↓\"-DS",
-      "url": "https://n.news.naver.com/mnews/article/008/0005399371"
+      "title": "코스피 6900선 회복 마감… 5거래일째 상승세",
+      "url": "https://n.news.naver.com/mnews/article/082/0001393973"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6579.04,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 858.91,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26803.03,
-      "change": 214.54,
-      "change_pct": 0.81
+      "value": 26729.16,
+      "change": -73.87,
+      "change_pct": -0.28
     },
     "usdkrw": {
-      "value": 1418.25,
-      "change": 6.07,
-      "change_pct": 0.43
+      "value": 1416.48,
+      "change": 0.02,
+      "change_pct": 0.0
     }
   },
   "gold": {
-    "price_usd": 4407.1,
-    "price_krw": 6250369,
-    "change": -1.8,
-    "change_pct": -0.04
+    "price_usd": 4432.0,
+    "price_krw": 6277839,
+    "change": 68.4,
+    "change_pct": 1.57
   },
-  "updated": "2026-08-14 06:31",
+  "updated": "2026-08-15 06:12",
   "error": null
 }
