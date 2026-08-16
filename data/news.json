@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "최태원 회장 \"美에 반도체 공장 구축 검토...메모리 수급난, 전쟁같은 상황\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005561884"
+      "title": "세제개편 반발에… 국회서 1주택 양도세 완화법 잇따라",
+      "url": "https://n.news.naver.com/mnews/article/366/0001186545"
     },
     {
-      "title": "\"대출 여력 30조원\"…대출 풀려도 피 말리는 일반 차주들",
-      "url": "https://n.news.naver.com/mnews/article/119/0003122077"
+      "title": "‘빌라 샀다가 못 팔면 어떡하나’…청년미래보금자리론 ‘갈아타기 족쇄’ 우려",
+      "url": "https://n.news.naver.com/mnews/article/016/0002684453"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000895941"
+      "title": "李대통령 '국토균형발전' 드라이브…'2차 공공기관 이전' 카운트다운",
+      "url": "https://n.news.naver.com/mnews/article/421/0009115985"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012238241"
+      "title": "개발 논란에 역사성 복원 밀려나…“기억의 장소 꼭 담아야”",
+      "url": "https://n.news.naver.com/mnews/article/028/0002818800"
     },
     {
-      "title": "국힘, 통상본부장 전격 직권면직에 “비상식적 국정운영” 비판",
-      "url": "https://n.news.naver.com/mnews/article/016/0002684365"
+      "title": "5대 은행 주택담보대출 여력 7.5조 확대 전망",
+      "url": "https://n.news.naver.com/mnews/article/374/0000527754"
     },
     {
-      "title": "이틀새 9000억 몰렸다…서학개미 쓸어담은 '이 종목'",
-      "url": "https://n.news.naver.com/mnews/article/018/0006352466"
+      "title": "악재 걷힌 삼전닉스...코스피 8500선 회복 가능성도 [주간 증시 전망]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005562158"
     },
     {
-      "title": "박정원 두산 회장 455억원… 상반기 총수 보수 1위 올라",
-      "url": "https://n.news.naver.com/mnews/article/023/0003993140"
+      "title": "포스코인터, 멕시코·미국에도 독립운동 사적지 ‘컬러 강판’ 안내",
+      "url": "https://n.news.naver.com/mnews/article/005/0001867082"
     },
     {
-      "title": "한국씨티은행, 2분기 순이익 1868억…역대 최대",
-      "url": "https://n.news.naver.com/mnews/article/011/0004651953"
+      "title": "방미 김정관 \"대미투자 막판 다양한 쟁점…어떻게든 해결 목표\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016254028"
     },
     {
-      "title": "삼성전기 장덕현 사장, 상반기 보수 6.4억원 수령",
-      "url": "https://n.news.naver.com/mnews/article/018/0006352155"
+      "title": "\"안 팔길 잘했다\"…삼전·닉스, '300조' 역대급 주주환원 기대도",
+      "url": "https://n.news.naver.com/mnews/article/014/0005562068"
     },
     {
-      "title": "\"신혼집 장만할 돈 다 날렸다\"…외신, 韓 개미들 투자 손실 조명",
-      "url": "https://n.news.naver.com/mnews/article/014/0005561933"
+      "title": "지난달 줄어든 청년 취업자 절반 ‘AI 고노출 업종’",
+      "url": "https://n.news.naver.com/mnews/article/022/0004151250"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.28
     },
     "usdkrw": {
-      "value": 1412.0,
-      "change": -4.85,
-      "change_pct": -0.34
+      "value": 1416.48,
+      "change": -0.37,
+      "change_pct": -0.03
     }
   },
   "gold": {
-    "price_usd": 4380.4,
-    "price_krw": 6185124,
-    "change": 16.8,
-    "change_pct": 0.39
+    "price_usd": 4437.3,
+    "price_krw": 6285346,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-08-16 06:08",
+  "updated": "2026-08-17 06:07",
   "error": null
 }
