@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "서울 아파트값 오르자, 연립-다세대주택 거래금액 5조 육박",
-      "url": "https://n.news.naver.com/mnews/article/020/0003741667"
+      "title": "삼성전자, 광주에 2400억 규모 냉난방공조 생산거점 세운다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004652930"
     },
     {
-      "title": "국제업무지구·캠프킴·공원까지 공급 '격전지'된 용산... 김·오 회동서 담판?",
-      "url": "https://n.news.naver.com/mnews/article/469/0000948743"
+      "title": "포스코 마저 창사 후 첫 파업?…\"대화의 문 끝까지 열려\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005401837"
     },
     {
-      "title": "현대건설, 테라파워와 나트륨 원전사업 기본협약 체결",
-      "url": "https://n.news.naver.com/mnews/article/014/0005562787"
+      "title": "금융당국, 은행별 목표치 배분협의 돌입…이달 내 마무리 목표",
+      "url": "https://n.news.naver.com/mnews/article/001/0016259834"
     },
     {
-      "title": "'제2의 푸바오' 될까…에버랜드 아기 판다에 '대국민 이름 투표'",
-      "url": "https://n.news.naver.com/mnews/article/243/0000101809"
+      "title": "LG에너지솔루션, 美 랜싱 공장 본격 가동…북미 ESS 5대 거점 완성",
+      "url": "https://n.news.naver.com/mnews/article/277/0005804414"
     },
     {
-      "title": "재개장한 홈플러스, 닷새간 매출 437억 원 올렸다… 191% 껑충",
-      "url": "https://n.news.naver.com/mnews/article/656/0000184320"
+      "title": "[속보] “이게 얼마만인가”…원달러환율 1300원대로 하락",
+      "url": "https://n.news.naver.com/mnews/article/009/0005722798"
     },
     {
-      "title": "삼양그룹 \"AI 전환·스페셜티 사업 확대\"…상반기 성과 공유",
-      "url": "https://n.news.naver.com/mnews/article/448/0000634185"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002395471"
     },
     {
-      "title": "“빅데이터 공부했더니 AI 등장”…지식업종 청년취업 직격탄",
-      "url": "https://n.news.naver.com/mnews/article/020/0003741611"
+      "title": "3년간 문 닫는 ‘더 플라자’...2029년 7성급 호텔로 돌아온다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005723007"
     },
     {
-      "title": "우리금융, 동양·ABL생명 통합 본격화 외[이코노 브리핑]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004151890"
+      "title": "한화, 미 육군에 K9 자주포 수출…‘K-방산’ 역사 새로 썼다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005722912"
     },
     {
-      "title": "동국제강그룹, 광복절 기부마라톤 '815런' 3년 연속 후원",
-      "url": "https://n.news.naver.com/mnews/article/277/0005803936"
+      "title": "HD현대중공업, 페루 신형 상륙지원함 1번함 ‘침보테함’ 진수",
+      "url": "https://n.news.naver.com/mnews/article/009/0005722839"
     },
     {
-      "title": "기아 EV5, 獨 자동차 전문지 ‘전기 SUV 비교평가’ 1위",
-      "url": "https://n.news.naver.com/mnews/article/020/0003741585"
+      "title": "美재무부, 장기금리 급등 급한불 끈다 …\"국채 바이백 2배로 확대\"",
+      "url": "https://n.news.naver.com/mnews/article/009/0005723222"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6977.94,
+      "value": 6869.83,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 864.65,
+      "value": 834.2,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26289.71,
-      "change": -355.2,
-      "change_pct": -1.33
+      "value": 26331.09,
+      "change": 41.38,
+      "change_pct": 0.16
     },
     "usdkrw": {
-      "value": 1412.6,
-      "change": -2.77,
-      "change_pct": -0.2
+      "value": 1386.43,
+      "change": -28.3,
+      "change_pct": -2.0
     }
   },
   "gold": {
-    "price_usd": 4389.5,
-    "price_krw": 6200607,
-    "change": -28.3,
-    "change_pct": -0.64
+    "price_usd": 4580.7,
+    "price_krw": 6350820,
+    "change": 214.7,
+    "change_pct": 4.92
   },
-  "updated": "2026-08-19 06:10",
+  "updated": "2026-08-20 06:13",
   "error": null
 }
