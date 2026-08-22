@@ -2,55 +2,55 @@
   "news": [
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/057/0001964716"
+      "url": "https://n.news.naver.com/mnews/article/052/0002396519"
     },
     {
-      "title": "두 달 만에 비트코인 1억원 돌파...가상자산 관련주 나란히 급등",
-      "url": "https://n.news.naver.com/mnews/article/014/0005564803"
+      "title": "앤트로픽, 구글 TPU 주역 영입…자체 AI칩 개발 가속",
+      "url": "https://n.news.naver.com/mnews/article/030/0003459422"
     },
     {
-      "title": "김윤덕-오세훈, 용산공원 주택 공급 문제 놓고 평행선 [오늘의 한 컷]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014139251"
+      "title": "휘발유·경유 1800원 중반대…주유소 기름값 14주 연속 ‘하락세’",
+      "url": "https://n.news.naver.com/mnews/article/021/0002812998"
     },
     {
-      "title": "진에어·에어부산·에어서울, 내년 3월 통합 출범",
-      "url": "https://n.news.naver.com/mnews/article/052/0002396436"
+      "title": "레이 달리오 “美 3년내 부채위기…채권 줄이고 금·비트코인 늘려야”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006356030"
     },
     {
-      "title": "삼성전자, 최대 110조 주주환원 '역대 최대'…30조 현금배당(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009126496"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000507314"
     },
     {
-      "title": "‘성과급 100배 차’ 뿔난 삼성 DX노조, 서초사옥서 집회",
-      "url": "https://n.news.naver.com/mnews/article/020/0003742447"
+      "title": "9차 석유최고가격 동결...휘발유 1784원, 경유 1773원",
+      "url": "https://n.news.naver.com/mnews/article/014/0005564797"
     },
     {
-      "title": "두산에너빌리티, 9300억 오만 미스파 가스복합발전소 수주",
-      "url": "https://n.news.naver.com/mnews/article/018/0006355453"
+      "title": "빗장 풀린 집단대출…‘디에이치 방배’서 불붙은 1.5조 확보전",
+      "url": "https://n.news.naver.com/mnews/article/029/0003043572"
     },
     {
-      "title": "삼성SDI, 삼성디스플레이 지분 4.4조 매각…미국 공장 등 투자",
-      "url": "https://n.news.naver.com/mnews/article/417/0001156020"
+      "title": "국힘, '고시원 욕조 허용' 논란에 \"李 정권, 청년 주거문제 희롱\"",
+      "url": "https://n.news.naver.com/mnews/article/586/0000136512"
     },
     {
-      "title": "은행권 '디에이치방배' 잔금대출 한도 확대",
-      "url": "https://n.news.naver.com/mnews/article/015/0005322986"
+      "title": "삼성전자, 최대 110조 '통 큰' 주주환원…10년 평균의 7배(종합)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005805903"
     },
     {
-      "title": "폭락장 버티니 ‘40조 대박’…‘하이닉스 2만원’ 전원주 “다 그냥 있다” [나만없어]",
-      "url": "https://n.news.naver.com/mnews/article/081/0003672310"
+      "title": "한일 재무차관회의 개최…세계경제·금융시장 대응 공조 논의",
+      "url": "https://n.news.naver.com/mnews/article/079/0004181103"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6912.95,
+      "change": 60.37,
+      "change_pct": 0.88
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 801.94,
+      "change": -38.95,
+      "change_pct": -4.63
     },
     "nasdaq": {
       "value": 26180.46,
@@ -58,17 +58,17 @@
       "change_pct": 0.43
     },
     "usdkrw": {
-      "value": 1385.98,
-      "change": -3.42,
-      "change_pct": -0.25
+      "value": 1383.9,
+      "change": -6.89,
+      "change_pct": -0.5
     }
   },
   "gold": {
-    "price_usd": 4661.6,
-    "price_krw": 6460884,
-    "change": 145.3,
-    "change_pct": 3.22
+    "price_usd": 4624.1,
+    "price_krw": 6399292,
+    "change": 107.8,
+    "change_pct": 2.39
   },
-  "updated": "2026-08-22 06:11",
+  "updated": "2026-08-23 06:09",
   "error": null
 }
