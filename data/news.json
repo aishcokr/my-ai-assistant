@@ -1,44 +1,44 @@
 {
   "news": [
     {
+      "title": "현대차그룹, 경남 집중호우 피해 복구 성금 10억 원 ‘쾌척’",
+      "url": "https://n.news.naver.com/mnews/article/021/0002813166"
+    },
+    {
+      "title": "‘K9 자주포’ 앞세운 한화, 미국 법인에 4000억…현지 시장 공략 가속",
+      "url": "https://n.news.naver.com/mnews/article/082/0001394985"
+    },
+    {
+      "title": "현대차 노사 '극적 타결' 물꼬 튼다… 24일 부분파업 일단 '유보'",
+      "url": "https://n.news.naver.com/mnews/article/014/0005565029"
+    },
+    {
+      "title": "\"변동성 장세 지속…엔비디아 실적·잭슨홀 미팅 주목\" [주간전망]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005323550"
+    },
+    {
+      "title": "국세청, ‘법인 슈퍼카’ 세무조사 이어 ‘황제 사택’ 법인주택 정조준",
+      "url": "https://n.news.naver.com/mnews/article/028/0002819705"
+    },
+    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002396519"
+      "url": "https://n.news.naver.com/mnews/article/052/0002397040"
     },
     {
-      "title": "앤트로픽, 구글 TPU 주역 영입…자체 AI칩 개발 가속",
-      "url": "https://n.news.naver.com/mnews/article/030/0003459422"
+      "title": "7월 EU 철강 수출 40% 이상 급감…EU ‘신철강’ 조치 영향 일부 반영",
+      "url": "https://n.news.naver.com/mnews/article/082/0001394947"
     },
     {
-      "title": "휘발유·경유 1800원 중반대…주유소 기름값 14주 연속 ‘하락세’",
-      "url": "https://n.news.naver.com/mnews/article/021/0002812998"
+      "title": "엔비디아도 못 버틴 메모리값...AI 서버가격 인상 예고",
+      "url": "https://n.news.naver.com/mnews/article/374/0000528883"
     },
     {
-      "title": "레이 달리오 “美 3년내 부채위기…채권 줄이고 금·비트코인 늘려야”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006356030"
+      "title": "‘몸값 2조달러’ 앤트로픽 IPO 임박…SKT 웃고 네이버·LG CNS도 기대",
+      "url": "https://n.news.naver.com/mnews/article/003/0014142176"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000507314"
-    },
-    {
-      "title": "9차 석유최고가격 동결...휘발유 1784원, 경유 1773원",
-      "url": "https://n.news.naver.com/mnews/article/014/0005564797"
-    },
-    {
-      "title": "빗장 풀린 집단대출…‘디에이치 방배’서 불붙은 1.5조 확보전",
-      "url": "https://n.news.naver.com/mnews/article/029/0003043572"
-    },
-    {
-      "title": "국힘, '고시원 욕조 허용' 논란에 \"李 정권, 청년 주거문제 희롱\"",
-      "url": "https://n.news.naver.com/mnews/article/586/0000136512"
-    },
-    {
-      "title": "삼성전자, 최대 110조 '통 큰' 주주환원…10년 평균의 7배(종합)",
-      "url": "https://n.news.naver.com/mnews/article/277/0005805903"
-    },
-    {
-      "title": "한일 재무차관회의 개최…세계경제·금융시장 대응 공조 논의",
-      "url": "https://n.news.naver.com/mnews/article/079/0004181103"
+      "title": "“삼성은 달라”…애플 제치고 ‘스마트폰 왕좌’ 되찾나",
+      "url": "https://n.news.naver.com/mnews/article/011/0004654171"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.43
     },
     "usdkrw": {
-      "value": 1383.9,
-      "change": -6.89,
-      "change_pct": -0.5
+      "value": 1385.76,
+      "change": -5.03,
+      "change_pct": -0.36
     }
   },
   "gold": {
-    "price_usd": 4624.1,
-    "price_krw": 6399292,
-    "change": 107.8,
-    "change_pct": 2.39
+    "price_usd": 4680.6,
+    "price_krw": 6486188,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-08-23 06:09",
+  "updated": "2026-08-24 06:08",
   "error": null
 }
