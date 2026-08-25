@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "“관제 탑 공항 밖으로 옮겨서야”…무보 노조, 공공기관 이전 반대",
-      "url": "https://n.news.naver.com/mnews/article/029/0003043967"
+      "title": "인천시, 구월지구 등 노후계획도시 정비 선도지구 6곳 선정…\"1만 6천 호 공급\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001383235"
     },
     {
-      "title": "서울 시민 3명 중 2명 “용산공원 내 공공 주택 반대” [오늘, 특별시]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004153166"
+      "title": "\"7월 배달 플랫폼 4사 결제액 3조2천800억원…역대 최대\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016268561"
     },
     {
-      "title": "\"한국에선 30만원인데 일본에선 7만원\" 한국인들 캐리어 가득 사오더니…불법 직구 기승",
-      "url": "https://n.news.naver.com/mnews/article/277/0005806433"
+      "title": "부산 냉면 첫 1만 2000원… 밖에서도 집에서도 '물가 비명'",
+      "url": "https://n.news.naver.com/mnews/article/082/0001395438"
     },
     {
-      "title": "\"3년 안에 위기 닥친다\"…투자고수가 \"담아라\" 경고한 이유가",
-      "url": "https://n.news.naver.com/mnews/article/215/0001263435"
+      "title": "회사 명의 한남동 200억 주택·청담동 40억 빌라를 회장님 집으로···‘황제사택’ 적발",
+      "url": "https://n.news.naver.com/mnews/article/032/0003466262"
     },
     {
-      "title": "앞으로는 개명 등 개인정보 바뀌어도 금융사 한 곳만 등록하면 모두 반영",
-      "url": "https://n.news.naver.com/mnews/article/214/0001519621"
+      "title": "한국서 겹악재 쿠팡… 환경 닮은 '차기 성장 엔진' 대만에 공들인다",
+      "url": "https://n.news.naver.com/mnews/article/469/0000949839"
     },
     {
-      "title": "'수익 대신 점유율 뺏기'… 가상자산거래소 무한경쟁시대 개막",
-      "url": "https://n.news.naver.com/mnews/article/014/0005565689"
+      "title": "18~59세 연금가입자 2년 연속↓…65세 이상 절반, 50만원 이하 수급",
+      "url": "https://n.news.naver.com/mnews/article/008/0005404336"
     },
     {
-      "title": "삼성전자 -9%↓ 아우성 터졌는데…“600조 풀 수도” 보고서 나왔다 [내가샀다]",
-      "url": "https://n.news.naver.com/mnews/article/081/0003672925"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001383229"
     },
     {
-      "title": "한미약품, 로슈 제넨텍에 비만신약 기술수출…최대 3조2000억 규모",
-      "url": "https://n.news.naver.com/mnews/article/020/0003742917"
+      "title": "\"미래세대 함께 누릴 자산\"… 서울시민 64%, 용산공원 개발 반대",
+      "url": "https://n.news.naver.com/mnews/article/008/0005404044"
     },
     {
-      "title": "‘쉬었음 청년’ 월평균 68만명…한경협 “성장 사다리 복원해야”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004654623"
+      "title": "민주 “종부세 상한 150% 유지하자”…‘200%로 인상’ 정부안 반대",
+      "url": "https://n.news.naver.com/mnews/article/028/0002820079"
     },
     {
-      "title": "박홍근 “내년 세수, 중기재정계획 전망보다 100조 증가 예측”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012243260"
+      "title": "뉴홈 모기지 '당초 조건' 유지…최장 40년·금리 1.9~3.0% 적용",
+      "url": "https://n.news.naver.com/mnews/article/421/0009132036"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6912.95,
+      "value": 6696.96,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 801.94,
+      "value": 813.33,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25980.19,
-      "change": -200.27,
-      "change_pct": -0.76
+      "value": 26151.3,
+      "change": 171.11,
+      "change_pct": 0.66
     },
     "usdkrw": {
-      "value": 1382.73,
-      "change": -8.06,
-      "change_pct": -0.58
+      "value": 1380.0,
+      "change": -4.98,
+      "change_pct": -0.36
     }
   },
   "gold": {
-    "price_usd": 4710.0,
-    "price_krw": 6512658,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4715.9,
+    "price_krw": 6507941,
+    "change": 75.1,
+    "change_pct": 1.62
   },
-  "updated": "2026-08-25 06:16",
+  "updated": "2026-08-26 06:14",
   "error": null
 }
