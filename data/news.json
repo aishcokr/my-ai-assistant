@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "인천시, 구월지구 등 노후계획도시 정비 선도지구 6곳 선정…\"1만 6천 호 공급\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001383235"
+      "title": "이 대통령 만나는 이재용, 메가프로젝트 진전되나…대미 투자 논의도 주목",
+      "url": "https://n.news.naver.com/mnews/article/032/0003466570"
     },
     {
-      "title": "\"7월 배달 플랫폼 4사 결제액 3조2천800억원…역대 최대\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016268561"
-    },
-    {
-      "title": "부산 냉면 첫 1만 2000원… 밖에서도 집에서도 '물가 비명'",
-      "url": "https://n.news.naver.com/mnews/article/082/0001395438"
-    },
-    {
-      "title": "회사 명의 한남동 200억 주택·청담동 40억 빌라를 회장님 집으로···‘황제사택’ 적발",
-      "url": "https://n.news.naver.com/mnews/article/032/0003466262"
-    },
-    {
-      "title": "한국서 겹악재 쿠팡… 환경 닮은 '차기 성장 엔진' 대만에 공들인다",
-      "url": "https://n.news.naver.com/mnews/article/469/0000949839"
-    },
-    {
-      "title": "18~59세 연금가입자 2년 연속↓…65세 이상 절반, 50만원 이하 수급",
-      "url": "https://n.news.naver.com/mnews/article/008/0005404336"
+      "title": "“코인은 10분의 1만 하라”…박현주 미래에셋 회장이 경고한 투자의 함정",
+      "url": "https://n.news.naver.com/mnews/article/009/0005726333"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001383229"
+      "url": "https://n.news.naver.com/mnews/article/052/0002398507"
     },
     {
-      "title": "\"미래세대 함께 누릴 자산\"… 서울시민 64%, 용산공원 개발 반대",
-      "url": "https://n.news.naver.com/mnews/article/008/0005404044"
+      "title": "주담대 금리 4.48%로 상승…2년8개월래 최고",
+      "url": "https://n.news.naver.com/mnews/article/417/0001156455"
     },
     {
-      "title": "민주 “종부세 상한 150% 유지하자”…‘200%로 인상’ 정부안 반대",
-      "url": "https://n.news.naver.com/mnews/article/028/0002820079"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001383687"
     },
     {
-      "title": "뉴홈 모기지 '당초 조건' 유지…최장 40년·금리 1.9~3.0% 적용",
-      "url": "https://n.news.naver.com/mnews/article/421/0009132036"
+      "title": "\"AI칩 얼마나 팔고, HBM 얼마나 살까\"…韓 반도체, 엔비디아 컨콜 메시지 '주목'",
+      "url": "https://n.news.naver.com/mnews/article/003/0014150519"
+    },
+    {
+      "title": "전력 수요 급증에 2040년 재생E 6배로↑…\"유연성 자원 확충부터\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014150553"
+    },
+    {
+      "title": "\"응애~\" 24개월째 커진 아기 울음…6월 출생아 2.3만명, 증가율 역대 최고",
+      "url": "https://n.news.naver.com/mnews/article/421/0009133372"
+    },
+    {
+      "title": "비거주 1주택자 공제, 공시가 12억 유지 가닥",
+      "url": "https://n.news.naver.com/mnews/article/011/0004655469"
+    },
+    {
+      "title": "SK바이오팜, 최대 1조1000억원 투자해 뇌전증 신약 도입",
+      "url": "https://n.news.naver.com/mnews/article/023/0003995015"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6696.96,
+      "value": 6808.21,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 813.33,
+      "value": 826.87,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26151.3,
-      "change": 171.11,
-      "change_pct": 0.66
+      "value": 26130.2,
+      "change": -21.1,
+      "change_pct": -0.08
     },
     "usdkrw": {
-      "value": 1380.0,
-      "change": -4.98,
-      "change_pct": -0.36
+      "value": 1383.95,
+      "change": 2.46,
+      "change_pct": 0.18
     }
   },
   "gold": {
-    "price_usd": 4715.9,
-    "price_krw": 6507941,
-    "change": 75.1,
-    "change_pct": 1.62
+    "price_usd": 4672.8,
+    "price_krw": 6466921,
+    "change": 34.7,
+    "change_pct": 0.75
   },
-  "updated": "2026-08-26 06:14",
+  "updated": "2026-08-27 09:18",
   "error": null
 }
