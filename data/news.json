@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "이 대통령 만나는 이재용, 메가프로젝트 진전되나…대미 투자 논의도 주목",
-      "url": "https://n.news.naver.com/mnews/article/032/0003466570"
+      "title": "국민연금 상반기 수익률 27%…적립금 1866조원 '사상 최대'",
+      "url": "https://n.news.naver.com/mnews/article/138/0002239364"
     },
     {
-      "title": "“코인은 10분의 1만 하라”…박현주 미래에셋 회장이 경고한 투자의 함정",
-      "url": "https://n.news.naver.com/mnews/article/009/0005726333"
+      "title": "서울시 모아주택 1호 첫 준공… 광진구 ‘한양연립’ 내달 입주",
+      "url": "https://n.news.naver.com/mnews/article/366/0001188779"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002398507"
+      "title": "엔비디아 '깜짝 실적'에 기술주 랠리…나스닥 1.57% 상승[뉴욕증시]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005808433"
     },
     {
-      "title": "주담대 금리 4.48%로 상승…2년8개월래 최고",
-      "url": "https://n.news.naver.com/mnews/article/417/0001156455"
+      "title": "20년 이상 장기 연체채권 일괄 소각…취약차주 채무부담 덜어준다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005406048"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001383687"
+      "title": "‘美 HBM 공장’ 첫 삽 뜬 하이닉스 “전력·인재 있는 곳 어디든 추가 투자”",
+      "url": "https://n.news.naver.com/mnews/article/021/0002814642"
     },
     {
-      "title": "\"AI칩 얼마나 팔고, HBM 얼마나 살까\"…韓 반도체, 엔비디아 컨콜 메시지 '주목'",
-      "url": "https://n.news.naver.com/mnews/article/003/0014150519"
+      "title": "에이비엘바이오 파트너사, 림프종 임상 1b상서 완전관해율 100%",
+      "url": "https://n.news.naver.com/mnews/article/011/0004656093"
     },
     {
-      "title": "전력 수요 급증에 2040년 재생E 6배로↑…\"유연성 자원 확충부터\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014150553"
+      "title": "인니 대학에 첫 ‘화장품학과’ 만든 코스맥스…아세안 R&D 인재 키운다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005727075"
     },
     {
-      "title": "\"응애~\" 24개월째 커진 아기 울음…6월 출생아 2.3만명, 증가율 역대 최고",
-      "url": "https://n.news.naver.com/mnews/article/421/0009133372"
+      "title": "삼성바이오, 3조원 유상증자…펩타이드 인수에 투입",
+      "url": "https://n.news.naver.com/mnews/article/005/0001869540"
     },
     {
-      "title": "비거주 1주택자 공제, 공시가 12억 유지 가닥",
-      "url": "https://n.news.naver.com/mnews/article/011/0004655469"
+      "title": "선박용 엔진, 바다 떠나 데이터센터로…HD현대·한화 '엔진 재편' 승부수",
+      "url": "https://n.news.naver.com/mnews/article/018/0006359182"
     },
     {
-      "title": "SK바이오팜, 최대 1조1000억원 투자해 뇌전증 신약 도입",
-      "url": "https://n.news.naver.com/mnews/article/023/0003995015"
+      "title": "“돈쭐내줘야 하나” 아시안게임 국가대표 800명에 특식 제공한 ‘이 기업’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005727111"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6808.21,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 6824.17,
+      "change": -88.2,
+      "change_pct": -1.28
     },
     "kosdaq": {
-      "value": 826.87,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 838.15,
+      "change": 0.5,
+      "change_pct": 0.06
     },
     "nasdaq": {
-      "value": 26130.2,
-      "change": -21.1,
-      "change_pct": -0.08
+      "value": 26541.35,
+      "change": 411.15,
+      "change_pct": 1.57
     },
     "usdkrw": {
-      "value": 1383.95,
-      "change": 2.46,
-      "change_pct": 0.18
+      "value": 1376.15,
+      "change": -7.34,
+      "change_pct": -0.53
     }
   },
   "gold": {
-    "price_usd": 4672.8,
-    "price_krw": 6466921,
-    "change": 34.7,
-    "change_pct": 0.75
+    "price_usd": 4632.1,
+    "price_krw": 6374464,
+    "change": 22.4,
+    "change_pct": 0.49
   },
-  "updated": "2026-08-27 09:18",
+  "updated": "2026-08-28 13:57",
   "error": null
 }
