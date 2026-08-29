@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "비트코인, 워시 연준의장 ‘매파 발언’에 다시 8만달러 아래로",
-      "url": "https://n.news.naver.com/mnews/article/029/0003044888"
+      "title": "G마켓, '트레이더스 당일배송관' 신설…전국 20개 점포서 배송",
+      "url": "https://n.news.naver.com/mnews/article/001/0016278243"
     },
     {
-      "title": "SK하이닉스, '메이드인 USA' HBM 연간 수십만장씩 생산한다",
-      "url": "https://n.news.naver.com/mnews/article/079/0004183350"
+      "title": "[속보] 두산 박정원 회장·박지원 부회장 네팔행…연락 두절 직원 수색 지원",
+      "url": "https://n.news.naver.com/mnews/article/022/0004154682"
     },
     {
-      "title": "조현준 \"동생 조현문·박수환은 법꾸라지…제3자 입 빌려 압박\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/119/0003126761"
+      "title": "K푸드 전진배치 통했다…롯데마트, 인니 도·소매 공략 속도",
+      "url": "https://n.news.naver.com/mnews/article/018/0006360245"
     },
     {
-      "title": "\"오늘이 골든타임인데 헬기도 못 띄워\"… 네팔 실종자 가족들 분통",
-      "url": "https://n.news.naver.com/mnews/article/469/0000950754"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000530032"
     },
     {
-      "title": "외신 \"MBK·영풍의 고려아연 경영권 확보에 우려\"",
-      "url": "https://n.news.naver.com/mnews/article/648/0000050276"
+      "title": "中 CXMT, 상반기 매출 10배로 늘었다...메모리 품귀 수혜",
+      "url": "https://n.news.naver.com/mnews/article/023/0003995480"
     },
     {
-      "title": "450만원에 나온 'C급' 샤넬백, 1101만원에 낙찰됐다",
-      "url": "https://n.news.naver.com/mnews/article/215/0001264093"
+      "title": "“현물 ETF 못 사니 2배로?” 서학개미 ‘코인 테마’ 주의보 [재.밌.돈]",
+      "url": "https://n.news.naver.com/mnews/article/243/0000102319"
     },
     {
-      "title": "신현송 총재의 ‘매파본색’ 언제까지 이어질까 [BOK WATCHER]",
-      "url": "https://n.news.naver.com/mnews/article/009/0005727418"
+      "title": "CPTPP 가입논의 다시 운 띄운 정부…이번엔 결론 낼까",
+      "url": "https://n.news.naver.com/mnews/article/001/0016277685"
     },
     {
-      "title": "[속보]뉴욕증시, 워시 매파 발언에 하락…나스닥 0.5%↓",
-      "url": "https://n.news.naver.com/mnews/article/018/0006359958"
+      "title": "한몸이던 SSG닷컴·신세계몰, 갈라선다…'장보기·프리미엄' 각자 승부",
+      "url": "https://n.news.naver.com/mnews/article/421/0009139593"
     },
     {
-      "title": "0~18세까지 최대 1.4억 지원…'자산 형성 출발선' 격차 좁힌다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005326018"
+      "title": "'이 정도면 선방'…워시 매파 본색에 나스닥 0.5%↓[월스트리트in]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006359959"
     },
     {
-      "title": "삼성, 거제·안동 수해 복구에 30억 기부",
-      "url": "https://n.news.naver.com/mnews/article/015/0005326061"
+      "title": "“24억 대형은 탈락?” 삼성 5억 풀리자…동탄 ‘84㎡ 셔세권’만 난리 난 이유",
+      "url": "https://n.news.naver.com/mnews/hotissue/article/022/0004154721?type=series&cid=2002138"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6788.88,
+      "change": -123.49,
+      "change_pct": -1.79
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 838.41,
+      "change": 0.76,
+      "change_pct": 0.09
     },
     "nasdaq": {
       "value": 26402.42,
@@ -58,17 +58,17 @@
       "change_pct": -0.52
     },
     "usdkrw": {
-      "value": 1375.67,
-      "change": -7.82,
-      "change_pct": -0.57
+      "value": 1371.5,
+      "change": -8.95,
+      "change_pct": -0.65
     }
   },
   "gold": {
-    "price_usd": 4504.1,
-    "price_krw": 6196155,
-    "change": -105.6,
-    "change_pct": -2.29
+    "price_usd": 4478.1,
+    "price_krw": 6141714,
+    "change": -131.6,
+    "change_pct": -2.85
   },
-  "updated": "2026-08-29 11:55",
+  "updated": "2026-08-30 07:50",
   "error": null
 }
