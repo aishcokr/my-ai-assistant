@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "국민연금 상반기 수익률 27%…적립금 1866조원 '사상 최대'",
-      "url": "https://n.news.naver.com/mnews/article/138/0002239364"
+      "title": "비트코인, 워시 연준의장 ‘매파 발언’에 다시 8만달러 아래로",
+      "url": "https://n.news.naver.com/mnews/article/029/0003044888"
     },
     {
-      "title": "서울시 모아주택 1호 첫 준공… 광진구 ‘한양연립’ 내달 입주",
-      "url": "https://n.news.naver.com/mnews/article/366/0001188779"
+      "title": "SK하이닉스, '메이드인 USA' HBM 연간 수십만장씩 생산한다",
+      "url": "https://n.news.naver.com/mnews/article/079/0004183350"
     },
     {
-      "title": "엔비디아 '깜짝 실적'에 기술주 랠리…나스닥 1.57% 상승[뉴욕증시]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005808433"
+      "title": "조현준 \"동생 조현문·박수환은 법꾸라지…제3자 입 빌려 압박\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/119/0003126761"
     },
     {
-      "title": "20년 이상 장기 연체채권 일괄 소각…취약차주 채무부담 덜어준다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005406048"
+      "title": "\"오늘이 골든타임인데 헬기도 못 띄워\"… 네팔 실종자 가족들 분통",
+      "url": "https://n.news.naver.com/mnews/article/469/0000950754"
     },
     {
-      "title": "‘美 HBM 공장’ 첫 삽 뜬 하이닉스 “전력·인재 있는 곳 어디든 추가 투자”",
-      "url": "https://n.news.naver.com/mnews/article/021/0002814642"
+      "title": "외신 \"MBK·영풍의 고려아연 경영권 확보에 우려\"",
+      "url": "https://n.news.naver.com/mnews/article/648/0000050276"
     },
     {
-      "title": "에이비엘바이오 파트너사, 림프종 임상 1b상서 완전관해율 100%",
-      "url": "https://n.news.naver.com/mnews/article/011/0004656093"
+      "title": "450만원에 나온 'C급' 샤넬백, 1101만원에 낙찰됐다",
+      "url": "https://n.news.naver.com/mnews/article/215/0001264093"
     },
     {
-      "title": "인니 대학에 첫 ‘화장품학과’ 만든 코스맥스…아세안 R&D 인재 키운다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005727075"
+      "title": "신현송 총재의 ‘매파본색’ 언제까지 이어질까 [BOK WATCHER]",
+      "url": "https://n.news.naver.com/mnews/article/009/0005727418"
     },
     {
-      "title": "삼성바이오, 3조원 유상증자…펩타이드 인수에 투입",
-      "url": "https://n.news.naver.com/mnews/article/005/0001869540"
+      "title": "[속보]뉴욕증시, 워시 매파 발언에 하락…나스닥 0.5%↓",
+      "url": "https://n.news.naver.com/mnews/article/018/0006359958"
     },
     {
-      "title": "선박용 엔진, 바다 떠나 데이터센터로…HD현대·한화 '엔진 재편' 승부수",
-      "url": "https://n.news.naver.com/mnews/article/018/0006359182"
+      "title": "0~18세까지 최대 1.4억 지원…'자산 형성 출발선' 격차 좁힌다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005326018"
     },
     {
-      "title": "“돈쭐내줘야 하나” 아시안게임 국가대표 800명에 특식 제공한 ‘이 기업’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005727111"
+      "title": "삼성, 거제·안동 수해 복구에 30억 기부",
+      "url": "https://n.news.naver.com/mnews/article/015/0005326061"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6824.17,
-      "change": -88.2,
-      "change_pct": -1.28
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 838.15,
-      "change": 0.5,
-      "change_pct": 0.06
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26541.35,
-      "change": 411.15,
-      "change_pct": 1.57
+      "value": 26402.42,
+      "change": -138.93,
+      "change_pct": -0.52
     },
     "usdkrw": {
-      "value": 1376.15,
-      "change": -7.34,
-      "change_pct": -0.53
+      "value": 1375.67,
+      "change": -7.82,
+      "change_pct": -0.57
     }
   },
   "gold": {
-    "price_usd": 4632.1,
-    "price_krw": 6374464,
-    "change": 22.4,
-    "change_pct": 0.49
+    "price_usd": 4504.1,
+    "price_krw": 6196155,
+    "change": -105.6,
+    "change_pct": -2.29
   },
-  "updated": "2026-08-28 13:57",
+  "updated": "2026-08-29 11:55",
   "error": null
 }
