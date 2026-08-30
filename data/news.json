@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "G마켓, '트레이더스 당일배송관' 신설…전국 20개 점포서 배송",
-      "url": "https://n.news.naver.com/mnews/article/001/0016278243"
+      "title": "\"3억 빌리는데 월 220만원\"..주담대 금리 8% 시대 눈앞..'빚투족 비상'",
+      "url": "https://n.news.naver.com/mnews/article/014/0005568214"
     },
     {
-      "title": "[속보] 두산 박정원 회장·박지원 부회장 네팔행…연락 두절 직원 수색 지원",
-      "url": "https://n.news.naver.com/mnews/article/022/0004154682"
+      "title": "삼전닉스 상반기 법인세 11조 돌파…반기 기준 역대 두 번째",
+      "url": "https://n.news.naver.com/mnews/article/008/0005406699"
     },
     {
-      "title": "K푸드 전진배치 통했다…롯데마트, 인니 도·소매 공략 속도",
-      "url": "https://n.news.naver.com/mnews/article/018/0006360245"
+      "title": "부산 노포·부전에 복합환승센터 들어선다…국토부 기본계획 반영",
+      "url": "https://n.news.naver.com/mnews/article/079/0004183888"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000530032"
+      "title": "국내은행 자본건전성 개선…보통주자본비율 0.12%P↑",
+      "url": "https://n.news.naver.com/mnews/article/016/0002690292"
     },
     {
-      "title": "中 CXMT, 상반기 매출 10배로 늘었다...메모리 품귀 수혜",
-      "url": "https://n.news.naver.com/mnews/article/023/0003995480"
+      "title": "‘고유가 지원금, 아직 안썼어요?’…오늘이 ‘마지막입니다’",
+      "url": "https://n.news.naver.com/mnews/article/021/0002814823"
     },
     {
-      "title": "“현물 ETF 못 사니 2배로?” 서학개미 ‘코인 테마’ 주의보 [재.밌.돈]",
-      "url": "https://n.news.naver.com/mnews/article/243/0000102319"
+      "title": "한일 경제계, 저출생 대응 협의체 출범…청년 ‘결혼·출산’ 의식도 조사",
+      "url": "https://n.news.naver.com/mnews/article/056/0012247314"
     },
     {
-      "title": "CPTPP 가입논의 다시 운 띄운 정부…이번엔 결론 낼까",
-      "url": "https://n.news.naver.com/mnews/article/001/0016277685"
+      "title": "중국 자율주행 택시 200대 한국에서 달린다...2028년까지 상용화 추진",
+      "url": "https://n.news.naver.com/mnews/article/023/0003995693"
     },
     {
-      "title": "한몸이던 SSG닷컴·신세계몰, 갈라선다…'장보기·프리미엄' 각자 승부",
-      "url": "https://n.news.naver.com/mnews/article/421/0009139593"
+      "title": "지난달 서울 공급지표 ‘반짝 개선’…공급 회복 체감은 아직",
+      "url": "https://n.news.naver.com/mnews/article/366/0001189232"
     },
     {
-      "title": "'이 정도면 선방'…워시 매파 본색에 나스닥 0.5%↓[월스트리트in]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006359959"
+      "title": "5대 은행 가계대출 목표치 60% 늘어…'오픈런'은 여전",
+      "url": "https://n.news.naver.com/mnews/article/001/0016278229"
     },
     {
-      "title": "“24억 대형은 탈락?” 삼성 5억 풀리자…동탄 ‘84㎡ 셔세권’만 난리 난 이유",
-      "url": "https://n.news.naver.com/mnews/hotissue/article/022/0004154721?type=series&cid=2002138"
+      "title": "‘이재명 기본주택’ 실무, 홍지선 국토장관 후보자…첫 지방 관료 출신",
+      "url": "https://n.news.naver.com/mnews/article/028/0002820792"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.52
     },
     "usdkrw": {
-      "value": 1371.5,
-      "change": -8.95,
-      "change_pct": -0.65
+      "value": 1377.44,
+      "change": -3.01,
+      "change_pct": -0.22
     }
   },
   "gold": {
-    "price_usd": 4478.1,
-    "price_krw": 6141714,
-    "change": -131.6,
-    "change_pct": -2.85
+    "price_usd": 4508.9,
+    "price_krw": 6210739,
+    "change": 30.8,
+    "change_pct": 0.69
   },
-  "updated": "2026-08-30 07:50",
+  "updated": "2026-08-31 07:57",
   "error": null
 }
