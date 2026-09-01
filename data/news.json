@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"3억 빌리는데 월 220만원\"..주담대 금리 8% 시대 눈앞..'빚투족 비상'",
-      "url": "https://n.news.naver.com/mnews/article/014/0005568214"
+      "title": "SK온, 美 네오볼타 파워에 9GWh 배터리 공급…ESS 사업 본격 확장",
+      "url": "https://n.news.naver.com/mnews/article/032/0003467398"
     },
     {
-      "title": "삼전닉스 상반기 법인세 11조 돌파…반기 기준 역대 두 번째",
-      "url": "https://n.news.naver.com/mnews/article/008/0005406699"
+      "title": "반도체 성과급 내수 불씨 살렸다는데…테슬라가 잘 팔린 건 ‘옥의 티’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005728187"
     },
     {
-      "title": "부산 노포·부전에 복합환승센터 들어선다…국토부 기본계획 반영",
-      "url": "https://n.news.naver.com/mnews/article/079/0004183888"
+      "title": "현대차 노사 임금교섭 추석 전 타결…61.5% 찬성 '가결'",
+      "url": "https://n.news.naver.com/mnews/article/079/0004184418"
     },
     {
-      "title": "국내은행 자본건전성 개선…보통주자본비율 0.12%P↑",
-      "url": "https://n.news.naver.com/mnews/article/016/0002690292"
+      "title": "한화에어로 K9 자주포 스페인 수출… 처음 서유럽 뚫었다",
+      "url": "https://n.news.naver.com/mnews/article/469/0000951284"
     },
     {
-      "title": "‘고유가 지원금, 아직 안썼어요?’…오늘이 ‘마지막입니다’",
-      "url": "https://n.news.naver.com/mnews/article/021/0002814823"
+      "title": "SK하이닉스, 목표가 330만원→240만원...\"HBM 공급자 프리미엄 완화\"-LS",
+      "url": "https://n.news.naver.com/mnews/article/008/0005406860"
     },
     {
-      "title": "한일 경제계, 저출생 대응 협의체 출범…청년 ‘결혼·출산’ 의식도 조사",
-      "url": "https://n.news.naver.com/mnews/article/056/0012247314"
+      "title": "코레일·SR 기관통합 마무리…내일 KTX·SRT 통합 운행 시작",
+      "url": "https://n.news.naver.com/mnews/article/055/0001384636"
     },
     {
-      "title": "중국 자율주행 택시 200대 한국에서 달린다...2028년까지 상용화 추진",
-      "url": "https://n.news.naver.com/mnews/article/023/0003995693"
+      "title": "뉴욕증시, 美·이란 충돌 재개에 하락 출발… 3대 지수 약세",
+      "url": "https://n.news.naver.com/mnews/article/366/0001189468"
     },
     {
-      "title": "지난달 서울 공급지표 ‘반짝 개선’…공급 회복 체감은 아직",
-      "url": "https://n.news.naver.com/mnews/article/366/0001189232"
+      "title": "한화, KAI 2대 주주 올랐다…공정위 승인에 \"우주항공 협력 강화\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005326701"
     },
     {
-      "title": "5대 은행 가계대출 목표치 60% 늘어…'오픈런'은 여전",
-      "url": "https://n.news.naver.com/mnews/article/001/0016278229"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000901377"
     },
     {
-      "title": "‘이재명 기본주택’ 실무, 홍지선 국토장관 후보자…첫 지방 관료 출신",
-      "url": "https://n.news.naver.com/mnews/article/028/0002820792"
+      "title": "[속보] 최태원 \"일본 내에 반도체 합작 공장 설립 검토 중\"",
+      "url": "https://n.news.naver.com/mnews/article/002/0002454252"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6788.88,
-      "change": -123.49,
-      "change_pct": -1.79
+      "value": 6820.02,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 838.41,
-      "change": 0.76,
-      "change_pct": 0.09
+      "value": 834.29,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26402.42,
-      "change": -138.93,
-      "change_pct": -0.52
+      "value": 26370.89,
+      "change": -31.53,
+      "change_pct": -0.12
     },
     "usdkrw": {
-      "value": 1377.44,
-      "change": -3.01,
-      "change_pct": -0.22
+      "value": 1369.38,
+      "change": 0.0,
+      "change_pct": 0.0
     }
   },
   "gold": {
-    "price_usd": 4508.9,
-    "price_krw": 6210739,
-    "change": 30.8,
-    "change_pct": 0.69
+    "price_usd": 4499.7,
+    "price_krw": 6161799,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-08-31 07:57",
+  "updated": "2026-09-01 09:09",
   "error": null
 }
