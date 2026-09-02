@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "69조 '슈퍼예산'…국토부, 30조 주택에 쏟는다",
-      "url": "https://n.news.naver.com/mnews/article/031/0001054415"
+      "title": "국회 수소경제포럼, 현대차·기아 남양연구소 방문",
+      "url": "https://n.news.naver.com/mnews/article/079/0004185231"
     },
     {
-      "title": "“개미 울리는 뻥튀기 광고 퇴출”…금투사 광고업무 전면 개편",
-      "url": "https://n.news.naver.com/mnews/article/005/0001870219"
+      "title": "[속보] 홈플러스 회생계획안 가결·법원 인가…경영 정상화 본궤도",
+      "url": "https://n.news.naver.com/mnews/article/018/0006362555"
     },
     {
-      "title": "박홍근 “미래대응기금 내년 162.3조 신설”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003744851"
+      "title": "한국은행, 외환보유액 순위 25년 만에 돌연 '비공개'",
+      "url": "https://n.news.naver.com/mnews/article/057/0001966992"
     },
     {
-      "title": "〈중〉 中 휴머노이드 '군단' 출전…가전 넘어 피지컬AI로[미리보는 IFA 2026]",
-      "url": "https://n.news.naver.com/mnews/article/030/0003462414"
+      "title": "이형일 \"거주 중심 주택시장이 정부 방향...합리적 요구면 반영\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002401692"
     },
     {
-      "title": "공정위, 일주일 만에 또 쿠팡 현장 조사…'공정거래법' 위반 혐의",
-      "url": "https://n.news.naver.com/mnews/article/421/0009144293"
+      "title": "“LG유플러스, 적극적인 주주환원…데이터센터 성장도 기대”[클릭e종목]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005811124"
     },
     {
-      "title": "수출 석달 연속 900억달러 넘어…반도체 비중 47.5% '역대 최고'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005327368"
+      "title": "재정적자 커지고 전쟁 장기화 … 전세계 출구없는 '국채값 추락'",
+      "url": "https://n.news.naver.com/mnews/article/009/0005729554"
     },
     {
-      "title": "공공기관 부채 2030년 1000조원 육박…5년간 219조원 증가",
-      "url": "https://n.news.naver.com/mnews/article/277/0005810408"
+      "title": "“한국 사교육 경쟁 없었다면 자녀 28% 더 낳았다”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003745134"
     },
     {
-      "title": "\"삼성전기, MLCC 판가 최대 30% 인상…목표가↑\"-DB",
-      "url": "https://n.news.naver.com/mnews/article/015/0005326977"
+      "title": "알테오젠 4.4조 기술수출… 한국 바이오 잭팟 행진",
+      "url": "https://n.news.naver.com/mnews/article/029/0003045853"
     },
     {
-      "title": "靑, 비거주 1주택 종부세 원복에 \"부동산 정상화 기조 흔들리지 않을 것\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014161995"
+      "title": "상반기 국내은행 부실채권 19조…8년 만에 최대",
+      "url": "https://n.news.naver.com/mnews/article/018/0006362152"
     },
     {
-      "title": "현대차 내수 6년 6개월 만에 최대 감소… 파업 후폭풍에 41% 뚝",
-      "url": "https://n.news.naver.com/mnews/article/366/0001189733"
+      "title": "채권 '숨 고르기', 나흘 만에 반등…엔비디아, 3.2% 급등[뉴욕증시]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005570300"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6820.02,
+      "value": 6835.8,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 834.29,
+      "value": 821.25,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26099.77,
-      "change": -271.12,
-      "change_pct": -1.03
+      "value": 26217.83,
+      "change": 118.06,
+      "change_pct": 0.45
     },
     "usdkrw": {
-      "value": 1366.62,
-      "change": -10.49,
-      "change_pct": -0.76
+      "value": 1358.97,
+      "change": -7.65,
+      "change_pct": -0.56
     }
   },
   "gold": {
-    "price_usd": 4372.8,
-    "price_krw": 5975955,
-    "change": -58.3,
-    "change_pct": -1.32
+    "price_usd": 4431.2,
+    "price_krw": 6021868,
+    "change": 83.2,
+    "change_pct": 1.91
   },
-  "updated": "2026-09-02 07:51",
+  "updated": "2026-09-03 07:52",
   "error": null
 }
