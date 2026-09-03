@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "국회 수소경제포럼, 현대차·기아 남양연구소 방문",
-      "url": "https://n.news.naver.com/mnews/article/079/0004185231"
+      "title": "LH 173조 부채 개선방안 빠져…항만공사는 지역 갈등 조짐",
+      "url": "https://n.news.naver.com/mnews/article/011/0004658408"
     },
     {
-      "title": "[속보] 홈플러스 회생계획안 가결·법원 인가…경영 정상화 본궤도",
-      "url": "https://n.news.naver.com/mnews/article/018/0006362555"
+      "title": "호남팹 투자해도 ‘전환배치’ 불가… 인력확보 난망",
+      "url": "https://n.news.naver.com/mnews/article/029/0003046129"
     },
     {
-      "title": "한국은행, 외환보유액 순위 25년 만에 돌연 '비공개'",
-      "url": "https://n.news.naver.com/mnews/article/057/0001966992"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012250843"
     },
     {
-      "title": "이형일 \"거주 중심 주택시장이 정부 방향...합리적 요구면 반영\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002401692"
+      "title": "포스코그룹, 세 자릿수 신입사원 채용..AI 전문인재 확보 나선다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005409094"
     },
     {
-      "title": "“LG유플러스, 적극적인 주주환원…데이터센터 성장도 기대”[클릭e종목]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005811124"
+      "title": "경북 예천 소 농장서 구제역 발생…위기경보 단계 격상",
+      "url": "https://n.news.naver.com/mnews/article/079/0004185596"
     },
     {
-      "title": "재정적자 커지고 전쟁 장기화 … 전세계 출구없는 '국채값 추락'",
-      "url": "https://n.news.naver.com/mnews/article/009/0005729554"
+      "title": "발전 5사 25년 만에 통합… 석유·가스公 합치고 석탄公 청산",
+      "url": "https://n.news.naver.com/mnews/article/023/0003996622"
     },
     {
-      "title": "“한국 사교육 경쟁 없었다면 자녀 28% 더 낳았다”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003745134"
+      "title": "법원, 홈플러스 회생계획안 인가",
+      "url": "https://n.news.naver.com/mnews/article/023/0003996346"
     },
     {
-      "title": "알테오젠 4.4조 기술수출… 한국 바이오 잭팟 행진",
-      "url": "https://n.news.naver.com/mnews/article/029/0003045853"
+      "title": "\"청년이 찾는 中企\"…중기부, '中企 인력지원 5개년 계획' 발표",
+      "url": "https://n.news.naver.com/mnews/article/277/0005811761"
     },
     {
-      "title": "상반기 국내은행 부실채권 19조…8년 만에 최대",
-      "url": "https://n.news.naver.com/mnews/article/018/0006362152"
+      "title": "현대모비스, 슬로바키아서 '전기차 심장' PE 양산…유럽 공략",
+      "url": "https://n.news.naver.com/mnews/article/015/0005328226"
     },
     {
-      "title": "채권 '숨 고르기', 나흘 만에 반등…엔비디아, 3.2% 급등[뉴욕증시]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005570300"
+      "title": "국가재정 갉아먹은 '메뚜기 입찰'…산불 유령업체 10곳 세무조사",
+      "url": "https://n.news.naver.com/mnews/article/421/0009149092"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6835.8,
+      "value": 6562.72,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 821.25,
+      "value": 803.98,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26217.83,
-      "change": 118.06,
-      "change_pct": 0.45
+      "value": 26584.06,
+      "change": 366.23,
+      "change_pct": 1.4
     },
     "usdkrw": {
-      "value": 1358.97,
-      "change": -7.65,
-      "change_pct": -0.56
+      "value": 1355.98,
+      "change": -16.88,
+      "change_pct": -1.23
     }
   },
   "gold": {
-    "price_usd": 4431.2,
-    "price_krw": 6021868,
-    "change": 83.2,
-    "change_pct": 1.91
+    "price_usd": 4523.3,
+    "price_krw": 6133504,
+    "change": 157.0,
+    "change_pct": 3.6
   },
-  "updated": "2026-09-03 07:52",
+  "updated": "2026-09-04 07:51",
   "error": null
 }
