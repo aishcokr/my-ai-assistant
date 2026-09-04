@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "LH 173조 부채 개선방안 빠져…항만공사는 지역 갈등 조짐",
-      "url": "https://n.news.naver.com/mnews/article/011/0004658408"
+      "title": "[속보]금융위 \"조각투자 넘어 주식·채권·펀드 토큰 허용할 것\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006363613"
     },
     {
-      "title": "호남팹 투자해도 ‘전환배치’ 불가… 인력확보 난망",
-      "url": "https://n.news.naver.com/mnews/article/029/0003046129"
+      "title": "삼성전자 '비스포크 AI 에어컨' 최고 혁신상 수상 [IFA 2026]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005571302"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012250843"
+      "title": "에이피알 \"HSA 지목 메디큐브 동일 배치 검사서 금지 색소 불검출\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009152204"
     },
     {
-      "title": "포스코그룹, 세 자릿수 신입사원 채용..AI 전문인재 확보 나선다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005409094"
+      "title": "이틀새 5엔 뛴 엔화…'엔 캐리' 손절 청산 시작됐나",
+      "url": "https://n.news.naver.com/mnews/article/018/0006363495"
     },
     {
-      "title": "경북 예천 소 농장서 구제역 발생…위기경보 단계 격상",
-      "url": "https://n.news.naver.com/mnews/article/079/0004185596"
+      "title": "'검색하면 포인트'…네이버, 토스 '검색순위 왜곡' 수사의뢰",
+      "url": "https://n.news.naver.com/mnews/article/374/0000531270"
     },
     {
-      "title": "발전 5사 25년 만에 통합… 석유·가스公 합치고 석탄公 청산",
-      "url": "https://n.news.naver.com/mnews/article/023/0003996622"
+      "title": "“불꽃축제 현장엔 치킨 배달 안됩니다”…여의도 배달앱 일시 중단",
+      "url": "https://n.news.naver.com/mnews/article/009/0005730563"
     },
     {
-      "title": "법원, 홈플러스 회생계획안 인가",
-      "url": "https://n.news.naver.com/mnews/article/023/0003996346"
+      "title": "현대제철 미국 전기로 제철소 첫발…탄소저감 강판 270만t 생산",
+      "url": "https://n.news.naver.com/mnews/article/001/0016291355"
     },
     {
-      "title": "\"청년이 찾는 中企\"…중기부, '中企 인력지원 5개년 계획' 발표",
-      "url": "https://n.news.naver.com/mnews/article/277/0005811761"
+      "title": "경상수지 420억달러 흑자… 7월 기준 ‘사상 최대치’",
+      "url": "https://n.news.naver.com/mnews/article/021/0002816388"
     },
     {
-      "title": "현대모비스, 슬로바키아서 '전기차 심장' PE 양산…유럽 공략",
-      "url": "https://n.news.naver.com/mnews/article/015/0005328226"
+      "title": "정용진 “한미 AI 협력 시너지”…美 ‘파운드리 스쿨’ 출범식 참석",
+      "url": "https://n.news.naver.com/mnews/article/018/0006363598"
     },
     {
-      "title": "국가재정 갉아먹은 '메뚜기 입찰'…산불 유령업체 10곳 세무조사",
-      "url": "https://n.news.naver.com/mnews/article/421/0009149092"
+      "title": "LG, 엔비디아·구글·MS의 미래 인재와 ‘AI 축제’ 연다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004658594"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6562.72,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 803.98,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26584.06,
-      "change": 366.23,
-      "change_pct": 1.4
+      "value": 26506.99,
+      "change": -77.07,
+      "change_pct": -0.29
     },
     "usdkrw": {
-      "value": 1355.98,
-      "change": -16.88,
-      "change_pct": -1.23
+      "value": 1345.99,
+      "change": -12.4,
+      "change_pct": -0.91
     }
   },
   "gold": {
-    "price_usd": 4523.3,
-    "price_krw": 6133504,
-    "change": 157.0,
-    "change_pct": 3.6
+    "price_usd": 4477.2,
+    "price_krw": 6026266,
+    "change": -14.5,
+    "change_pct": -0.32
   },
-  "updated": "2026-09-04 07:51",
+  "updated": "2026-09-05 07:35",
   "error": null
 }
