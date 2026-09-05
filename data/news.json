@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "[속보]금융위 \"조각투자 넘어 주식·채권·펀드 토큰 허용할 것\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006363613"
+      "title": "'농심 3세' 신상열 부사장 오는 13일 결혼…예비신부는 일반인",
+      "url": "https://n.news.naver.com/mnews/article/629/0000530951"
     },
     {
-      "title": "삼성전자 '비스포크 AI 에어컨' 최고 혁신상 수상 [IFA 2026]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005571302"
+      "title": "4분기로 넘어간 지방이전…금감원·국책은행 등 ‘촉각’[이호연의 D톡스]",
+      "url": "https://n.news.naver.com/mnews/article/138/0002240329"
     },
     {
-      "title": "에이피알 \"HSA 지목 메디큐브 동일 배치 검사서 금지 색소 불검출\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009152204"
+      "title": "장인화 “포스코·현대제철 손잡은 美 제철소, 세계 최고 경쟁력”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004658814"
     },
     {
-      "title": "이틀새 5엔 뛴 엔화…'엔 캐리' 손절 청산 시작됐나",
-      "url": "https://n.news.naver.com/mnews/article/018/0006363495"
+      "title": "\"8년 만에 17억 뛰었다\"…'로또' 맞은 동네 어디길래",
+      "url": "https://n.news.naver.com/mnews/article/015/0005329031"
     },
     {
-      "title": "'검색하면 포인트'…네이버, 토스 '검색순위 왜곡' 수사의뢰",
-      "url": "https://n.news.naver.com/mnews/article/374/0000531270"
+      "title": "수출 7천94억 달러, 역대 최대 기록...\"1조 달러 기대\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002403120"
     },
     {
-      "title": "“불꽃축제 현장엔 치킨 배달 안됩니다”…여의도 배달앱 일시 중단",
-      "url": "https://n.news.naver.com/mnews/article/009/0005730563"
+      "title": "“카톡으로 AI홈 제어”…LG전자, AI 에이전트 ‘씽큐클로’ 연내 출시 [IFA 2026]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002693157"
     },
     {
-      "title": "현대제철 미국 전기로 제철소 첫발…탄소저감 강판 270만t 생산",
-      "url": "https://n.news.naver.com/mnews/article/001/0016291355"
+      "title": "“주식이랑 완전히 반대로 가는건가요?”…비트코인, 최근 상승세 봤더니",
+      "url": "https://n.news.naver.com/mnews/article/009/0005730747"
     },
     {
-      "title": "경상수지 420억달러 흑자… 7월 기준 ‘사상 최대치’",
-      "url": "https://n.news.naver.com/mnews/article/021/0002816388"
+      "title": "주유소 기름값 16주째 하락…휘발유 1,860원·경유 1,845원",
+      "url": "https://n.news.naver.com/mnews/article/055/0001386068"
     },
     {
-      "title": "정용진 “한미 AI 협력 시너지”…美 ‘파운드리 스쿨’ 출범식 참석",
-      "url": "https://n.news.naver.com/mnews/article/018/0006363598"
+      "title": "전 세계 억만장자 3795명 자산만 '2경' 넘어…AI 폭발 수요 배경",
+      "url": "https://n.news.naver.com/mnews/article/018/0006364147"
     },
     {
-      "title": "LG, 엔비디아·구글·MS의 미래 인재와 ‘AI 축제’ 연다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004658594"
+      "title": "삼성·LG전자, IFA 혁신상 11개 휩쓸어…AI·디자인 기술력 인정",
+      "url": "https://n.news.naver.com/mnews/article/001/0016291225"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6687.21,
+      "change": 107.73,
+      "change_pct": 1.64
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 813.5,
+      "change": 23.29,
+      "change_pct": 2.95
     },
     "nasdaq": {
       "value": 26506.99,
@@ -58,17 +58,17 @@
       "change_pct": -0.29
     },
     "usdkrw": {
-      "value": 1345.99,
-      "change": -12.4,
-      "change_pct": -0.91
+      "value": 1351.1,
+      "change": -4.31,
+      "change_pct": -0.32
     }
   },
   "gold": {
-    "price_usd": 4477.2,
-    "price_krw": 6026266,
-    "change": -14.5,
-    "change_pct": -0.32
+    "price_usd": 4429.8,
+    "price_krw": 5985102,
+    "change": -61.9,
+    "change_pct": -1.38
   },
-  "updated": "2026-09-05 07:35",
+  "updated": "2026-09-06 07:23",
   "error": null
 }
