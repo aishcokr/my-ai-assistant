@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "'농심 3세' 신상열 부사장 오는 13일 결혼…예비신부는 일반인",
-      "url": "https://n.news.naver.com/mnews/article/629/0000530951"
+      "title": "1500조 육박한 나랏빚…2030년 이자비용 50조 넘는다",
+      "url": "https://n.news.naver.com/mnews/article/003/0014171623"
     },
     {
-      "title": "4분기로 넘어간 지방이전…금감원·국책은행 등 ‘촉각’[이호연의 D톡스]",
-      "url": "https://n.news.naver.com/mnews/article/138/0002240329"
+      "title": "올해 추석 차례상 비용 30만원대… 작년보다 소폭 상승",
+      "url": "https://n.news.naver.com/mnews/article/366/0001190606"
     },
     {
-      "title": "장인화 “포스코·현대제철 손잡은 美 제철소, 세계 최고 경쟁력”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004658814"
+      "title": "\"로봇 관절 LG가 만든다\"…백승태 본부장 \"빅테크와 공급 협의 중\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005329071"
     },
     {
-      "title": "\"8년 만에 17억 뛰었다\"…'로또' 맞은 동네 어디길래",
-      "url": "https://n.news.naver.com/mnews/article/015/0005329031"
+      "title": "해수부, 추석 앞두고 수산물 원산지 표시 특별 점검",
+      "url": "https://n.news.naver.com/mnews/article/055/0001386207"
     },
     {
-      "title": "수출 7천94억 달러, 역대 최대 기록...\"1조 달러 기대\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002403120"
+      "title": "가계대출 반년 만에 감소…정책대출 빼면 증가세 지속",
+      "url": "https://n.news.naver.com/mnews/article/001/0016292007"
     },
     {
-      "title": "“카톡으로 AI홈 제어”…LG전자, AI 에이전트 ‘씽큐클로’ 연내 출시 [IFA 2026]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002693157"
+      "title": "베를린 무대는 로봇이 접수…IFA 달군 ‘로봇 런웨이’[IFA 2026]",
+      "url": "https://n.news.naver.com/mnews/article/138/0002240347"
     },
     {
-      "title": "“주식이랑 완전히 반대로 가는건가요?”…비트코인, 최근 상승세 봤더니",
-      "url": "https://n.news.naver.com/mnews/article/009/0005730747"
+      "title": "현대제철, 강판 넘어 AIDC…美 전력 인프라시장도 공략",
+      "url": "https://n.news.naver.com/mnews/article/011/0004659029"
     },
     {
-      "title": "주유소 기름값 16주째 하락…휘발유 1,860원·경유 1,845원",
-      "url": "https://n.news.naver.com/mnews/article/055/0001386068"
+      "title": "사망신고 다음날 금융거래 즉시 차단",
+      "url": "https://n.news.naver.com/mnews/article/009/0005731093"
     },
     {
-      "title": "전 세계 억만장자 3795명 자산만 '2경' 넘어…AI 폭발 수요 배경",
-      "url": "https://n.news.naver.com/mnews/article/018/0006364147"
+      "title": "환율, 이번주 1300원 중반대 박스권…美물가에 촉각[주간외환전망]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006364304"
     },
     {
-      "title": "삼성·LG전자, IFA 혁신상 11개 휩쓸어…AI·디자인 기술력 인정",
-      "url": "https://n.news.naver.com/mnews/article/001/0016291225"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012251982"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.29
     },
     "usdkrw": {
-      "value": 1351.1,
-      "change": -4.31,
-      "change_pct": -0.32
+      "value": 1345.12,
+      "change": -10.29,
+      "change_pct": -0.76
     }
   },
   "gold": {
-    "price_usd": 4429.8,
-    "price_krw": 5985102,
-    "change": -61.9,
-    "change_pct": -1.38
+    "price_usd": 4476.6,
+    "price_krw": 6021564,
+    "change": 46.8,
+    "change_pct": 1.06
   },
-  "updated": "2026-09-06 07:23",
+  "updated": "2026-09-07 07:28",
   "error": null
 }
