@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "1500조 육박한 나랏빚…2030년 이자비용 50조 넘는다",
-      "url": "https://n.news.naver.com/mnews/article/003/0014171623"
+      "title": "\"270만원 투자금, 60억 돼 돌아왔다\"...14년 만에 잠든 비트코인 찾은 60대男",
+      "url": "https://n.news.naver.com/mnews/article/014/0005572051"
     },
     {
-      "title": "올해 추석 차례상 비용 30만원대… 작년보다 소폭 상승",
-      "url": "https://n.news.naver.com/mnews/article/366/0001190606"
+      "title": "주요 시중은행 신규 채용 20% 감소…'디지털·AI' 전문 인재 중심 재편",
+      "url": "https://n.news.naver.com/mnews/article/030/0003464056"
     },
     {
-      "title": "\"로봇 관절 LG가 만든다\"…백승태 본부장 \"빅테크와 공급 협의 중\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005329071"
+      "title": "현대위아 국내 첫 무인지게차… 내년 5월 오토랜드 화성 도입",
+      "url": "https://n.news.naver.com/mnews/article/021/0002816811"
     },
     {
-      "title": "해수부, 추석 앞두고 수산물 원산지 표시 특별 점검",
-      "url": "https://n.news.naver.com/mnews/article/055/0001386207"
+      "title": "최근 1년 아파트값 가장 많이 오른 지역은 ‘분당’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005731423"
     },
     {
-      "title": "가계대출 반년 만에 감소…정책대출 빼면 증가세 지속",
-      "url": "https://n.news.naver.com/mnews/article/001/0016292007"
+      "title": "D램 호황기… 삼성 점유율 38.2% 독주",
+      "url": "https://n.news.naver.com/mnews/article/008/0005410610"
     },
     {
-      "title": "베를린 무대는 로봇이 접수…IFA 달군 ‘로봇 런웨이’[IFA 2026]",
-      "url": "https://n.news.naver.com/mnews/article/138/0002240347"
+      "title": "AI입은 MTS '하나증권 V' 출시",
+      "url": "https://n.news.naver.com/mnews/article/015/0005329650"
     },
     {
-      "title": "현대제철, 강판 넘어 AIDC…美 전력 인프라시장도 공략",
-      "url": "https://n.news.naver.com/mnews/article/011/0004659029"
-    },
-    {
-      "title": "사망신고 다음날 금융거래 즉시 차단",
-      "url": "https://n.news.naver.com/mnews/article/009/0005731093"
-    },
-    {
-      "title": "환율, 이번주 1300원 중반대 박스권…美물가에 촉각[주간외환전망]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006364304"
+      "title": "\"금리 1%p 오르면 ‘영끌 가구’ 연체 확률 0.81%p 상승\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005572243"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012251982"
+      "url": "https://n.news.naver.com/mnews/article/055/0001386502"
+    },
+    {
+      "title": "수도권 주택부지 미리 산다…정부·LH 5000억 투입",
+      "url": "https://n.news.naver.com/mnews/article/018/0006365271"
+    },
+    {
+      "title": "올해 서울 주택 2만호 착공... 최근 3년 평균보다 35%↑",
+      "url": "https://n.news.naver.com/mnews/article/009/0005731452"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6687.21,
-      "change": 107.73,
-      "change_pct": 1.64
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 813.5,
-      "change": 23.29,
-      "change_pct": 2.95
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
       "value": 26506.99,
@@ -58,17 +58,17 @@
       "change_pct": -0.29
     },
     "usdkrw": {
-      "value": 1345.12,
-      "change": -10.29,
-      "change_pct": -0.76
+      "value": 1344.88,
+      "change": -0.18,
+      "change_pct": -0.01
     }
   },
   "gold": {
-    "price_usd": 4476.6,
-    "price_krw": 6021564,
-    "change": 46.8,
-    "change_pct": 1.06
+    "price_usd": 4452.8,
+    "price_krw": 5988481,
+    "change": 23.0,
+    "change_pct": 0.52
   },
-  "updated": "2026-09-07 07:28",
+  "updated": "2026-09-08 08:04",
   "error": null
 }
