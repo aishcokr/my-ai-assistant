@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"270만원 투자금, 60억 돼 돌아왔다\"...14년 만에 잠든 비트코인 찾은 60대男",
-      "url": "https://n.news.naver.com/mnews/article/014/0005572051"
+      "title": "한화오션, 태국 호위함 건조 사업자 낙점…6천800억원 규모",
+      "url": "https://n.news.naver.com/mnews/article/001/0016298216"
     },
     {
-      "title": "주요 시중은행 신규 채용 20% 감소…'디지털·AI' 전문 인재 중심 재편",
-      "url": "https://n.news.naver.com/mnews/article/030/0003464056"
+      "title": "삼성전자, 미스트랄 AI와 '반도체 AI 모델' 개발…대규모 지분 투자도",
+      "url": "https://n.news.naver.com/mnews/article/277/0005813658"
     },
     {
-      "title": "현대위아 국내 첫 무인지게차… 내년 5월 오토랜드 화성 도입",
-      "url": "https://n.news.naver.com/mnews/article/021/0002816811"
+      "title": "HMM, 브라질 광산업체와 4.7조원 규모 장기운송계약 체결",
+      "url": "https://n.news.naver.com/mnews/article/018/0006365450"
     },
     {
-      "title": "최근 1년 아파트값 가장 많이 오른 지역은 ‘분당’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005731423"
+      "title": "국토부, 무선제어 차량 정리 시스템 확대…“안전 관리 강화”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012253636"
     },
     {
-      "title": "D램 호황기… 삼성 점유율 38.2% 독주",
-      "url": "https://n.news.naver.com/mnews/article/008/0005410610"
+      "title": "노동장관 “삼성전자 N% 성과급 파업, 새 지침 적용땐 불법”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003549829"
     },
     {
-      "title": "AI입은 MTS '하나증권 V' 출시",
-      "url": "https://n.news.naver.com/mnews/article/015/0005329650"
+      "title": "‘스포츠 제국’ 나이키의 수모, S&P100서 퇴출",
+      "url": "https://n.news.naver.com/mnews/article/020/0003746424"
     },
     {
-      "title": "\"금리 1%p 오르면 ‘영끌 가구’ 연체 확률 0.81%p 상승\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005572243"
+      "title": "오세훈 “장기 전세 ‘20년 만기 퇴거’ 예외 없다”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003746672"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001386502"
+      "title": "이성훈 LH 사장 \"3년간 서울 2만가구 매입임대 공급…입주까지 2년 소요\"\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005813626"
     },
     {
-      "title": "수도권 주택부지 미리 산다…정부·LH 5000억 투입",
-      "url": "https://n.news.naver.com/mnews/article/018/0006365271"
+      "title": "월세 70만원 챙기려다…\"성과급은커녕 잘릴 판\" 삼성맨 '초비상' [이슈+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005330069"
     },
     {
-      "title": "올해 서울 주택 2만호 착공... 최근 3년 평균보다 35%↑",
-      "url": "https://n.news.naver.com/mnews/article/009/0005731452"
+      "title": "최태원 \"한일 에너지 공동구매하자..송전망·가스관도 연결\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005572523"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6687.21,
+      "value": 6995.39,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 813.5,
+      "value": 822.19,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26506.99,
-      "change": -77.07,
-      "change_pct": -0.29
+      "value": 26421.41,
+      "change": -85.58,
+      "change_pct": -0.32
     },
     "usdkrw": {
-      "value": 1344.88,
-      "change": -0.18,
-      "change_pct": -0.01
+      "value": 1340.53,
+      "change": -3.04,
+      "change_pct": -0.23
     }
   },
   "gold": {
-    "price_usd": 4452.8,
-    "price_krw": 5988481,
-    "change": 23.0,
-    "change_pct": 0.52
+    "price_usd": 4396.8,
+    "price_krw": 5894042,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-08 08:04",
+  "updated": "2026-09-09 08:01",
   "error": null
 }
