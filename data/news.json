@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "한화오션, 태국 호위함 건조 사업자 낙점…6천800억원 규모",
-      "url": "https://n.news.naver.com/mnews/article/001/0016298216"
+      "title": "토스페이먼츠 가맹점 결제정보 제3자 조회…2,671명 영향",
+      "url": "https://n.news.naver.com/mnews/article/055/0001387032"
     },
     {
-      "title": "삼성전자, 미스트랄 AI와 '반도체 AI 모델' 개발…대규모 지분 투자도",
-      "url": "https://n.news.naver.com/mnews/article/277/0005813658"
+      "title": "유가 100달러 돌파·국채 금리 급등에 3일 연속 하락",
+      "url": "https://n.news.naver.com/mnews/article/023/0003997651"
     },
     {
-      "title": "HMM, 브라질 광산업체와 4.7조원 규모 장기운송계약 체결",
-      "url": "https://n.news.naver.com/mnews/article/018/0006365450"
+      "title": "\"악~ 로봇이 사람같이 움직여\" 벡스코 전시장엔 스마트도시가…[르포]",
+      "url": "https://n.news.naver.com/mnews/article/008/0005411549"
     },
     {
-      "title": "국토부, 무선제어 차량 정리 시스템 확대…“안전 관리 강화”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012253636"
+      "title": "\"3m 높이서 부품 번쩍\"…노란 로봇팔이 점령한 기아 PBV 공장",
+      "url": "https://n.news.naver.com/mnews/article/277/0005813736"
     },
     {
-      "title": "노동장관 “삼성전자 N% 성과급 파업, 새 지침 적용땐 불법”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003549829"
+      "title": "국토부, ‘제 1회 OECD 지역개발정책 세미나’ 개최",
+      "url": "https://n.news.naver.com/mnews/article/016/0002695151"
     },
     {
-      "title": "‘스포츠 제국’ 나이키의 수모, S&P100서 퇴출",
-      "url": "https://n.news.naver.com/mnews/article/020/0003746424"
+      "title": "국회 경제대도약위 출범…기업 제안 입법 노력",
+      "url": "https://n.news.naver.com/mnews/article/215/0001265392"
     },
     {
-      "title": "오세훈 “장기 전세 ‘20년 만기 퇴거’ 예외 없다”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003746672"
+      "title": "감사위원 표 대결 고려아연 승리…최윤범측 12 vs 영풍7로 이사회 구도 재편",
+      "url": "https://n.news.naver.com/mnews/article/009/0005732674"
     },
     {
-      "title": "이성훈 LH 사장 \"3년간 서울 2만가구 매입임대 공급…입주까지 2년 소요\"\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005813626"
+      "title": "금감원 \"보험사 '제 살 깎아먹기 식' 평가체계 개선해야\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016300671"
     },
     {
-      "title": "월세 70만원 챙기려다…\"성과급은커녕 잘릴 판\" 삼성맨 '초비상' [이슈+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005330069"
+      "title": "[속보] 8월 취업자 18.4만명 증가... 청년층은 14.3만명↓",
+      "url": "https://n.news.naver.com/mnews/article/014/0005573024"
     },
     {
-      "title": "최태원 \"한일 에너지 공동구매하자..송전망·가스관도 연결\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005572523"
+      "title": "관세청, ‘할당관세’ 불법악용 행위 철퇴",
+      "url": "https://n.news.naver.com/mnews/article/016/0002694941"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6995.39,
+      "value": 6954.52,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 822.19,
+      "value": 811.88,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26421.41,
-      "change": -85.58,
-      "change_pct": -0.32
+      "value": 26253.34,
+      "change": -168.07,
+      "change_pct": -0.64
     },
     "usdkrw": {
-      "value": 1340.53,
-      "change": -3.04,
-      "change_pct": -0.23
+      "value": 1339.31,
+      "change": -4.26,
+      "change_pct": -0.32
     }
   },
   "gold": {
-    "price_usd": 4396.8,
-    "price_krw": 5894042,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4444.8,
+    "price_krw": 5952964,
+    "change": 50.9,
+    "change_pct": 1.16
   },
-  "updated": "2026-09-09 08:01",
+  "updated": "2026-09-10 07:48",
   "error": null
 }
