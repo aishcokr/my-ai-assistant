@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"어떤 인가 받아야 하나\"…디지털자산 금융 혁신 가로막는 규제 장벽",
-      "url": "https://n.news.naver.com/mnews/article/029/0003047357"
+      "title": "“싸거나 특별하거나”…달라진 한가위 선물 공식[2026 한가위 선물 ①]",
+      "url": "https://n.news.naver.com/mnews/article/138/0002241000"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012254570"
+      "url": "https://n.news.naver.com/mnews/article/448/0000638658"
     },
     {
-      "title": "한국투자증권, 피델리티·핌코·칼라일과 전략적 협력",
-      "url": "https://n.news.naver.com/mnews/article/018/0006366711"
+      "title": "\"을(乙) 위한다더니 88% 배제\" 논란에…주병기 \"가맹점주 단체등록 요건 '30명 하한선' 완화 검토\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005815076"
     },
     {
-      "title": "한은 \"레버리지 ETF·빚투, 증시 변동성 키워\"",
-      "url": "https://n.news.naver.com/mnews/article/586/0000137894"
+      "title": "조용범 차관 “미래기금, 재정 역사 전례 없어…국민 신뢰 얻어야”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012255681"
     },
     {
-      "title": "SK하이닉스 성과급 현금 40→50%…주식 비중은 ‘직접 선택’",
-      "url": "https://n.news.naver.com/mnews/article/011/0004660438"
+      "title": "원화 RWA 글로벌 진출 '첫발'…\"기술보다 제도 인프라가 관건\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006367821"
     },
     {
-      "title": "무신사 뷰티, 홍대에 첫 단독 오프라인 매장… '파머시 뷰티' 전략",
-      "url": "https://n.news.naver.com/mnews/article/469/0000953325"
+      "title": "‘역대급 불장’에 자산운용사 2분기 순익 2.7조…전년比 83.4%↑",
+      "url": "https://n.news.naver.com/mnews/article/018/0006367345"
     },
     {
-      "title": "CPTPP 가입 논의에 농업계 반발…송미령 “가입 전제 아냐”",
-      "url": "https://n.news.naver.com/mnews/article/119/0003131431"
+      "title": "포스코 '48시간 부분파업' 오전 7시 종료…시민들 \"여기서 끝내야\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009164211"
     },
     {
-      "title": "강남3구 동반 하락 … 강북은 '불장'",
-      "url": "https://n.news.naver.com/mnews/article/009/0005733481"
+      "title": "SK바이오팜 \"오파칼림 독성 문제 해결 되면 업프론트 지급\"",
+      "url": "https://n.news.naver.com/mnews/article/215/0001265628"
     },
     {
-      "title": "롯데, '롯데다움' 학습한 자체 AI 디자인 플랫폼 개발",
-      "url": "https://n.news.naver.com/mnews/article/277/0005814695"
+      "title": "국민연금, LG 손잡고 ‘AI 기반 환율 분석서비스’ 개발",
+      "url": "https://n.news.naver.com/mnews/article/016/0002696138"
     },
     {
-      "title": "‘인플레 앞엔 장사 없다’…뉴욕증시, 유가 100달러 돌파에 나흘 연속 줄하락 [투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002695760"
+      "title": "원/달러 환율, 6.7원 오른 1345.9원",
+      "url": "https://n.news.naver.com/mnews/article/008/0005412567"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7051.64,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 830.37,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26081.72,
-      "change": -171.62,
-      "change_pct": -0.65
+      "value": 26333.04,
+      "change": 251.31,
+      "change_pct": 0.96
     },
     "usdkrw": {
-      "value": 1349.23,
-      "change": 10.02,
-      "change_pct": 0.75
+      "value": 1341.05,
+      "change": 1.88,
+      "change_pct": 0.14
     }
   },
   "gold": {
-    "price_usd": 4357.3,
-    "price_krw": 5878999,
-    "change": -58.7,
-    "change_pct": -1.33
+    "price_usd": 4390.0,
+    "price_krw": 5887209,
+    "change": 25.5,
+    "change_pct": 0.58
   },
-  "updated": "2026-09-11 07:49",
+  "updated": "2026-09-12 07:49",
   "error": null
 }
