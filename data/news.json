@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "“싸거나 특별하거나”…달라진 한가위 선물 공식[2026 한가위 선물 ①]",
-      "url": "https://n.news.naver.com/mnews/article/138/0002241000"
+      "title": "KB발 '세대교체 바람' 번지나…'임기 끝' 5대 금융 CEO만 54명",
+      "url": "https://n.news.naver.com/mnews/article/001/0016306202"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/448/0000638658"
+      "title": "“퇴직금 10년 묵혀도 소용없다”…연금수령 절세법 [머니 트레이스]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004661103"
     },
     {
-      "title": "\"을(乙) 위한다더니 88% 배제\" 논란에…주병기 \"가맹점주 단체등록 요건 '30명 하한선' 완화 검토\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005815076"
+      "title": "뉴욕증시, 5거래일 만 반등...유가 하락·CPI 불확실 해소 덕",
+      "url": "https://n.news.naver.com/mnews/article/014/0005574720"
     },
     {
-      "title": "조용범 차관 “미래기금, 재정 역사 전례 없어…국민 신뢰 얻어야”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012255681"
+      "title": "농식품부 송미령 장관, 추석 성수품 공급·유통 점검",
+      "url": "https://n.news.naver.com/mnews/article/001/0016305986"
     },
     {
-      "title": "원화 RWA 글로벌 진출 '첫발'…\"기술보다 제도 인프라가 관건\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006367821"
+      "title": "\"퇴근길에도 사고 판다\"…내 주식거래 어떻게 바뀌나[12시간 거래시대①]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014185671"
     },
     {
-      "title": "‘역대급 불장’에 자산운용사 2분기 순익 2.7조…전년比 83.4%↑",
-      "url": "https://n.news.naver.com/mnews/article/018/0006367345"
+      "title": "클래리티법·금리 분수령…숨죽인 코인시장",
+      "url": "https://n.news.naver.com/mnews/article/648/0000050709"
     },
     {
-      "title": "포스코 '48시간 부분파업' 오전 7시 종료…시민들 \"여기서 끝내야\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009164211"
+      "title": "국제유가 상승에도 주유소 휘발유값 17주째 하락",
+      "url": "https://n.news.naver.com/mnews/article/018/0006368005"
     },
     {
-      "title": "SK바이오팜 \"오파칼림 독성 문제 해결 되면 업프론트 지급\"",
-      "url": "https://n.news.naver.com/mnews/article/215/0001265628"
+      "title": "329만원 아이폰, 접었다고 지갑도 열릴까[테크톡노트]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016305743"
     },
     {
-      "title": "국민연금, LG 손잡고 ‘AI 기반 환율 분석서비스’ 개발",
-      "url": "https://n.news.naver.com/mnews/article/016/0002696138"
+      "title": "정부의 \"닥치고 공급\" 현실적으로 가능한 해결책일까?",
+      "url": "https://n.news.naver.com/mnews/hotissue/article/050/0000110790?type=series&cid=1082144"
     },
     {
-      "title": "원/달러 환율, 6.7원 오른 1345.9원",
-      "url": "https://n.news.naver.com/mnews/article/008/0005412567"
+      "title": "집 있어도 없어도 “오른다”…서울 집값 기대감 역대급",
+      "url": "https://n.news.naver.com/mnews/hotissue/article/050/0000110415?type=series&cid=1082144"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6909.91,
+      "change": -124.01,
+      "change_pct": -1.76
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 820.64,
+      "change": -16.28,
+      "change_pct": -1.95
     },
     "nasdaq": {
       "value": 26333.04,
-      "change": 251.31,
+      "change": 251.32,
       "change_pct": 0.96
     },
     "usdkrw": {
       "value": 1341.05,
-      "change": 1.88,
-      "change_pct": 0.14
+      "change": -7.12,
+      "change_pct": -0.53
     }
   },
   "gold": {
-    "price_usd": 4390.0,
-    "price_krw": 5887209,
-    "change": 25.5,
-    "change_pct": 0.58
+    "price_usd": 4366.2,
+    "price_krw": 5855292,
+    "change": 1.7,
+    "change_pct": 0.04
   },
-  "updated": "2026-09-12 07:49",
+  "updated": "2026-09-13 07:40",
   "error": null
 }
