@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "KB발 '세대교체 바람' 번지나…'임기 끝' 5대 금융 CEO만 54명",
-      "url": "https://n.news.naver.com/mnews/article/001/0016306202"
+      "title": "美기준금리 오를까…고금리·고유가에 코스피 '덜덜' [주간 증시 전망]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003132005"
     },
     {
-      "title": "“퇴직금 10년 묵혀도 소용없다”…연금수령 절세법 [머니 트레이스]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004661103"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002406491"
     },
     {
-      "title": "뉴욕증시, 5거래일 만 반등...유가 하락·CPI 불확실 해소 덕",
-      "url": "https://n.news.naver.com/mnews/article/014/0005574720"
+      "title": "이형일 부총리 후보자 이번주 청문…'비거주 1주택'·부동산 세제 도마 위",
+      "url": "https://n.news.naver.com/mnews/article/421/0009166498"
     },
     {
-      "title": "농식품부 송미령 장관, 추석 성수품 공급·유통 점검",
-      "url": "https://n.news.naver.com/mnews/article/001/0016305986"
+      "title": "최태원 \"정유사 SK이노, AX 컨설팅사로 진화할 것\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005331757"
     },
     {
-      "title": "\"퇴근길에도 사고 판다\"…내 주식거래 어떻게 바뀌나[12시간 거래시대①]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014185671"
+      "title": "갤럭시 모델로 활동했던 로제, 신형 아이폰 셀카에 삼성 도발 \"우리에게 물어보지\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005815428"
     },
     {
-      "title": "클래리티법·금리 분수령…숨죽인 코인시장",
-      "url": "https://n.news.naver.com/mnews/article/648/0000050709"
+      "title": "전세사기 빚 떠안은 대전 피해자 642명…비수도권 최다",
+      "url": "https://n.news.naver.com/mnews/article/656/0000186660"
     },
     {
-      "title": "국제유가 상승에도 주유소 휘발유값 17주째 하락",
-      "url": "https://n.news.naver.com/mnews/article/018/0006368005"
+      "title": "'IMF 이후 최대' 얼어붙은 20대 고용시장…인구 감소보다 더 빠른 취업자 감소",
+      "url": "https://n.news.naver.com/mnews/article/014/0005575028"
     },
     {
-      "title": "329만원 아이폰, 접었다고 지갑도 열릴까[테크톡노트]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016305743"
+      "title": "미·중 쫓는 현대차 자율주행…“양산 5년 안에 경쟁사 데이터량 추월”",
+      "url": "https://n.news.naver.com/mnews/article/028/0002822786"
     },
     {
-      "title": "정부의 \"닥치고 공급\" 현실적으로 가능한 해결책일까?",
-      "url": "https://n.news.naver.com/mnews/hotissue/article/050/0000110790?type=series&cid=1082144"
+      "title": "HD현대중, 울산 지역아동센터에 '과학 체험' 행사 지원",
+      "url": "https://n.news.naver.com/mnews/article/001/0016306504"
     },
     {
-      "title": "집 있어도 없어도 “오른다”…서울 집값 기대감 역대급",
-      "url": "https://n.news.naver.com/mnews/hotissue/article/050/0000110415?type=series&cid=1082144"
+      "title": "이형일 \"금투세 도입 여부, 시장 충분히 안정된 후 검토\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016306195"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.96
     },
     "usdkrw": {
-      "value": 1341.05,
-      "change": -7.12,
-      "change_pct": -0.53
+      "value": 1342.97,
+      "change": -5.2,
+      "change_pct": -0.39
     }
   },
   "gold": {
-    "price_usd": 4366.2,
-    "price_krw": 5855292,
-    "change": 1.7,
-    "change_pct": 0.04
+    "price_usd": 4376.8,
+    "price_krw": 5877910,
+    "change": 10.6,
+    "change_pct": 0.24
   },
-  "updated": "2026-09-13 07:40",
+  "updated": "2026-09-14 07:41",
   "error": null
 }
