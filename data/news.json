@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "美기준금리 오를까…고금리·고유가에 코스피 '덜덜' [주간 증시 전망]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003132005"
+      "title": "수급 확대 기대…KRX 애프터마켓 주목할 점 '세 가지'",
+      "url": "https://n.news.naver.com/mnews/article/008/0005413568"
+    },
+    {
+      "title": "291만원 항공권 취소했더니 수수료 77만원...이중수수료 주의",
+      "url": "https://n.news.naver.com/mnews/article/469/0000953876"
+    },
+    {
+      "title": "LG “전문가 AI가 고른 종목, S＆P500보다 수익률 20% 앞서”",
+      "url": "https://n.news.naver.com/mnews/article/081/0003680235"
+    },
+    {
+      "title": "정부 \"조선업 힘들면 국민 힘들다\"는데..'6개 노조 공동파업' 으름장",
+      "url": "https://n.news.naver.com/mnews/article/014/0005575072"
+    },
+    {
+      "title": "기아 ‘PV7’ 세계 첫 공개…“23개 파생모델로 PBV 확장” [여車저車]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002697113"
+    },
+    {
+      "title": "삼성D, 세계 최초 '2K·165Hz' OLED 개발…中 스마트폰에 공급",
+      "url": "https://n.news.naver.com/mnews/article/008/0005413233"
+    },
+    {
+      "title": "환율 하락으로 8월 수출입물가 하락…수입물가 석달째↓",
+      "url": "https://n.news.naver.com/mnews/article/079/0004189281"
+    },
+    {
+      "title": "물가 불안 조장 탈세 혐의 1조 원 포착...'배민·풀무원·무신사' 등 41개 업체 조사",
+      "url": "https://n.news.naver.com/mnews/article/052/0002406828"
+    },
+    {
+      "title": "씹기 편하고 영양 맞춘 '늘편푸드' 16종 품평회…판로 확대",
+      "url": "https://n.news.naver.com/mnews/article/003/0014189827"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002406491"
-    },
-    {
-      "title": "이형일 부총리 후보자 이번주 청문…'비거주 1주택'·부동산 세제 도마 위",
-      "url": "https://n.news.naver.com/mnews/article/421/0009166498"
-    },
-    {
-      "title": "최태원 \"정유사 SK이노, AX 컨설팅사로 진화할 것\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005331757"
-    },
-    {
-      "title": "갤럭시 모델로 활동했던 로제, 신형 아이폰 셀카에 삼성 도발 \"우리에게 물어보지\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005815428"
-    },
-    {
-      "title": "전세사기 빚 떠안은 대전 피해자 642명…비수도권 최다",
-      "url": "https://n.news.naver.com/mnews/article/656/0000186660"
-    },
-    {
-      "title": "'IMF 이후 최대' 얼어붙은 20대 고용시장…인구 감소보다 더 빠른 취업자 감소",
-      "url": "https://n.news.naver.com/mnews/article/014/0005575028"
-    },
-    {
-      "title": "미·중 쫓는 현대차 자율주행…“양산 5년 안에 경쟁사 데이터량 추월”",
-      "url": "https://n.news.naver.com/mnews/article/028/0002822786"
-    },
-    {
-      "title": "HD현대중, 울산 지역아동센터에 '과학 체험' 행사 지원",
-      "url": "https://n.news.naver.com/mnews/article/001/0016306504"
-    },
-    {
-      "title": "이형일 \"금투세 도입 여부, 시장 충분히 안정된 후 검토\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016306195"
+      "url": "https://n.news.naver.com/mnews/article/052/0002406971"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6909.91,
-      "change": -124.01,
-      "change_pct": -1.76
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 820.64,
-      "change": -16.28,
-      "change_pct": -1.95
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26333.04,
-      "change": 251.32,
-      "change_pct": 0.96
+      "value": 26186.41,
+      "change": -146.62,
+      "change_pct": -0.56
     },
     "usdkrw": {
-      "value": 1342.97,
-      "change": -5.2,
-      "change_pct": -0.39
+      "value": 1346.2,
+      "change": 1.56,
+      "change_pct": 0.12
     }
   },
   "gold": {
-    "price_usd": 4376.8,
-    "price_krw": 5877910,
-    "change": 10.6,
-    "change_pct": 0.24
+    "price_usd": 4329.0,
+    "price_krw": 5827699,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-14 07:41",
+  "updated": "2026-09-15 08:32",
   "error": null
 }
