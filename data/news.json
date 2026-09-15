@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "수급 확대 기대…KRX 애프터마켓 주목할 점 '세 가지'",
-      "url": "https://n.news.naver.com/mnews/article/008/0005413568"
+      "title": "현직 프리미엄 약화되나… 농협·iM지주 회장 인선 '안갯속'",
+      "url": "https://n.news.naver.com/mnews/article/014/0005576270"
     },
     {
-      "title": "291만원 항공권 취소했더니 수수료 77만원...이중수수료 주의",
-      "url": "https://n.news.naver.com/mnews/article/469/0000953876"
+      "title": "조현준 “5년 내 글로벌 톱3”…효성중공업, 美 빅테크서 3865억 수주",
+      "url": "https://n.news.naver.com/mnews/article/119/0003132708"
     },
     {
-      "title": "LG “전문가 AI가 고른 종목, S＆P500보다 수익률 20% 앞서”",
-      "url": "https://n.news.naver.com/mnews/article/081/0003680235"
+      "title": "美 국채 금리·유가 상승·AI 개발 속도 조절론에 뉴욕증시 일제히 하락 마감",
+      "url": "https://n.news.naver.com/mnews/article/366/0001192349"
     },
     {
-      "title": "정부 \"조선업 힘들면 국민 힘들다\"는데..'6개 노조 공동파업' 으름장",
-      "url": "https://n.news.naver.com/mnews/article/014/0005575072"
+      "title": "또 인사개입…금감원장 “은행장 승계절차 미흡”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004662127"
     },
     {
-      "title": "기아 ‘PV7’ 세계 첫 공개…“23개 파생모델로 PBV 확장” [여車저車]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002697113"
+      "title": "공정위 문턱넘은 대한항공·아시아나 '마일리지 통합'…\"탑승 1대1, 제휴 1대0.82\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014191509"
     },
     {
-      "title": "삼성D, 세계 최초 '2K·165Hz' OLED 개발…中 스마트폰에 공급",
-      "url": "https://n.news.naver.com/mnews/article/008/0005413233"
+      "title": "\"월 매출의 22% 플랫폼에\"…입점 중소기업 '울상'",
+      "url": "https://n.news.naver.com/mnews/article/003/0014191071"
     },
     {
-      "title": "환율 하락으로 8월 수출입물가 하락…수입물가 석달째↓",
-      "url": "https://n.news.naver.com/mnews/article/079/0004189281"
+      "title": "미국 클래리티법, 끝내 상원서 부결…비트코인 급락세",
+      "url": "https://n.news.naver.com/mnews/article/018/0006370031"
     },
     {
-      "title": "물가 불안 조장 탈세 혐의 1조 원 포착...'배민·풀무원·무신사' 등 41개 업체 조사",
-      "url": "https://n.news.naver.com/mnews/article/052/0002406828"
-    },
-    {
-      "title": "씹기 편하고 영양 맞춘 '늘편푸드' 16종 품평회…판로 확대",
-      "url": "https://n.news.naver.com/mnews/article/003/0014189827"
+      "title": "치솟은 추석 장바구니 물가…전통시장 가면 8만 원 덜 든다",
+      "url": "https://n.news.naver.com/mnews/article/656/0000186830"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002406971"
+      "url": "https://n.news.naver.com/mnews/article/056/0012257502"
+    },
+    {
+      "title": "교보생명, 자회사 라이프플래닛 흡수합병…\"디지털 경쟁력 확보\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016312787"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6909.91,
+      "value": 6684.37,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 820.64,
+      "value": 806.79,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26186.41,
-      "change": -146.62,
-      "change_pct": -0.56
+      "value": 25981.57,
+      "change": -204.84,
+      "change_pct": -0.78
     },
     "usdkrw": {
-      "value": 1346.2,
-      "change": 1.56,
-      "change_pct": 0.12
+      "value": 1362.3,
+      "change": 16.69,
+      "change_pct": 1.24
     }
   },
   "gold": {
-    "price_usd": 4329.0,
-    "price_krw": 5827699,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4327.1,
+    "price_krw": 5894808,
+    "change": -24.8,
+    "change_pct": -0.57
   },
-  "updated": "2026-09-15 08:32",
+  "updated": "2026-09-16 08:13",
   "error": null
 }
