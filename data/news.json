@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "8개월 만에 증시에 돌아온 외국인…지난달 코스피 1.9조 순매수",
-      "url": "https://n.news.naver.com/mnews/article/008/0005415600"
+      "title": "SK하닉, 실리콘밸리에 ‘SK하이닉스 벤처스’ 출범…AI 투자 영토 넓힌다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006372166"
     },
     {
-      "title": "더본코리아, 종토방 주주 고소 나섰다…“허위사실 법적 대응”",
-      "url": "https://n.news.naver.com/mnews/article/005/0001873652"
+      "title": "뉴욕증시, 유가·국채 금리 하락에 일제히 상승",
+      "url": "https://n.news.naver.com/mnews/article/366/0001193171"
     },
     {
-      "title": "한화시스템, UAE 통합대공망 구축 추진에 12%대 급등[이런국장 저런주식]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004662923"
+      "title": "투자 성적표 따져보니 '서울 부동산' 1위…S&P500도 제쳤다",
+      "url": "https://n.news.naver.com/mnews/article/215/0001266443"
     },
     {
-      "title": "서울 아파트값 7월에도 상승···1년 새 14.56% 올라",
-      "url": "https://n.news.naver.com/mnews/article/032/0003471255"
+      "title": "주유소협회 \"고속도로 주유소 L당 100원 인하, 가격경쟁 왜곡\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016320708"
     },
     {
-      "title": "대한상의, 청년 4.9만명 '취업 사다리' 놓는다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005333591"
+      "title": "인텔 협력 이어 美 낸드 공장까지? SK하이닉스, 미국 행보 ‘속도’",
+      "url": "https://n.news.naver.com/mnews/article/050/0000111106"
     },
     {
-      "title": "토허구역 ‘세 낀 매물’ 2029년까지 입주 유예",
-      "url": "https://n.news.naver.com/mnews/article/081/0003681395"
+      "title": "포필러스, 아부다비 퍼더와 손잡고 기관 블록체인 시장 공략",
+      "url": "https://n.news.naver.com/mnews/article/018/0006371806"
     },
     {
-      "title": "대규모유통업 대금 지급기한 단축…직매입 60일→35일",
-      "url": "https://n.news.naver.com/mnews/article/092/0002437948"
+      "title": "권영민 두산로보틱스 사장[프로필]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003134425"
     },
     {
-      "title": "기업 10곳 중 1곳만 “추석 경기 좋아졌다”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004662862"
+      "title": "유류세 인하 11월말까지 연장…휘발유 15%·경유 25% 유지",
+      "url": "https://n.news.naver.com/mnews/article/079/0004190767"
     },
     {
-      "title": "韓총리 \"韓, 美가 가장 신뢰하는 동맹…불합리한 규제 정비\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016319249"
+      "title": "\"가족을 태우고 싶은 차\" 플래그십 전기 세단 '볼보 ES90'[타보니]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005818125"
     },
     {
-      "title": "신한은행, ‘연 14.5조’ 인천시 제1금고 수성…하나은행 또 고배",
-      "url": "https://n.news.naver.com/mnews/article/081/0003681372"
+      "title": "‘민생 추경’에 지난해 공공부문 83.1조원 적자, ‘역대 최대’",
+      "url": "https://n.news.naver.com/mnews/article/016/0002699500"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6717.97,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 815.98,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26418.3,
-      "change": 439.87,
-      "change_pct": 1.69
+      "value": 26522.54,
+      "change": 104.24,
+      "change_pct": 0.39
     },
     "usdkrw": {
-      "value": 1380.38,
-      "change": 3.78,
-      "change_pct": 0.27
+      "value": 1385.95,
+      "change": 9.35,
+      "change_pct": 0.68
     }
   },
   "gold": {
-    "price_usd": 4383.2,
-    "price_krw": 6050481,
-    "change": -4.3,
-    "change_pct": -0.1
+    "price_usd": 4415.9,
+    "price_krw": 6120216,
+    "change": 16.2,
+    "change_pct": 0.37
   },
-  "updated": "2026-09-18 08:08",
+  "updated": "2026-09-19 07:52",
   "error": null
 }
