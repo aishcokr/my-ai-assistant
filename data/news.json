@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "추석 앞두고 구제역 ‘비상’…전국 농장 일제소독",
-      "url": "https://n.news.naver.com/mnews/article/662/0000104675"
+      "title": "상반기 임금 3.1%↑…상승분 3분의 1은 반도체 성과급",
+      "url": "https://n.news.naver.com/mnews/article/056/0012260717"
     },
     {
-      "title": "‘농촌관광 가는 주간’ 한 달로 확대…10·11월 할인·이벤트",
-      "url": "https://n.news.naver.com/mnews/article/018/0006372571"
+      "title": "\"월급 옮겨도 대출금리 안 깎이네\"…'이것' 안 적었더니",
+      "url": "https://n.news.naver.com/mnews/article/018/0006373290"
     },
     {
-      "title": "금리 인상 페달 밟는 日… 집 나갔던 360조엔 돌아가나",
-      "url": "https://n.news.naver.com/mnews/article/023/0003999334"
+      "title": "삼전닉스 자사주 매입 끝?…추석 후 '수급 절벽' 어쩌나",
+      "url": "https://n.news.naver.com/mnews/article/215/0001266570"
     },
     {
-      "title": "롯데百, 추석 귀성길용 휴대용 선물세트 선보여",
-      "url": "https://n.news.naver.com/mnews/article/001/0016322956"
+      "title": "2차 모두의 창업 지원자 51.8% 10·20대…실제 창업 이어질까",
+      "url": "https://n.news.naver.com/mnews/article/008/0005416208"
     },
     {
-      "title": "4일 만에 1.8조 폭풍 매수… 서학개미, 미 증시 우상향에 올인",
-      "url": "https://n.news.naver.com/mnews/article/243/0000103289"
+      "title": "끝 모를 전셋값 상승…강북 외곽도 ‘국평’ 11억 찍었다",
+      "url": "https://n.news.naver.com/mnews/article/005/0001874090"
     },
     {
-      "title": "추석 연휴 길어지니 국내여행도 늘었다…리조트 이동 증가폭 2.7배",
-      "url": "https://n.news.naver.com/mnews/article/014/0005578207"
+      "title": "철도승차권 두달 전부터 예매 가능해진다…제공 외국어 10개로 확대",
+      "url": "https://n.news.naver.com/mnews/article/277/0005818848"
     },
     {
-      "title": "운동하기 좋은 계절, 백화점서 만나는 파크골프·피클볼[위클리 쇼핑]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014200888"
+      "title": "현대차, 5세대 '디 올 뉴 투싼' 공개",
+      "url": "https://n.news.naver.com/mnews/article/015/0005334352"
     },
     {
-      "title": "휘발유 1858원·경유 1844원…주유소 기름값 18주째 하락",
-      "url": "https://n.news.naver.com/mnews/article/022/0004160322"
+      "title": "추석 연휴·미중 회담으로 변동성↑…\"저가 매수 기회\"  [주간 증시 전망]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005578403"
     },
     {
-      "title": "지평 넓히는 액티브 ETF…이달 순자산, 작년 말의 2.6배로",
-      "url": "https://n.news.naver.com/mnews/article/001/0016322982"
+      "title": "추석 고속도로 하루에 605만대 몰린다…가장 막히는 시간은?",
+      "url": "https://n.news.naver.com/mnews/article/009/0005737792"
     },
     {
-      "title": "‘토큰증권’ 시대…코인처럼 생겼는데 주식?",
-      "url": "https://n.news.naver.com/mnews/article/024/0000108343"
+      "title": "석유유통협회 \"고속도로 주유소 100원 할인, 공정경쟁 흔들어\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016324894"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.39
     },
     "usdkrw": {
-      "value": 1385.0,
-      "change": 5.47,
-      "change_pct": 0.4
+      "value": 1385.32,
+      "change": 5.79,
+      "change_pct": 0.42
     }
   },
   "gold": {
-    "price_usd": 4424.9,
-    "price_krw": 6128486,
-    "change": 25.2,
-    "change_pct": 0.57
+    "price_usd": 4414.3,
+    "price_krw": 6115217,
+    "change": -10.6,
+    "change_pct": -0.24
   },
-  "updated": "2026-09-20 07:32",
+  "updated": "2026-09-21 07:45",
   "error": null
 }
