@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "상반기 임금 3.1%↑…상승분 3분의 1은 반도체 성과급",
-      "url": "https://n.news.naver.com/mnews/article/056/0012260717"
+      "title": "1380원대 후반서 제동…8거래일 만에 원/달러 환율 하락",
+      "url": "https://n.news.naver.com/mnews/article/008/0005416876"
     },
     {
-      "title": "\"월급 옮겨도 대출금리 안 깎이네\"…'이것' 안 적었더니",
-      "url": "https://n.news.naver.com/mnews/article/018/0006373290"
+      "title": "비트코인, 8개월 만에 8만 5천 달러 회복",
+      "url": "https://n.news.naver.com/mnews/article/055/0001390179"
     },
     {
-      "title": "삼전닉스 자사주 매입 끝?…추석 후 '수급 절벽' 어쩌나",
-      "url": "https://n.news.naver.com/mnews/article/215/0001266570"
+      "title": "LG엔솔, 엔비디아 첫 'DSX 레디' 합류…국내 배터리사 유일",
+      "url": "https://n.news.naver.com/mnews/article/008/0005417062"
     },
     {
-      "title": "2차 모두의 창업 지원자 51.8% 10·20대…실제 창업 이어질까",
-      "url": "https://n.news.naver.com/mnews/article/008/0005416208"
+      "title": "'AI 낙관론'에 뉴욕증시 급등…나스닥 사상 최고치 경신",
+      "url": "https://n.news.naver.com/mnews/article/469/0000955434"
     },
     {
-      "title": "끝 모를 전셋값 상승…강북 외곽도 ‘국평’ 11억 찍었다",
-      "url": "https://n.news.naver.com/mnews/article/005/0001874090"
+      "title": "LGD, 세계 첫 24.5인치 720Hz 게이밍 OLED 출시…e스포츠 공략",
+      "url": "https://n.news.naver.com/mnews/article/018/0006373440"
     },
     {
-      "title": "철도승차권 두달 전부터 예매 가능해진다…제공 외국어 10개로 확대",
-      "url": "https://n.news.naver.com/mnews/article/277/0005818848"
+      "title": "고양시의회 국민의힘 의원들 \"대곡역세권 추가 주택공급 중단해야\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005416779"
     },
     {
-      "title": "현대차, 5세대 '디 올 뉴 투싼' 공개",
-      "url": "https://n.news.naver.com/mnews/article/015/0005334352"
+      "title": "\"우리 공장 뭐부터 AI로?\"…산업부, 제조업 CEO와 'M.AX 해커톤'",
+      "url": "https://n.news.naver.com/mnews/article/079/0004191680"
     },
     {
-      "title": "추석 연휴·미중 회담으로 변동성↑…\"저가 매수 기회\"  [주간 증시 전망]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005578403"
+      "title": "\"이 시간에 전기차 충전하면 반값\"…추석 연휴 '파격 할인'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005334714"
     },
     {
-      "title": "추석 고속도로 하루에 605만대 몰린다…가장 막히는 시간은?",
-      "url": "https://n.news.naver.com/mnews/article/009/0005737792"
+      "title": "쿠팡, 대만서 20만명 개인정보 유출로 6000만원대 과징금",
+      "url": "https://n.news.naver.com/mnews/article/366/0001193761"
     },
     {
-      "title": "석유유통협회 \"고속도로 주유소 100원 할인, 공정경쟁 흔들어\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016324894"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000534197"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6894.23,
-      "change": 178.82,
-      "change_pct": 2.66
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 827.12,
-      "change": 4.94,
-      "change_pct": 0.6
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26522.54,
-      "change": 104.24,
-      "change_pct": 0.39
+      "value": 27122.09,
+      "change": 599.55,
+      "change_pct": 2.26
     },
     "usdkrw": {
-      "value": 1385.32,
-      "change": 5.79,
-      "change_pct": 0.42
+      "value": 1374.26,
+      "change": -10.6,
+      "change_pct": -0.77
     }
   },
   "gold": {
-    "price_usd": 4414.3,
-    "price_krw": 6115217,
-    "change": -10.6,
-    "change_pct": -0.24
+    "price_usd": 4398.7,
+    "price_krw": 6044957,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-21 07:45",
+  "updated": "2026-09-22 08:41",
   "error": null
 }
