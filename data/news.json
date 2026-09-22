@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "1380원대 후반서 제동…8거래일 만에 원/달러 환율 하락",
-      "url": "https://n.news.naver.com/mnews/article/008/0005416876"
+      "title": "서울시, 제11회 서울우수한옥 인증공모…전통의 멋과 현대적 편리함",
+      "url": "https://n.news.naver.com/mnews/article/001/0016331315"
     },
     {
-      "title": "비트코인, 8개월 만에 8만 5천 달러 회복",
-      "url": "https://n.news.naver.com/mnews/article/055/0001390179"
+      "title": "하나은행, 정기예금 금리 연 3.40%로…이달 두 차례 인상",
+      "url": "https://n.news.naver.com/mnews/article/018/0006374494"
     },
     {
-      "title": "LG엔솔, 엔비디아 첫 'DSX 레디' 합류…국내 배터리사 유일",
-      "url": "https://n.news.naver.com/mnews/article/008/0005417062"
+      "title": "이소영 신임 중기부 장관 공식 임기 시작…“현장에서 답 찾겠다”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012262194"
     },
     {
-      "title": "'AI 낙관론'에 뉴욕증시 급등…나스닥 사상 최고치 경신",
-      "url": "https://n.news.naver.com/mnews/article/469/0000955434"
+      "title": "우버, 배민 품고 한국 배달시장 재진입하나…공정위 사전심사",
+      "url": "https://n.news.naver.com/mnews/article/666/0000124550"
     },
     {
-      "title": "LGD, 세계 첫 24.5인치 720Hz 게이밍 OLED 출시…e스포츠 공략",
-      "url": "https://n.news.naver.com/mnews/article/018/0006373440"
+      "title": "열 식히고, 배터리 꽂고… LG, MS·엔비디아와 ‘AI 동맹’",
+      "url": "https://n.news.naver.com/mnews/article/081/0003682934"
     },
     {
-      "title": "고양시의회 국민의힘 의원들 \"대곡역세권 추가 주택공급 중단해야\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005416779"
+      "title": "걷고 나르고 순서 맞춰 정리…로봇 인턴 “우리 곧 발령나요”",
+      "url": "https://n.news.naver.com/mnews/article/032/0003472156"
     },
     {
-      "title": "\"우리 공장 뭐부터 AI로?\"…산업부, 제조업 CEO와 'M.AX 해커톤'",
-      "url": "https://n.news.naver.com/mnews/article/079/0004191680"
+      "title": "美연준 바킨 \"인플레 위험, 고용보다 크다\"…추가 금리인상 열어둬",
+      "url": "https://n.news.naver.com/mnews/article/014/0005580040"
     },
     {
-      "title": "\"이 시간에 전기차 충전하면 반값\"…추석 연휴 '파격 할인'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005334714"
+      "title": "추석 연휴 고속도로 통행료 ‘0원’…주유소 기름값 ℓ당 100원 인하",
+      "url": "https://n.news.naver.com/mnews/article/081/0003682606"
     },
     {
-      "title": "쿠팡, 대만서 20만명 개인정보 유출로 6000만원대 과징금",
-      "url": "https://n.news.naver.com/mnews/article/366/0001193761"
+      "title": "삼성바이오 노사 내달 3차 조정…노조 \"단체행동 준비\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016330537"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000534197"
+      "title": "소득 개선 기대에 소비심리 한달 만 반등 [Pick코노미]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004664770"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6894.23,
+      "value": 7007.72,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 827.12,
+      "value": 836.27,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27122.09,
-      "change": 599.55,
-      "change_pct": 2.26
+      "value": 27244.28,
+      "change": 122.19,
+      "change_pct": 0.45
     },
     "usdkrw": {
-      "value": 1374.26,
-      "change": -10.6,
-      "change_pct": -0.77
+      "value": 1355.13,
+      "change": -18.55,
+      "change_pct": -1.35
     }
   },
   "gold": {
-    "price_usd": 4398.7,
-    "price_krw": 6044957,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4401.0,
+    "price_krw": 5963927,
+    "change": 17.1,
+    "change_pct": 0.39
   },
-  "updated": "2026-09-22 08:41",
+  "updated": "2026-09-23 08:18",
   "error": null
 }
