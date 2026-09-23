@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "서울시, 제11회 서울우수한옥 인증공모…전통의 멋과 현대적 편리함",
-      "url": "https://n.news.naver.com/mnews/article/001/0016331315"
+      "title": "원·달러 환율, 0.2원 오른 1358.4원",
+      "url": "https://n.news.naver.com/mnews/article/366/0001194231"
     },
     {
-      "title": "하나은행, 정기예금 금리 연 3.40%로…이달 두 차례 인상",
-      "url": "https://n.news.naver.com/mnews/article/018/0006374494"
+      "title": "연 4.3%에 1000억 몰렸다…삼성증권 발행어음 이틀 반 만에 ‘완판’",
+      "url": "https://n.news.naver.com/mnews/article/243/0000103484"
     },
     {
-      "title": "이소영 신임 중기부 장관 공식 임기 시작…“현장에서 답 찾겠다”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012262194"
+      "title": "삼성전자, 차세대 저전력 D램 퀄컴 플랫폼서 ‘업계 최초’ 검증",
+      "url": "https://n.news.naver.com/mnews/article/366/0001194167"
     },
     {
-      "title": "우버, 배민 품고 한국 배달시장 재진입하나…공정위 사전심사",
-      "url": "https://n.news.naver.com/mnews/article/666/0000124550"
+      "title": "OECD, 한국 성장률 전망치 3.7%로  대폭 상향 조정···G20 중 상향 폭 가장 커",
+      "url": "https://n.news.naver.com/mnews/article/032/0003472274"
     },
     {
-      "title": "열 식히고, 배터리 꽂고… LG, MS·엔비디아와 ‘AI 동맹’",
-      "url": "https://n.news.naver.com/mnews/article/081/0003682934"
+      "title": "홍지선 국토장관 취임 “주택 공급, 숫자 아닌 실제 착공·입주 이어져야”",
+      "url": "https://n.news.naver.com/mnews/article/023/0004000109"
     },
     {
-      "title": "걷고 나르고 순서 맞춰 정리…로봇 인턴 “우리 곧 발령나요”",
-      "url": "https://n.news.naver.com/mnews/article/032/0003472156"
+      "title": "2030 사로잡은 왁뿌볼·말랑이…조사 제품 60%서 유해물질",
+      "url": "https://n.news.naver.com/mnews/article/014/0005580273"
     },
     {
-      "title": "美연준 바킨 \"인플레 위험, 고용보다 크다\"…추가 금리인상 열어둬",
-      "url": "https://n.news.naver.com/mnews/article/014/0005580040"
+      "title": "코인 호가창 '반짝반짝' 알고 보니 조작…친형제가 짜고 물량 털었다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005417956"
     },
     {
-      "title": "추석 연휴 고속도로 통행료 ‘0원’…주유소 기름값 ℓ당 100원 인하",
-      "url": "https://n.news.naver.com/mnews/article/081/0003682606"
+      "title": "승객 지갑서 현금 슬쩍, 음주 야근…너무한 코레일 자회사들",
+      "url": "https://n.news.naver.com/mnews/article/055/0001390664"
     },
     {
-      "title": "삼성바이오 노사 내달 3차 조정…노조 \"단체행동 준비\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016330537"
+      "title": "공정위 조사 시작 후 담합 자진 신고해도 과징금 부과",
+      "url": "https://n.news.naver.com/mnews/article/001/0016331726"
     },
     {
-      "title": "소득 개선 기대에 소비심리 한달 만 반등 [Pick코노미]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004664770"
+      "title": "“2035년 중동산 원유 의존도 50% 이하로”…정부, 비축유 2천만배럴 확충",
+      "url": "https://n.news.naver.com/mnews/article/009/0005739441"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7007.72,
+      "value": 7080.92,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 836.27,
+      "value": 844.48,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27244.28,
-      "change": 122.19,
-      "change_pct": 0.45
+      "value": 26936.04,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "usdkrw": {
-      "value": 1355.13,
-      "change": -18.55,
-      "change_pct": -1.35
+      "value": 1366.34,
+      "change": 15.98,
+      "change_pct": 1.18
     }
   },
   "gold": {
-    "price_usd": 4401.0,
-    "price_krw": 5963927,
-    "change": 17.1,
-    "change_pct": 0.39
+    "price_usd": 4325.3,
+    "price_krw": 5909830,
+    "change": -51.1,
+    "change_pct": -1.17
   },
-  "updated": "2026-09-23 08:18",
+  "updated": "2026-09-24 08:14",
   "error": null
 }
