@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "원·달러 환율, 0.2원 오른 1358.4원",
-      "url": "https://n.news.naver.com/mnews/article/366/0001194231"
+      "title": "서울 아파트 매매가격 85주째 ↑…역대 최장 상승 기간 동률",
+      "url": "https://n.news.naver.com/mnews/article/081/0003683417"
     },
     {
-      "title": "연 4.3%에 1000억 몰렸다…삼성증권 발행어음 이틀 반 만에 ‘완판’",
-      "url": "https://n.news.naver.com/mnews/article/243/0000103484"
+      "title": "HLB, 담관암 신약 '리픽투' FDA 승인…\"4분기 출시\"",
+      "url": "https://n.news.naver.com/mnews/article/215/0001267116"
     },
     {
-      "title": "삼성전자, 차세대 저전력 D램 퀄컴 플랫폼서 ‘업계 최초’ 검증",
-      "url": "https://n.news.naver.com/mnews/article/366/0001194167"
+      "title": "뉴욕 셰프도 41도 고급 소주에 ‘홀릭’…“K푸드에 딱 맞는 술”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004665185"
     },
     {
-      "title": "OECD, 한국 성장률 전망치 3.7%로  대폭 상향 조정···G20 중 상향 폭 가장 커",
-      "url": "https://n.news.naver.com/mnews/article/032/0003472274"
+      "title": "“포드 제치고 美 도로 질주”…현대차, GM·도요타 이어 3위 올라서나",
+      "url": "https://n.news.naver.com/mnews/article/009/0005739898"
     },
     {
-      "title": "홍지선 국토장관 취임 “주택 공급, 숫자 아닌 실제 착공·입주 이어져야”",
-      "url": "https://n.news.naver.com/mnews/article/023/0004000109"
+      "title": "‘레버리지 민족이라면서요?’ 美 ETF 브랜드 대표들 줄방한",
+      "url": "https://n.news.naver.com/mnews/article/005/0001874927"
     },
     {
-      "title": "2030 사로잡은 왁뿌볼·말랑이…조사 제품 60%서 유해물질",
-      "url": "https://n.news.naver.com/mnews/article/014/0005580273"
+      "title": "AI데이터센터 투자 늘면서 냉난방공조-보안 등 후방산업도 뜬다",
+      "url": "https://n.news.naver.com/mnews/article/020/0003750630"
     },
     {
-      "title": "코인 호가창 '반짝반짝' 알고 보니 조작…친형제가 짜고 물량 털었다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005417956"
+      "title": "추석 이후 4만8829가구 일반분양…10월에만 3만가구 몰린다",
+      "url": "https://n.news.naver.com/mnews/article/119/0003136153"
     },
     {
-      "title": "승객 지갑서 현금 슬쩍, 음주 야근…너무한 코레일 자회사들",
-      "url": "https://n.news.naver.com/mnews/article/055/0001390664"
+      "title": "“국민 감사”한다더니, 삼성전자 온누리상품권 지급 깜깜무소식",
+      "url": "https://n.news.naver.com/mnews/article/028/0002824515"
     },
     {
-      "title": "공정위 조사 시작 후 담합 자진 신고해도 과징금 부과",
-      "url": "https://n.news.naver.com/mnews/article/001/0016331726"
+      "title": "“연 4.3%에 1000억원 동났다”…삼성증권 첫 발행어음, 이틀 반 만에 완판",
+      "url": "https://n.news.naver.com/mnews/article/138/0002242589"
     },
     {
-      "title": "“2035년 중동산 원유 의존도 50% 이하로”…정부, 비축유 2천만배럴 확충",
-      "url": "https://n.news.naver.com/mnews/article/009/0005739441"
+      "title": "손주 추석 용돈도 증여세?…2000만원까지 공제, 주식 사면 달라진다",
+      "url": "https://n.news.naver.com/mnews/article/421/0009191091"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26936.04,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 26939.37,
+      "change": 3.33,
+      "change_pct": 0.01
     },
     "usdkrw": {
-      "value": 1366.34,
-      "change": 15.98,
-      "change_pct": 1.18
+      "value": 1367.75,
+      "change": 5.25,
+      "change_pct": 0.39
     }
   },
   "gold": {
-    "price_usd": 4325.3,
-    "price_krw": 5909830,
-    "change": -51.1,
-    "change_pct": -1.17
+    "price_usd": 4307.7,
+    "price_krw": 5891856,
+    "change": -10.7,
+    "change_pct": -0.25
   },
-  "updated": "2026-09-24 08:14",
+  "updated": "2026-09-25 08:35",
   "error": null
 }
