@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "서울 아파트 매매가격 85주째 ↑…역대 최장 상승 기간 동률",
-      "url": "https://n.news.naver.com/mnews/article/081/0003683417"
+      "title": "美 장기금리 상승의 국내 영향은?…\"환율↑·외인 자본 유출\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016335666"
     },
     {
-      "title": "HLB, 담관암 신약 '리픽투' FDA 승인…\"4분기 출시\"",
-      "url": "https://n.news.naver.com/mnews/article/215/0001267116"
+      "title": "20살 미만 구입 주택, 올해만 115건...260억 원",
+      "url": "https://n.news.naver.com/mnews/article/052/0002411069"
     },
     {
-      "title": "뉴욕 셰프도 41도 고급 소주에 ‘홀릭’…“K푸드에 딱 맞는 술”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004665185"
+      "title": "탈세 유명 유튜버 정조준...지난해 239억원 추징, 1인당 14억원",
+      "url": "https://n.news.naver.com/mnews/article/666/0000124862"
     },
     {
-      "title": "“포드 제치고 美 도로 질주”…현대차, GM·도요타 이어 3위 올라서나",
-      "url": "https://n.news.naver.com/mnews/article/009/0005739898"
+      "title": "할머니가 준 추석 용돈 1000만원…세금 63만원 나온 까닭 [숫자 뒤의 진실]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004161831"
     },
     {
-      "title": "‘레버리지 민족이라면서요?’ 美 ETF 브랜드 대표들 줄방한",
-      "url": "https://n.news.naver.com/mnews/article/005/0001874927"
+      "title": "美금리 악재에 버티기…숏청산에 8.4만달러 회복[코인 모닝콜]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006375436"
     },
     {
-      "title": "AI데이터센터 투자 늘면서 냉난방공조-보안 등 후방산업도 뜬다",
-      "url": "https://n.news.naver.com/mnews/article/020/0003750630"
+      "title": "추석 명절 노린 금융사기 기승…'배송 오류 문자' 클릭했다간 낭패",
+      "url": "https://n.news.naver.com/mnews/article/277/0005820807"
     },
     {
-      "title": "추석 이후 4만8829가구 일반분양…10월에만 3만가구 몰린다",
-      "url": "https://n.news.naver.com/mnews/article/119/0003136153"
+      "title": "고금리에 전세대출 사고 급증…주금공 대위변제액 3년새 2.4배",
+      "url": "https://n.news.naver.com/mnews/article/082/0001399892"
     },
     {
-      "title": "“국민 감사”한다더니, 삼성전자 온누리상품권 지급 깜깜무소식",
-      "url": "https://n.news.naver.com/mnews/article/028/0002824515"
+      "title": "\"오라클, 뉴멕시코 데이터센터 '불가항력' 선언\" [블룸버그]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005335964"
     },
     {
-      "title": "“연 4.3%에 1000억원 동났다”…삼성증권 첫 발행어음, 이틀 반 만에 완판",
-      "url": "https://n.news.naver.com/mnews/article/138/0002242589"
+      "title": "반도체 47.8%·3국 51.4%…수출 절반은 '쏠림'[수출4강③]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014213971"
     },
     {
-      "title": "손주 추석 용돈도 증여세?…2000만원까지 공제, 주식 사면 달라진다",
-      "url": "https://n.news.naver.com/mnews/article/421/0009191091"
+      "title": "\"아파트 청약되고 좋아했는데\"…당첨후 취소 6년간 5만4천명",
+      "url": "https://n.news.naver.com/mnews/article/001/0016335565"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 7080.92,
-      "change": 0.0,
-      "change_pct": 0.0
+      "change": 63.01,
+      "change_pct": 0.9
     },
     "kosdaq": {
       "value": 844.48,
-      "change": 0.0,
-      "change_pct": 0.0
+      "change": 10.1,
+      "change_pct": 1.21
     },
     "nasdaq": {
-      "value": 26939.37,
-      "change": 3.33,
-      "change_pct": 0.01
+      "value": 27068.72,
+      "change": 129.35,
+      "change_pct": 0.48
     },
     "usdkrw": {
-      "value": 1367.75,
-      "change": 5.25,
-      "change_pct": 0.39
+      "value": 1355.28,
+      "change": -7.22,
+      "change_pct": -0.53
     }
   },
   "gold": {
-    "price_usd": 4307.7,
-    "price_krw": 5891856,
-    "change": -10.7,
-    "change_pct": -0.25
+    "price_usd": 4320.5,
+    "price_krw": 5855487,
+    "change": 22.5,
+    "change_pct": 0.52
   },
-  "updated": "2026-09-25 08:35",
+  "updated": "2026-09-26 08:39",
   "error": null
 }
