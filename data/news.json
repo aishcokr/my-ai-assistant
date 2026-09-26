@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "美 장기금리 상승의 국내 영향은?…\"환율↑·외인 자본 유출\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016335666"
+      "title": "당국, 정책금융 등 고정금리 확대 주력…금리인상기 위험 흡수",
+      "url": "https://n.news.naver.com/mnews/article/001/0016337714"
     },
     {
-      "title": "20살 미만 구입 주택, 올해만 115건...260억 원",
-      "url": "https://n.news.naver.com/mnews/article/052/0002411069"
+      "title": "“팔수록 남는다”… 삼성전자, 3분기 100조 영업익 노린다 ‘D램 이익률 80%’",
+      "url": "https://n.news.naver.com/mnews/article/029/0003049905"
     },
     {
-      "title": "탈세 유명 유튜버 정조준...지난해 239억원 추징, 1인당 14억원",
-      "url": "https://n.news.naver.com/mnews/article/666/0000124862"
+      "title": "'국장'도 '미장'도 美대표지수 ETF 순매수 상위[머니플로우]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016336706"
     },
     {
-      "title": "할머니가 준 추석 용돈 1000만원…세금 63만원 나온 까닭 [숫자 뒤의 진실]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004161831"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002411418"
     },
     {
-      "title": "美금리 악재에 버티기…숏청산에 8.4만달러 회복[코인 모닝콜]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006375436"
+      "title": "고적층 대신 저단 HBM…자율주행·로봇 새 수요처로 [반도체레이다]",
+      "url": "https://n.news.naver.com/mnews/article/138/0002242685"
     },
     {
-      "title": "추석 명절 노린 금융사기 기승…'배송 오류 문자' 클릭했다간 낭패",
-      "url": "https://n.news.naver.com/mnews/article/277/0005820807"
+      "title": "“명절인데 집밖에 왜 나가요?” 편의점 배달, 연휴 특수 노린다 [언박싱]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002701978"
     },
     {
-      "title": "고금리에 전세대출 사고 급증…주금공 대위변제액 3년새 2.4배",
-      "url": "https://n.news.naver.com/mnews/article/082/0001399892"
+      "title": "美재무 \"日 경제 기초여건 반영한 엔화 강세 바람직\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016336543"
     },
     {
-      "title": "\"오라클, 뉴멕시코 데이터센터 '불가항력' 선언\" [블룸버그]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005335964"
+      "title": "‘태워야 폭등한다’… 코인 시장 휩쓴 ‘소각 열풍’",
+      "url": "https://n.news.naver.com/mnews/article/023/0004000457"
     },
     {
-      "title": "반도체 47.8%·3국 51.4%…수출 절반은 '쏠림'[수출4강③]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014213971"
+      "title": "“한은 총재 신현송입니다”…사칭 SNS 통해 주식 권유 ‘주의보’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005740069"
     },
     {
-      "title": "\"아파트 청약되고 좋아했는데\"…당첨후 취소 6년간 5만4천명",
-      "url": "https://n.news.naver.com/mnews/article/001/0016335565"
+      "title": "전국 주유소 기름값 19주 연속 하락…휘발유 L당 1858원",
+      "url": "https://n.news.naver.com/mnews/article/011/0004665428"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.48
     },
     "usdkrw": {
-      "value": 1355.28,
-      "change": -7.22,
-      "change_pct": -0.53
+      "value": 1354.4,
+      "change": -12.96,
+      "change_pct": -0.95
     }
   },
   "gold": {
-    "price_usd": 4320.5,
-    "price_krw": 5855487,
-    "change": 22.5,
-    "change_pct": 0.52
+    "price_usd": 4321.2,
+    "price_krw": 5852633,
+    "change": 23.2,
+    "change_pct": 0.54
   },
-  "updated": "2026-09-26 08:39",
+  "updated": "2026-09-27 08:12",
   "error": null
 }
