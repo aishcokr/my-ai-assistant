@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "당국, 정책금융 등 고정금리 확대 주력…금리인상기 위험 흡수",
-      "url": "https://n.news.naver.com/mnews/article/001/0016337714"
+      "title": "“최대 60% 할인에 즐길거리까지”…백화점 3사, 가을 세일 포문",
+      "url": "https://n.news.naver.com/mnews/article/018/0006376074"
     },
     {
-      "title": "“팔수록 남는다”… 삼성전자, 3분기 100조 영업익 노린다 ‘D램 이익률 80%’",
-      "url": "https://n.news.naver.com/mnews/article/029/0003049905"
+      "title": "최태원 \"멕시코, 글로벌 시장 접근성 갖춘 중요한 경제 거점\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004193066"
     },
     {
-      "title": "'국장'도 '미장'도 美대표지수 ETF 순매수 상위[머니플로우]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016336706"
+      "title": "제조업 경기 낙관 업종 5곳으로 늘어… 반도체 ‘역대 최대’",
+      "url": "https://n.news.naver.com/mnews/article/366/0001194564"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002411418"
+      "title": "\"육아휴직 썼다 억대 성과급 놓칠라\"…삼전·닉스, 초유의 상황",
+      "url": "https://n.news.naver.com/mnews/article/215/0001267250"
     },
     {
-      "title": "고적층 대신 저단 HBM…자율주행·로봇 새 수요처로 [반도체레이다]",
-      "url": "https://n.news.naver.com/mnews/article/138/0002242685"
+      "title": "상장사 3분기 실적 전망치 변화는…삼전닉스 상향 조정",
+      "url": "https://n.news.naver.com/mnews/article/055/0001391275"
     },
     {
-      "title": "“명절인데 집밖에 왜 나가요?” 편의점 배달, 연휴 특수 노린다 [언박싱]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002701978"
+      "title": "\"대기업 퇴사 3일 만에 1억 벌었어요\"…요즘 뜨는 직업 정체",
+      "url": "https://n.news.naver.com/mnews/article/015/0005336200"
     },
     {
-      "title": "美재무 \"日 경제 기초여건 반영한 엔화 강세 바람직\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016336543"
+      "title": "올해 주요 재테크 수익률 1위는? 코스피200 ETF…예금 수익률 40배",
+      "url": "https://n.news.naver.com/mnews/article/366/0001194556"
     },
     {
-      "title": "‘태워야 폭등한다’… 코인 시장 휩쓴 ‘소각 열풍’",
-      "url": "https://n.news.naver.com/mnews/article/023/0004000457"
+      "title": "결혼 시작부터 빚더미…신혼부부 대출 중간값 8년새 130% 증가",
+      "url": "https://n.news.naver.com/mnews/article/001/0016339469"
     },
     {
-      "title": "“한은 총재 신현송입니다”…사칭 SNS 통해 주식 권유 ‘주의보’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005740069"
+      "title": "'안 주거나 덜 주거나'…보험금 부당지급 적발 5년간 1천건 육박",
+      "url": "https://n.news.naver.com/mnews/article/001/0016339472"
     },
     {
-      "title": "전국 주유소 기름값 19주 연속 하락…휘발유 L당 1858원",
-      "url": "https://n.news.naver.com/mnews/article/011/0004665428"
+      "title": "이부환 한화에어로 대표, '경력직 채용 학력 차별 논란' 공식 사과",
+      "url": "https://n.news.naver.com/mnews/article/030/0003470076"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.48
     },
     "usdkrw": {
-      "value": 1354.4,
-      "change": -12.96,
-      "change_pct": -0.95
+      "value": 1354.93,
+      "change": -12.43,
+      "change_pct": -0.91
     }
   },
   "gold": {
-    "price_usd": 4321.2,
-    "price_krw": 5852633,
-    "change": 23.2,
-    "change_pct": 0.54
+    "price_usd": 4298.6,
+    "price_krw": 5824302,
+    "change": -22.6,
+    "change_pct": -0.52
   },
-  "updated": "2026-09-27 08:12",
+  "updated": "2026-09-28 08:26",
   "error": null
 }
