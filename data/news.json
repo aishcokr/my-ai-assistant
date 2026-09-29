@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "“최대 60% 할인에 즐길거리까지”…백화점 3사, 가을 세일 포문",
-      "url": "https://n.news.naver.com/mnews/article/018/0006376074"
+      "title": "퇴직공직자 6명 중 1명 대기업행…삼성·한화 비중 높아져",
+      "url": "https://n.news.naver.com/mnews/article/001/0016342272"
     },
     {
-      "title": "최태원 \"멕시코, 글로벌 시장 접근성 갖춘 중요한 경제 거점\"",
-      "url": "https://n.news.naver.com/mnews/article/079/0004193066"
+      "title": "이형일·신현송 첫 회동…금융·외환·부동산 통합 점검 강화",
+      "url": "https://n.news.naver.com/mnews/article/374/0000535054"
     },
     {
-      "title": "제조업 경기 낙관 업종 5곳으로 늘어… 반도체 ‘역대 최대’",
-      "url": "https://n.news.naver.com/mnews/article/366/0001194564"
+      "title": "엔비디아, 애플도 넘었다…1500억달러 '역대급' 자사주 매입",
+      "url": "https://n.news.naver.com/mnews/article/014/0005581911"
     },
     {
-      "title": "\"육아휴직 썼다 억대 성과급 놓칠라\"…삼전·닉스, 초유의 상황",
-      "url": "https://n.news.naver.com/mnews/article/215/0001267250"
+      "title": "공공건축 설계공모 다양화…민간 전문가 역할 넓힌다",
+      "url": "https://n.news.naver.com/mnews/article/001/0016342253"
     },
     {
-      "title": "상장사 3분기 실적 전망치 변화는…삼전닉스 상향 조정",
-      "url": "https://n.news.naver.com/mnews/article/055/0001391275"
+      "title": "동해시 철도·관광 연계 '체류형 도시' 실현 박차",
+      "url": "https://n.news.naver.com/mnews/article/654/0000202527"
     },
     {
-      "title": "\"대기업 퇴사 3일 만에 1억 벌었어요\"…요즘 뜨는 직업 정체",
-      "url": "https://n.news.naver.com/mnews/article/015/0005336200"
+      "title": "美 국채금리 2007년 이후 최고…“10년물 5.6%까지 열려”",
+      "url": "https://n.news.naver.com/mnews/article/029/0003050185"
     },
     {
-      "title": "올해 주요 재테크 수익률 1위는? 코스피200 ETF…예금 수익률 40배",
-      "url": "https://n.news.naver.com/mnews/article/366/0001194556"
+      "title": "보금자리론 '결혼페널티' 없앤다…1인 7천만원 이하면 가능",
+      "url": "https://n.news.naver.com/mnews/article/215/0001267436"
     },
     {
-      "title": "결혼 시작부터 빚더미…신혼부부 대출 중간값 8년새 130% 증가",
-      "url": "https://n.news.naver.com/mnews/article/001/0016339469"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000910635"
     },
     {
-      "title": "'안 주거나 덜 주거나'…보험금 부당지급 적발 5년간 1천건 육박",
-      "url": "https://n.news.naver.com/mnews/article/001/0016339472"
+      "title": "상반기 금융민원 처리 8만건 육박…분쟁 처리 89%가 보험",
+      "url": "https://n.news.naver.com/mnews/article/277/0005821789"
     },
     {
-      "title": "이부환 한화에어로 대표, '경력직 채용 학력 차별 논란' 공식 사과",
-      "url": "https://n.news.naver.com/mnews/article/030/0003470076"
+      "title": "“수요가 공급 50% 초과”… 삼성전기, AI 반도체 기판에 6.7조 투자",
+      "url": "https://n.news.naver.com/mnews/article/005/0001875440"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7080.92,
-      "change": 63.01,
-      "change_pct": 0.9
+      "value": 6871.87,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 844.48,
-      "change": 10.1,
-      "change_pct": 1.21
+      "value": 839.9,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27068.72,
-      "change": 129.35,
-      "change_pct": 0.48
+      "value": 26820.38,
+      "change": -248.34,
+      "change_pct": -0.92
     },
     "usdkrw": {
-      "value": 1354.93,
-      "change": -12.43,
-      "change_pct": -0.91
+      "value": 1359.48,
+      "change": 4.97,
+      "change_pct": 0.37
     }
   },
   "gold": {
-    "price_usd": 4298.6,
-    "price_krw": 5824302,
-    "change": -22.6,
-    "change_pct": -0.52
+    "price_usd": 4153.1,
+    "price_krw": 5646056,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-28 08:26",
+  "updated": "2026-09-29 09:38",
   "error": null
 }
