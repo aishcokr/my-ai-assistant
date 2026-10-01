@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "은행 30분 늦게 여는데 '금요일'엔 일찍 닫는다?…\"오후 4시까지 영업 유지\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014221928"
+      "title": "정의선 회장, 양궁 대표팀 격려...\"자신 있게 도전\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002412859"
     },
     {
-      "title": "美 30년 만기 국채 금리 장중 5.6% 돌파…2002년 이후 최고",
-      "url": "https://n.news.naver.com/mnews/article/016/0002703367"
+      "title": "마이크론, 분기매출 73.5조원 '사상최대'…'삼전닉스'에 시선",
+      "url": "https://n.news.naver.com/mnews/article/422/0000911415"
     },
     {
-      "title": "리사 수 AMD 회장 내달 다시 방한…'AI 반도체 동맹' 넓힌다",
-      "url": "https://n.news.naver.com/mnews/article/001/0016345178"
+      "title": "3년 만에 서울 도심복합 후보지 선정…용산·목동 등 1.8만가구 공급",
+      "url": "https://n.news.naver.com/mnews/article/421/0009200028"
     },
     {
-      "title": "'7천피' 내준 코스피, 美금리 악재에 추가 하락하나[마켓뷰]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016342343"
+      "title": "'시민 생명 지킴이' 전재수, 부산생명의전화 간담회",
+      "url": "https://n.news.naver.com/mnews/article/079/0004194528"
     },
     {
-      "title": "조정지역 일시 2주택, 2년 내 팔아야 세제혜택…등록임대는 내년까지 매각 조건",
-      "url": "https://n.news.naver.com/mnews/article/016/0002703191"
+      "title": "대미투자 1호 텍사스 가스발전…한국형 원전 美 첫 진출 발판",
+      "url": "https://n.news.naver.com/mnews/article/056/0012265956"
     },
     {
-      "title": "기업 자금조달 위축, 8월 주식·회사채 발행 38%↓",
-      "url": "https://n.news.naver.com/mnews/article/031/0001062147"
+      "title": "레인보우로보틱스와 로봇 공동개발 나선 SFA",
+      "url": "https://n.news.naver.com/mnews/article/015/0005337533"
     },
     {
-      "title": "대우건설, 용인 반도체 산단 조성공사 1공구 낙찰",
-      "url": "https://n.news.naver.com/mnews/article/277/0005822034"
+      "title": "반도체 호황에도 산업생산 두달째 후진…정부 \"일시적 부진\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014224783"
     },
     {
-      "title": "청년 10명 중 6명 \"취업 어렵다\"…경력직 선호·정년연장 이중고",
-      "url": "https://n.news.naver.com/mnews/article/629/0000537767"
+      "title": "“비트코인, 10년 뒤 100만달러 간다…AI투자는 자본 낭비” 투자 거물의 진단",
+      "url": "https://n.news.naver.com/mnews/article/029/0003050720"
     },
     {
-      "title": "8월 생산·소비·투자 모두 꺾여…3개월 만에 ‘트리플’ 감소",
-      "url": "https://n.news.naver.com/mnews/article/056/0012265264"
+      "title": "LS에코에너지, 베트남에 ‘방산용 희토류’ 생산거점 만든다... 중국 밖 처음",
+      "url": "https://n.news.naver.com/mnews/article/469/0000956781"
     },
     {
-      "title": "삼성 6개사, 美 AI 인프라 기업 '헬릭스'에 10억달러 투자",
-      "url": "https://n.news.naver.com/mnews/article/277/0005821844"
+      "title": "올해 초과세수 63.2조..\"미래대응기금 200조 돌파 가능성도\"",
+      "url": "https://n.news.naver.com/mnews/article/082/0001400443"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6889.74,
+      "value": 6838.04,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 846.58,
+      "value": 855.91,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26797.54,
-      "change": -22.84,
-      "change_pct": -0.09
+      "value": 26861.06,
+      "change": 63.53,
+      "change_pct": 0.24
     },
     "usdkrw": {
-      "value": 1351.55,
-      "change": -8.01,
-      "change_pct": -0.59
+      "value": 1358.49,
+      "change": 7.99,
+      "change_pct": 0.59
     }
   },
   "gold": {
-    "price_usd": 4217.2,
-    "price_krw": 5699756,
-    "change": 48.8,
-    "change_pct": 1.17
+    "price_usd": 4183.5,
+    "price_krw": 5683242,
+    "change": 3.8,
+    "change_pct": 0.09
   },
-  "updated": "2026-09-30 08:59",
+  "updated": "2026-10-01 09:12",
   "error": null
 }
