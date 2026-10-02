@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "정의선 회장, 양궁 대표팀 격려...\"자신 있게 도전\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002412859"
+      "title": "롯데하이마트, 업계 최초 가전 수리 올케어 론칭",
+      "url": "https://n.news.naver.com/mnews/article/082/0001400783"
     },
     {
-      "title": "마이크론, 분기매출 73.5조원 '사상최대'…'삼전닉스'에 시선",
-      "url": "https://n.news.naver.com/mnews/article/422/0000911415"
+      "title": "[속보] 9월 소비자물가 상승률 2.9%…2%대로 내려와",
+      "url": "https://n.news.naver.com/mnews/article/015/0005338432"
     },
     {
-      "title": "3년 만에 서울 도심복합 후보지 선정…용산·목동 등 1.8만가구 공급",
-      "url": "https://n.news.naver.com/mnews/article/421/0009200028"
+      "title": "\"2028년도 공급 빠듯\"…'메모리 바로미터' 마이크론 호실적, 삼전·닉스 훈풍 이어질까",
+      "url": "https://n.news.naver.com/mnews/article/660/0000118205"
     },
     {
-      "title": "'시민 생명 지킴이' 전재수, 부산생명의전화 간담회",
-      "url": "https://n.news.naver.com/mnews/article/079/0004194528"
+      "title": "현대해상, 日 진출 50년…수입보험료 289억엔으로 키웠다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005583451"
     },
     {
-      "title": "대미투자 1호 텍사스 가스발전…한국형 원전 美 첫 진출 발판",
-      "url": "https://n.news.naver.com/mnews/article/056/0012265956"
+      "title": "'AI 에이전트'에 당했다…신한은행 보안 허점 노출(종합2보)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016352105"
     },
     {
-      "title": "레인보우로보틱스와 로봇 공동개발 나선 SFA",
-      "url": "https://n.news.naver.com/mnews/article/015/0005337533"
+      "title": "'최악의 한 달' 비명 쏟아지는데…\"지금이 기회\" 뜻밖의 전망",
+      "url": "https://n.news.naver.com/mnews/article/015/0005338256"
     },
     {
-      "title": "반도체 호황에도 산업생산 두달째 후진…정부 \"일시적 부진\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014224783"
+      "title": "9월 수출 1,209억 달러...연간 수출 8천억달러 돌파",
+      "url": "https://n.news.naver.com/mnews/article/052/0002413282"
     },
     {
-      "title": "“비트코인, 10년 뒤 100만달러 간다…AI투자는 자본 낭비” 투자 거물의 진단",
-      "url": "https://n.news.naver.com/mnews/article/029/0003050720"
+      "title": "대전 ‘D-성장펀드’ 543억원 결성…지역 벤처 성장 사다리 만든다",
+      "url": "https://n.news.naver.com/mnews/article/022/0004163366"
     },
     {
-      "title": "LS에코에너지, 베트남에 ‘방산용 희토류’ 생산거점 만든다... 중국 밖 처음",
-      "url": "https://n.news.naver.com/mnews/article/469/0000956781"
+      "title": "온누리상품권 18년만에 개편, 전통시장서 쓰면 10% 혜택",
+      "url": "https://n.news.naver.com/mnews/article/020/0003752200"
     },
     {
-      "title": "올해 초과세수 63.2조..\"미래대응기금 200조 돌파 가능성도\"",
-      "url": "https://n.news.naver.com/mnews/article/082/0001400443"
+      "title": "K원전, 종주국 미국에 역수출… 막대한 전력 판로는 아직 미정",
+      "url": "https://n.news.naver.com/mnews/article/081/0003685384"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6838.04,
+      "value": 6971.35,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 855.91,
+      "value": 894.29,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26861.06,
-      "change": 63.53,
-      "change_pct": 0.24
+      "value": 26871.6,
+      "change": 10.54,
+      "change_pct": 0.04
     },
     "usdkrw": {
-      "value": 1358.49,
-      "change": 7.99,
-      "change_pct": 0.59
+      "value": 1363.68,
+      "change": 6.84,
+      "change_pct": 0.5
     }
   },
   "gold": {
-    "price_usd": 4183.5,
-    "price_krw": 5683242,
-    "change": 3.8,
-    "change_pct": 0.09
+    "price_usd": 4204.9,
+    "price_krw": 5734137,
+    "change": 18.2,
+    "change_pct": 0.43
   },
-  "updated": "2026-10-01 09:12",
+  "updated": "2026-10-02 09:16",
   "error": null
 }
