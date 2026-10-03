@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "“역대 최고 투싼”…현대차, 뉴욕서 월드 프리미어…하이브리드·AI로 승부",
-      "url": "https://n.news.naver.com/mnews/article/082/0001400838"
+      "title": "예가람저축은행도 4만명 개인정보 유출⋯\"해커 공격\"[은행 보안 구멍]",
+      "url": "https://n.news.naver.com/mnews/article/031/0001063297"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002414103"
+      "title": "이상일 용인시장 “세계 최고 반도체 초격차 유지 위해 속도 더 내야”",
+      "url": "https://n.news.naver.com/mnews/article/277/0005824308"
     },
     {
-      "title": "산재 사망 반복땐 영업익 최대 5% 과징금… 경영계 “비현실적”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003752199"
+      "title": "\"20주째 내렸다는데 고작 0.4원\"…서울 휘발유 여전히 1900원",
+      "url": "https://n.news.naver.com/mnews/article/015/0005338835"
     },
     {
-      "title": "신한은행 해킹 서버서 '중국어 AI 침투도구' 흔적 발견",
-      "url": "https://n.news.naver.com/mnews/article/014/0005584347"
+      "title": "\"영화 '암살자(들)' 투자, 독립적 결정\"…기업은행·산업은행 '외압설' 부인",
+      "url": "https://n.news.naver.com/mnews/article/008/0005421860"
     },
     {
-      "title": "美고용 부진에 금리인상 우려 완화…나스닥 1.2%↑(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016355022"
+      "title": "연금통장에 금리·현금 얹는다⋯은행권 '은퇴고객' 쟁탈전",
+      "url": "https://n.news.naver.com/mnews/article/031/0001063348"
     },
     {
-      "title": "美10년물 24년만에 최고치…널뛰는 글로벌 채권 시장",
-      "url": "https://n.news.naver.com/mnews/article/018/0006379536"
+      "title": "포르쉐코리아, ‘카이엔 쿠페 일렉트릭’ 첫 공개",
+      "url": "https://n.news.naver.com/mnews/article/082/0001400961"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002414031"
+      "title": "고용 충격에 나스닥 1.2%↑…10년물 금리 되레 상승[월스트리트in]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006379976"
     },
     {
-      "title": "\"영업이익 15% 달라\"…삼성바이오 노조, 26일부터 3주간 2차 총파업",
-      "url": "https://n.news.naver.com/mnews/article/015/0005338602"
+      "title": "'해킹피해' 2금융권 확산…금융당국 투톱, 내일 全업권 긴급소집(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016355983"
     },
     {
-      "title": "하나은행도 AI 해킹 뚫렸다…89명 주민번호 등 유출",
-      "url": "https://n.news.naver.com/mnews/article/029/0003051216"
+      "title": "법에 없는 'NEXT원칙'…재경위 \"미래기금 선정 기준 보완해야\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016356172"
     },
     {
-      "title": "마이크론 “내후년도 수급 빠듯”…삼전닉스 초호황 청신호",
-      "url": "https://n.news.naver.com/mnews/article/025/0003555262"
+      "title": "\"여행엔 어떤 카드 쓸까\"…카드업계, 10월 황금연휴 혜택 '풍성'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009207687"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 7003.74,
+      "change": 32.39,
+      "change_pct": 0.46
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 893.29,
+      "change": -1.0,
+      "change_pct": -0.11
     },
     "nasdaq": {
       "value": 27190.86,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4172.1,
-    "price_krw": 5601086,
-    "change": -30.2,
-    "change_pct": -0.72
+    "price_usd": 4162.3,
+    "price_krw": 5587929,
+    "change": -40.0,
+    "change_pct": -0.95
   },
-  "updated": "2026-10-03 09:02",
+  "updated": "2026-10-04 08:23",
   "error": null
 }
