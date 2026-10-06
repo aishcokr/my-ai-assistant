@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "민간아파트 부정청약 5년간 1,669건 적발…당첨취소는 40% 뿐",
-      "url": "https://n.news.naver.com/mnews/article/057/0001971934"
+      "title": "LG전자, 북미서 5GW 규모 AIDC 냉각솔루션 장기 공급계약 수주",
+      "url": "https://n.news.naver.com/mnews/article/277/0005824701"
     },
     {
-      "title": "현대차, 코로나 빼면 16년 만의 판매 한파…신차로 반전 노린다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005584628"
+      "title": "다시 상승세 탄 비트코인…10만 달러 탈환 가를 '두 변수'",
+      "url": "https://n.news.naver.com/mnews/article/586/0000139412"
     },
     {
-      "title": "은행 줄줄이 털리자 ‘비상’…금융위원장 “AI 해킹 가능성도”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006380755"
+      "title": "K뷰티 전용 ‘큐텐픽’ 매대에 올린 日 세븐일레븐…1030 수요 확대 노린다",
+      "url": "https://n.news.naver.com/mnews/article/020/0003752934"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002414441"
+      "title": "“거부 안하면 가격인상 동의?”…정기결제 ‘다크패턴’ 안 통한다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002705731"
     },
     {
-      "title": "삼성전자, 용인 과학축제서 ‘반도체가 만드는 지역 미래’ 소개",
-      "url": "https://n.news.naver.com/mnews/article/022/0004163952"
+      "title": "한미반도체, 삼성전기와 245억 규모 계약…\"삼성그룹 환영\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005422325"
     },
     {
-      "title": "한전 직원 2만4천여명 개인정보 노출…\"AI 해킹과는 무관\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016356858"
+      "title": "현대백화점 '더현대 글로벌' 파리 진출…K-패션 팝업 운영",
+      "url": "https://n.news.naver.com/mnews/article/422/0000912854"
     },
     {
-      "title": "제네시스 첫 하이브리드 '승부수'…GV80 7000만원대 출격",
-      "url": "https://n.news.naver.com/mnews/article/014/0005584629"
+      "title": "HLB, 리보세라닙 공장 FDA 실사 마무리…NDA 재제출 준비",
+      "url": "https://n.news.naver.com/mnews/article/015/0005339416"
     },
     {
-      "title": "인스턴트 국-탕 1년새 39% 인상…밀가루값은 13% 떨어져",
-      "url": "https://n.news.naver.com/mnews/article/020/0003752590"
+      "title": "내년 2인 가구 첫 30% 돌파…3·4인 가구 합쳐도 더 적다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002705593"
     },
     {
-      "title": "트럼프 “알래스카 투자 안하면 2배 청구”",
-      "url": "https://n.news.naver.com/mnews/article/081/0003685935"
+      "title": "제주항공, 중국 주요 도시 취항 기반 확대…\"노선 경쟁력 강화\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016358823"
     },
     {
-      "title": "삼성전자, 분기 영업이익 100조 시대 '예약'…이번 주 3Q 실적 발표",
-      "url": "https://n.news.naver.com/mnews/article/421/0009208583"
+      "title": "24년來 최고 금리도 AI 기세 못막아…나스닥 사상 최고[월스트리트in]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006381643"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7003.74,
-      "change": 32.39,
-      "change_pct": 0.46
+      "value": 6999.4,
+      "change": -4.34,
+      "change_pct": -0.06
     },
     "kosdaq": {
-      "value": 893.29,
-      "change": -1.0,
-      "change_pct": -0.11
+      "value": 913.12,
+      "change": 19.83,
+      "change_pct": 2.22
     },
     "nasdaq": {
-      "value": 27190.86,
-      "change": 319.26,
-      "change_pct": 1.19
+      "value": 27477.31,
+      "change": 286.45,
+      "change_pct": 1.05
     },
     "usdkrw": {
-      "value": 1342.99,
-      "change": -17.6,
-      "change_pct": -1.29
+      "value": 1343.49,
+      "change": 0.93,
+      "change_pct": 0.07
     }
   },
   "gold": {
-    "price_usd": 4173.4,
-    "price_krw": 5604834,
-    "change": 11.1,
-    "change_pct": 0.27
+    "price_usd": 4168.5,
+    "price_krw": 5600338,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-10-05 08:37",
+  "updated": "2026-10-06 10:33",
   "error": null
 }
