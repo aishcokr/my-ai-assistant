@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "LG전자, 북미서 5GW 규모 AIDC 냉각솔루션 장기 공급계약 수주",
-      "url": "https://n.news.naver.com/mnews/article/277/0005824701"
+      "title": "李대통령 \"전세사기 피해자 빠른 일상 회복…정부가 뒷받침\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005585704"
     },
     {
-      "title": "다시 상승세 탄 비트코인…10만 달러 탈환 가를 '두 변수'",
-      "url": "https://n.news.naver.com/mnews/article/586/0000139412"
+      "title": "금융당국 \"금융권 개인정보 유출...피싱 등 주의\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002415298"
     },
     {
-      "title": "K뷰티 전용 ‘큐텐픽’ 매대에 올린 日 세븐일레븐…1030 수요 확대 노린다",
-      "url": "https://n.news.naver.com/mnews/article/020/0003752934"
+      "title": "\"무조건 오른다\" 개미들 쓸어 담았는데…3개월 만에 '환호' [분석+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005339809"
     },
     {
-      "title": "“거부 안하면 가격인상 동의?”…정기결제 ‘다크패턴’ 안 통한다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002705731"
+      "title": "금융당국, 금융권 해킹 공격 IP 28개 특정…금융사에 점검 요청",
+      "url": "https://n.news.naver.com/mnews/article/018/0006381906"
     },
     {
-      "title": "한미반도체, 삼성전기와 245억 규모 계약…\"삼성그룹 환영\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005422325"
+      "title": "가상자산 과세, 부총리 “내년 예정대로” 입장서 “충분 검토”로",
+      "url": "https://n.news.naver.com/mnews/article/025/0003556104"
     },
     {
-      "title": "현대백화점 '더현대 글로벌' 파리 진출…K-패션 팝업 운영",
-      "url": "https://n.news.naver.com/mnews/article/422/0000912854"
+      "title": "명품, K콘텐츠 '쌍끌이'...롯데백화점, 외국인 매출 첫 1조 돌파",
+      "url": "https://n.news.naver.com/mnews/article/008/0005422513"
     },
     {
-      "title": "HLB, 리보세라닙 공장 FDA 실사 마무리…NDA 재제출 준비",
-      "url": "https://n.news.naver.com/mnews/article/015/0005339416"
+      "title": "‘아마존 알렉사 개발 주역’ 아틀라스 이끈다…보스턴다이나믹스 새 CEO",
+      "url": "https://n.news.naver.com/mnews/article/119/0003140132"
     },
     {
-      "title": "내년 2인 가구 첫 30% 돌파…3·4인 가구 합쳐도 더 적다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002705593"
+      "title": "삼성바이오 노조, 삼성전자에 단체교섭 요구…2차 총파업 예고",
+      "url": "https://n.news.naver.com/mnews/article/018/0006382291"
     },
     {
-      "title": "제주항공, 중국 주요 도시 취항 기반 확대…\"노선 경쟁력 강화\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016358823"
+      "title": "농지 특조법 ‘최소 2~3년 특례’ 제안…실경작자도 양성화 신청",
+      "url": "https://n.news.naver.com/mnews/article/011/0004668645"
     },
     {
-      "title": "24년來 최고 금리도 AI 기세 못막아…나스닥 사상 최고[월스트리트in]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006381643"
+      "title": "금리부담에 외인 삼전닉스 1.6조 순매도…소부장은 강세 지속[핫종목]",
+      "url": "https://n.news.naver.com/mnews/article/421/0009212377"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6999.4,
-      "change": -4.34,
-      "change_pct": -0.06
+      "value": 6941.39,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 913.12,
-      "change": 19.83,
-      "change_pct": 2.22
+      "value": 919.92,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27477.31,
-      "change": 286.45,
-      "change_pct": 1.05
+      "value": 27599.89,
+      "change": 122.58,
+      "change_pct": 0.45
     },
     "usdkrw": {
-      "value": 1343.49,
-      "change": 0.93,
-      "change_pct": 0.07
+      "value": 1340.1,
+      "change": -3.65,
+      "change_pct": -0.27
     }
   },
   "gold": {
-    "price_usd": 4168.5,
-    "price_krw": 5600338,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4194.0,
+    "price_krw": 5620379,
+    "change": 37.2,
+    "change_pct": 0.89
   },
-  "updated": "2026-10-06 10:33",
+  "updated": "2026-10-07 09:12",
   "error": null
 }
