@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "李대통령 \"전세사기 피해자 빠른 일상 회복…정부가 뒷받침\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005585704"
+      "title": "민간 우주시대 한발짝 더…한화에어로, 발사 운용 전면에[누리호 성공]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016363018"
     },
     {
-      "title": "금융당국 \"금융권 개인정보 유출...피싱 등 주의\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002415298"
+      "title": "4천억 체납 선박왕 권혁, 15년만에 완납 약속…국세청 특별TF가 '해냈다'",
+      "url": "https://n.news.naver.com/mnews/article/008/0005423174"
     },
     {
-      "title": "\"무조건 오른다\" 개미들 쓸어 담았는데…3개월 만에 '환호' [분석+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005339809"
+      "title": "삼성전자 반도체 특별성과급 내년 3말4초 지급",
+      "url": "https://n.news.naver.com/mnews/article/020/0003753511"
     },
     {
-      "title": "금융당국, 금융권 해킹 공격 IP 28개 특정…금융사에 점검 요청",
-      "url": "https://n.news.naver.com/mnews/article/018/0006381906"
+      "title": "홍지선 국토장관 “연말쯤 집값 상승폭 줄어들 것”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012269464"
     },
     {
-      "title": "가상자산 과세, 부총리 “내년 예정대로” 입장서 “충분 검토”로",
-      "url": "https://n.news.naver.com/mnews/article/025/0003556104"
+      "title": "다시 폭주한 美 국채금리에 뉴욕증시 ‘털썩’…사상 최고치서 반락",
+      "url": "https://n.news.naver.com/mnews/article/016/0002706702"
     },
     {
-      "title": "명품, K콘텐츠 '쌍끌이'...롯데백화점, 외국인 매출 첫 1조 돌파",
-      "url": "https://n.news.naver.com/mnews/article/008/0005422513"
+      "title": "국채 상승에 미 주담대 3년 만에 최고치…트럼프 또 연준 탓",
+      "url": "https://n.news.naver.com/mnews/article/056/0012269874"
     },
     {
-      "title": "‘아마존 알렉사 개발 주역’ 아틀라스 이끈다…보스턴다이나믹스 새 CEO",
-      "url": "https://n.news.naver.com/mnews/article/119/0003140132"
+      "title": "韓 비만신약 첫 출시",
+      "url": "https://n.news.naver.com/mnews/article/009/0005745616"
     },
     {
-      "title": "삼성바이오 노조, 삼성전자에 단체교섭 요구…2차 총파업 예고",
-      "url": "https://n.news.naver.com/mnews/article/018/0006382291"
+      "title": "시가총액 미달 기업 상장폐지 절차 ‘유예’…관리종목 지정은 현행대로",
+      "url": "https://n.news.naver.com/mnews/article/366/0001196684"
     },
     {
-      "title": "농지 특조법 ‘최소 2~3년 특례’ 제안…실경작자도 양성화 신청",
-      "url": "https://n.news.naver.com/mnews/article/011/0004668645"
+      "title": "8월 경상흑자 역대 2위 또 갈아치웠다…1~8월 누적 2792억달러(상보)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005826017"
     },
     {
-      "title": "금리부담에 외인 삼전닉스 1.6조 순매도…소부장은 강세 지속[핫종목]",
-      "url": "https://n.news.naver.com/mnews/article/421/0009212377"
+      "title": "LG전자 3분기 영업이익 7818억원…누적 첫 4조 넘어",
+      "url": "https://n.news.naver.com/mnews/article/032/0003474763"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6941.39,
+      "value": 6786.25,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 919.92,
+      "value": 886.05,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27599.89,
-      "change": 122.58,
-      "change_pct": 0.45
+      "value": 27538.69,
+      "change": -61.1,
+      "change_pct": -0.22
     },
     "usdkrw": {
-      "value": 1340.1,
-      "change": -3.65,
-      "change_pct": -0.27
+      "value": 1337.99,
+      "change": -1.75,
+      "change_pct": -0.13
     }
   },
   "gold": {
-    "price_usd": 4194.0,
-    "price_krw": 5620379,
-    "change": 37.2,
-    "change_pct": 0.89
+    "price_usd": 4134.3,
+    "price_krw": 5531651,
+    "change": -52.8,
+    "change_pct": -1.26
   },
-  "updated": "2026-10-07 09:12",
+  "updated": "2026-10-08 09:28",
   "error": null
 }
