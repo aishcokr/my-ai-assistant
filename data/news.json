@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "'되는 곳'에만 몰렸다…서울 60대1인데 부산 0.6대1[청약, 선별의 시대①]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014243101"
+      "title": "이번 주 전국 휘발유 가격 소폭 하락…경유는 보합세",
+      "url": "https://n.news.naver.com/mnews/article/018/0006385006"
     },
     {
-      "title": "삼성전자 분기 영업익 100조 원 이어... SK하이닉스, 영업이익률 80% 달성할까",
-      "url": "https://n.news.naver.com/mnews/article/469/0000958553"
+      "title": "전산장애 잦은 금융사 20곳, 작년 보안예산 집행률 70% 밑돌아",
+      "url": "https://n.news.naver.com/mnews/article/001/0016367991"
     },
     {
-      "title": "최태원 \"전력·용수 늦어도 먼저 착공\"…호남 반도체 속도전",
-      "url": "https://n.news.naver.com/mnews/article/015/0005340833"
+      "title": "\"500만원 손실인데\" 세금 떼간다?...'코인세' 연기 목소리 커지는 이유",
+      "url": "https://n.news.naver.com/mnews/article/008/0005424394"
     },
     {
-      "title": "성난 농심에 물러선 농지조사… 농지은행 안 맡겨도 처분 유예",
-      "url": "https://n.news.naver.com/mnews/article/020/0003753853"
+      "title": "\"20억 싸게\" 이웃 눈치 보며 집 내놨는데...안 팔리는 강남 아파트",
+      "url": "https://n.news.naver.com/mnews/article/008/0005424381"
     },
     {
-      "title": "'성과급 30억' 삼성전자 사내 부부 \"서민 탈출한 듯, 5년 내 퇴사\"",
-      "url": "https://n.news.naver.com/mnews/article/437/0000514953"
+      "title": "코스피 3% 빠질 때 코스닥 4% 올랐다…‘천스닥’ 탈환할까? [투자360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002707459"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002416520"
+      "title": "상장만 하면 수천억 모으더니… 증시 침체에 신규 ETF ‘찬바람’",
+      "url": "https://n.news.naver.com/mnews/article/366/0001197083"
     },
     {
-      "title": "\"철판 한계까지 늘렸다\"…현대차, '디 올 뉴 투싼' 기술력 공개",
-      "url": "https://n.news.naver.com/mnews/article/014/0005587063"
+      "title": "금융권 해킹 '도미노'…보안망 다시 도마[비즈토크<하>]",
+      "url": "https://n.news.naver.com/mnews/article/629/0000540837"
     },
     {
-      "title": "“군고구마 어묵이 벌써?”…편의점 가을 겨울 용품 판매 쑥",
-      "url": "https://n.news.naver.com/mnews/article/009/0005746371"
+      "title": "\"지금이야\" 금값 27% 폭락하자…은행서 불티나게 팔린 게",
+      "url": "https://n.news.naver.com/mnews/article/015/0005341027"
     },
     {
-      "title": "윤슬, 숫눈, 볼우물을 아시나요…100년 전 '말모이' AI로 되살렸다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005424216"
+      "title": "김나영 한미 부사장 \"에페, 한국인 맞춤형 비만약이라 자신\"[인터뷰]",
+      "url": "https://n.news.naver.com/mnews/article/421/0009220068"
     },
     {
-      "title": "매출에 파트너사까지 넣었다고?…오픈AI 집계 차이에 AI주 ‘흔들’",
-      "url": "https://n.news.naver.com/mnews/article/018/0006384339"
+      "title": "'탱크데이' 논란 5개월 만에…스타벅스, 투썸 제치고 1위 탈환",
+      "url": "https://n.news.naver.com/mnews/article/001/0016368666"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.64
     },
     "usdkrw": {
-      "value": 1340.02,
-      "change": 0.94,
-      "change_pct": 0.07
+      "value": 1340.9,
+      "change": -2.09,
+      "change_pct": -0.16
     }
   },
   "gold": {
-    "price_usd": 4220.3,
-    "price_krw": 5655286,
-    "change": 63.3,
-    "change_pct": 1.52
+    "price_usd": 4216.3,
+    "price_krw": 5653636,
+    "change": 59.3,
+    "change_pct": 1.43
   },
-  "updated": "2026-10-10 09:21",
+  "updated": "2026-10-11 08:55",
   "error": null
 }
