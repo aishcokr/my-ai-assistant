@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "박홍근 \"미래기금, 명절 할인 지원 안 돼…다른 재원 활용할 것\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000913841"
+      "title": "'되는 곳'에만 몰렸다…서울 60대1인데 부산 0.6대1[청약, 선별의 시대①]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014243101"
     },
     {
-      "title": "중 외교부 “한국 금융권 해킹 사태 잘 알지 못해…정치적 의도 따른 허위 정보 유포 반대”",
-      "url": "https://n.news.naver.com/mnews/article/032/0003475169"
+      "title": "삼성전자 분기 영업익 100조 원 이어... SK하이닉스, 영업이익률 80% 달성할까",
+      "url": "https://n.news.naver.com/mnews/article/469/0000958553"
     },
     {
-      "title": "삼성전자 ‘분기 영업익 100조’…글로벌 테크 최초",
-      "url": "https://n.news.naver.com/mnews/article/016/0002706978"
+      "title": "최태원 \"전력·용수 늦어도 먼저 착공\"…호남 반도체 속도전",
+      "url": "https://n.news.naver.com/mnews/article/015/0005340833"
     },
     {
-      "title": "은행 이어 교회-대기업까지… 문턱 낮아진 AI 해킹 무차별 확산",
-      "url": "https://n.news.naver.com/mnews/article/020/0003753576"
+      "title": "성난 농심에 물러선 농지조사… 농지은행 안 맡겨도 처분 유예",
+      "url": "https://n.news.naver.com/mnews/article/020/0003753853"
     },
     {
-      "title": "[속보] 정부, 상속·고령농·임대차 농지 등은 전수조사 처분서 제외",
-      "url": "https://n.news.naver.com/mnews/article/082/0001401673"
+      "title": "'성과급 30억' 삼성전자 사내 부부 \"서민 탈출한 듯, 5년 내 퇴사\"",
+      "url": "https://n.news.naver.com/mnews/article/437/0000514953"
     },
     {
-      "title": "“음식 시킨 게 왜 안 와?”…쿠팡, 한밤중 ‘먹통’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005746256"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002416520"
     },
     {
-      "title": "\"성과급 최소 30억\" 삼성전자 '메모리 부부'…\"서민 탈출한 것 같다\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005587029"
+      "title": "\"철판 한계까지 늘렸다\"…현대차, '디 올 뉴 투싼' 기술력 공개",
+      "url": "https://n.news.naver.com/mnews/article/014/0005587063"
     },
     {
-      "title": "ESS 힘입은 LG엔솔, 분기 최대 매출…소재 공급망도 강화",
-      "url": "https://n.news.naver.com/mnews/article/081/0003687328"
+      "title": "“군고구마 어묵이 벌써?”…편의점 가을 겨울 용품 판매 쑥",
+      "url": "https://n.news.naver.com/mnews/article/009/0005746371"
     },
     {
-      "title": "최태원 회장, ‘반도체 클러스터 예정지’ 광주 군공항 방문",
-      "url": "https://n.news.naver.com/mnews/article/056/0012270451"
+      "title": "윤슬, 숫눈, 볼우물을 아시나요…100년 전 '말모이' AI로 되살렸다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005424216"
     },
     {
-      "title": "이억원 \"단일 레버리지, 적법 절차 거쳐 도입…당시엔 필요했다\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009218349"
+      "title": "매출에 파트너사까지 넣었다고?…오픈AI 집계 차이에 AI주 ‘흔들’",
+      "url": "https://n.news.naver.com/mnews/article/018/0006384339"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6625.93,
+      "change": -177.97,
+      "change_pct": -2.62
     },
     "kosdaq": {
-      "value": 898.43,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 892.27,
+      "change": -6.16,
+      "change_pct": -0.69
     },
     "nasdaq": {
-      "value": 27193.34,
-      "change": -345.35,
-      "change_pct": -1.25
+      "value": 27366.17,
+      "change": 172.83,
+      "change_pct": 0.64
     },
     "usdkrw": {
-      "value": 1343.59,
-      "change": 4.51,
-      "change_pct": 0.34
+      "value": 1340.02,
+      "change": 0.94,
+      "change_pct": 0.07
     }
   },
   "gold": {
-    "price_usd": 4172.0,
-    "price_krw": 5605457,
-    "change": 31.3,
-    "change_pct": 0.76
+    "price_usd": 4220.3,
+    "price_krw": 5655286,
+    "change": 63.3,
+    "change_pct": 1.52
   },
-  "updated": "2026-10-09 09:42",
+  "updated": "2026-10-10 09:21",
   "error": null
 }
