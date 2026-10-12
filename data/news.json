@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "이번 주 전국 휘발유 가격 소폭 하락…경유는 보합세",
-      "url": "https://n.news.naver.com/mnews/article/018/0006385006"
+      "title": "“월 50만원 붓고 2255만원”…청년미래적금, 내일부터 출생연도 상관없이 신청",
+      "url": "https://n.news.naver.com/mnews/article/029/0003052340"
     },
     {
-      "title": "전산장애 잦은 금융사 20곳, 작년 보안예산 집행률 70% 밑돌아",
-      "url": "https://n.news.naver.com/mnews/article/001/0016367991"
+      "title": "LG디스플레이, FMM 없앤 OLED 공정 공개…\"8세대 최고 혁신, 업계 해자 될 것\"",
+      "url": "https://n.news.naver.com/mnews/article/119/0003141376"
     },
     {
-      "title": "\"500만원 손실인데\" 세금 떼간다?...'코인세' 연기 목소리 커지는 이유",
-      "url": "https://n.news.naver.com/mnews/article/008/0005424394"
+      "title": "74년 만에 재계 5위 우뚝…김승연 “도전 DNA로 100년 한화 도약”",
+      "url": "https://n.news.naver.com/mnews/article/050/0000111853"
     },
     {
-      "title": "\"20억 싸게\" 이웃 눈치 보며 집 내놨는데...안 팔리는 강남 아파트",
-      "url": "https://n.news.naver.com/mnews/article/008/0005424381"
+      "title": "경제인협회 \"국내 1천대 상장사, 에너지·로봇·AI 신사업 검토\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000537152"
     },
     {
-      "title": "코스피 3% 빠질 때 코스닥 4% 올랐다…‘천스닥’ 탈환할까? [투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002707459"
+      "title": "\"LG엔솔, 3분기 ‘깜짝 실적’은 보상금 영향…ESS·유럽 EV 회복 관건\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006386165"
     },
     {
-      "title": "상장만 하면 수천억 모으더니… 증시 침체에 신규 ETF ‘찬바람’",
-      "url": "https://n.news.naver.com/mnews/article/366/0001197083"
+      "title": "K-메모리 ‘새 큰손’ 등장…휴머노이드시대, 삼전닉스 웃는다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003557136"
     },
     {
-      "title": "금융권 해킹 '도미노'…보안망 다시 도마[비즈토크<하>]",
-      "url": "https://n.news.naver.com/mnews/article/629/0000540837"
+      "title": "공정위 과징금 액수 1위 삼양사, 4위까지 설탕·밀가루 기업",
+      "url": "https://n.news.naver.com/mnews/article/023/0004003129"
     },
     {
-      "title": "\"지금이야\" 금값 27% 폭락하자…은행서 불티나게 팔린 게",
-      "url": "https://n.news.naver.com/mnews/article/015/0005341027"
+      "title": "한은·국책은행도 해킹 시도 급증…올해만 100만건↑",
+      "url": "https://n.news.naver.com/mnews/article/374/0000537105"
     },
     {
-      "title": "김나영 한미 부사장 \"에페, 한국인 맞춤형 비만약이라 자신\"[인터뷰]",
-      "url": "https://n.news.naver.com/mnews/article/421/0009220068"
+      "title": "삼성전자 ‘역대급 실적’에도 외국인 지분율은 ‘금융위기 수준’ [이런국장 저런주식]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004669924"
     },
     {
-      "title": "'탱크데이' 논란 5개월 만에…스타벅스, 투썸 제치고 1위 탈환",
-      "url": "https://n.news.naver.com/mnews/article/001/0016368666"
+      "title": "'탱크데이' 논란 5개월 만에…스타벅스 결제액 1위 재탈환",
+      "url": "https://n.news.naver.com/mnews/article/079/0004197389"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6625.93,
-      "change": -177.97,
-      "change_pct": -2.62
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 892.27,
-      "change": -6.16,
-      "change_pct": -0.69
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
       "value": 27366.17,
@@ -58,17 +58,17 @@
       "change_pct": 0.64
     },
     "usdkrw": {
-      "value": 1340.9,
-      "change": -2.09,
-      "change_pct": -0.16
+      "value": 1338.88,
+      "change": -4.11,
+      "change_pct": -0.31
     }
   },
   "gold": {
-    "price_usd": 4216.3,
-    "price_krw": 5653636,
-    "change": 59.3,
-    "change_pct": 1.43
+    "price_usd": 4216.5,
+    "price_krw": 5645387,
+    "change": 0.2,
+    "change_pct": 0.0
   },
-  "updated": "2026-10-11 08:55",
+  "updated": "2026-10-12 09:02",
   "error": null
 }
