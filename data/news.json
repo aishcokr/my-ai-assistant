@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "“월 50만원 붓고 2255만원”…청년미래적금, 내일부터 출생연도 상관없이 신청",
-      "url": "https://n.news.naver.com/mnews/article/029/0003052340"
+      "title": "LH 사장 \"3주택 중 2주택 처분…직원 사내대출 문제 개선할 것\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014248021"
     },
     {
-      "title": "LG디스플레이, FMM 없앤 OLED 공정 공개…\"8세대 최고 혁신, 업계 해자 될 것\"",
-      "url": "https://n.news.naver.com/mnews/article/119/0003141376"
+      "title": "롯데쇼핑 주주, 백화점·마트·온라인몰 추가 할인된다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005425380"
     },
     {
-      "title": "74년 만에 재계 5위 우뚝…김승연 “도전 DNA로 100년 한화 도약”",
-      "url": "https://n.news.naver.com/mnews/article/050/0000111853"
+      "title": "[속보]마이크론 3.9% 급락…美반도체주 일제 하락",
+      "url": "https://n.news.naver.com/mnews/article/021/0002824579"
     },
     {
-      "title": "경제인협회 \"국내 1천대 상장사, 에너지·로봇·AI 신사업 검토\"",
-      "url": "https://n.news.naver.com/mnews/article/374/0000537152"
+      "title": "韓산업 '마지막 보루' D램마저 … 中 기술굴기에 따라잡힐 판",
+      "url": "https://n.news.naver.com/mnews/article/009/0005747405"
     },
     {
-      "title": "\"LG엔솔, 3분기 ‘깜짝 실적’은 보상금 영향…ESS·유럽 EV 회복 관건\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006386165"
+      "title": "스타벅스, 리워드 회원 1천600만명 넘어…15일부터 감사 행사",
+      "url": "https://n.news.naver.com/mnews/article/001/0016372479"
     },
     {
-      "title": "K-메모리 ‘새 큰손’ 등장…휴머노이드시대, 삼전닉스 웃는다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003557136"
+      "title": "배민 장보기·쇼핑, 슈마커 입점…11월말까지 20% 할인",
+      "url": "https://n.news.naver.com/mnews/article/277/0005827556"
     },
     {
-      "title": "공정위 과징금 액수 1위 삼양사, 4위까지 설탕·밀가루 기업",
-      "url": "https://n.news.naver.com/mnews/article/023/0004003129"
+      "title": "최태원 한 마디에 줄줄이 '상한가' 대박…SK하닉 -3%에도 급등한 '이 종목'",
+      "url": "https://n.news.naver.com/mnews/article/277/0005827353"
     },
     {
-      "title": "한은·국책은행도 해킹 시도 급증…올해만 100만건↑",
-      "url": "https://n.news.naver.com/mnews/article/374/0000537105"
+      "title": "LS일렉트릭, 1853억원 배전솔루션 공급…수주액 5억 달러 돌파",
+      "url": "https://n.news.naver.com/mnews/article/014/0005588184"
     },
     {
-      "title": "삼성전자 ‘역대급 실적’에도 외국인 지분율은 ‘금융위기 수준’ [이런국장 저런주식]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004669924"
+      "title": "셀트리온 3분기 영업익 5100억 역대 최대…전년비 69% 급증",
+      "url": "https://n.news.naver.com/mnews/article/025/0003557240"
     },
     {
-      "title": "'탱크데이' 논란 5개월 만에…스타벅스 결제액 1위 재탈환",
-      "url": "https://n.news.naver.com/mnews/article/079/0004197389"
+      "title": "르노, 파리 모터쇼서 전동화 전략 '퓨처레디' 가동",
+      "url": "https://n.news.naver.com/mnews/article/277/0005827515"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6625.93,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 5963.77,
+      "change": -420.47,
+      "change_pct": -6.59
     },
     "kosdaq": {
-      "value": 892.27,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 808.92,
+      "change": -40.27,
+      "change_pct": -4.74
     },
     "nasdaq": {
-      "value": 27366.17,
-      "change": 172.83,
-      "change_pct": 0.64
+      "value": 27245.9,
+      "change": -120.27,
+      "change_pct": -0.44
     },
     "usdkrw": {
       "value": 1338.88,
-      "change": -4.11,
-      "change_pct": -0.31
+      "change": 0.0,
+      "change_pct": 0.0
     }
   },
   "gold": {
-    "price_usd": 4216.5,
-    "price_krw": 5645387,
-    "change": 0.2,
+    "price_usd": 4190.9,
+    "price_krw": 5611112,
+    "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-10-12 09:02",
+  "updated": "2026-10-13 11:16",
   "error": null
 }
