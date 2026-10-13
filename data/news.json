@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "LH 사장 \"3주택 중 2주택 처분…직원 사내대출 문제 개선할 것\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014248021"
+      "title": "고속철 통합 첫 국감…與 \"KTX 이용객 증가\" vs 野 \"요금 할인한다더니 인상 검토\"(종합)[2026국감]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005828021"
     },
     {
-      "title": "롯데쇼핑 주주, 백화점·마트·온라인몰 추가 할인된다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005425380"
+      "title": "IMF, 올해 한국 성장률 3.3%로 0.7%p 상향",
+      "url": "https://n.news.naver.com/mnews/article/088/0001033918"
     },
     {
-      "title": "[속보]마이크론 3.9% 급락…美반도체주 일제 하락",
-      "url": "https://n.news.naver.com/mnews/article/021/0002824579"
+      "title": "삼성전자, AI 메모리 판 키운다…AMD·엔비디아 협업 공개",
+      "url": "https://n.news.naver.com/mnews/article/215/0001268971"
     },
     {
-      "title": "韓산업 '마지막 보루' D램마저 … 中 기술굴기에 따라잡힐 판",
-      "url": "https://n.news.naver.com/mnews/article/009/0005747405"
+      "title": "손안의 AI부터 공장까지…삼성전자 '일상 속 AI'·LG전자 '산업까지 확장'[KES2026]",
+      "url": "https://n.news.naver.com/mnews/article/030/0003474430"
     },
     {
-      "title": "스타벅스, 리워드 회원 1천600만명 넘어…15일부터 감사 행사",
-      "url": "https://n.news.naver.com/mnews/article/001/0016372479"
+      "title": "얼굴 분석해 화장품 추천·로봇이 조제…정부, AI 뷰티 키운다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002708914"
     },
     {
-      "title": "배민 장보기·쇼핑, 슈마커 입점…11월말까지 20% 할인",
-      "url": "https://n.news.naver.com/mnews/article/277/0005827556"
+      "title": "스트라이브, 비트코인 공격적 매입…우선주 IPO로 매입재원 조달",
+      "url": "https://n.news.naver.com/mnews/article/018/0006387489"
     },
     {
-      "title": "최태원 한 마디에 줄줄이 '상한가' 대박…SK하닉 -3%에도 급등한 '이 종목'",
-      "url": "https://n.news.naver.com/mnews/article/277/0005827353"
+      "title": "LG전자, 애플과 스마트홈 기기 공동 개발…12월 북미에서 출시",
+      "url": "https://n.news.naver.com/mnews/article/277/0005828006"
     },
     {
-      "title": "LS일렉트릭, 1853억원 배전솔루션 공급…수주액 5억 달러 돌파",
-      "url": "https://n.news.naver.com/mnews/article/014/0005588184"
+      "title": "임광현 국세청장 \"李대통령 아파트 근저당 거래, 과세 대상 아냐\"",
+      "url": "https://n.news.naver.com/mnews/article/656/0000189406"
     },
     {
-      "title": "셀트리온 3분기 영업익 5100억 역대 최대…전년비 69% 급증",
-      "url": "https://n.news.naver.com/mnews/article/025/0003557240"
+      "title": "국내 하이브리드차 판매 처음 감소…전기차는 75% 급증",
+      "url": "https://n.news.naver.com/mnews/article/422/0000914977"
     },
     {
-      "title": "르노, 파리 모터쇼서 전동화 전략 '퓨처레디' 가동",
-      "url": "https://n.news.naver.com/mnews/article/277/0005827515"
+      "title": "금융위, 오늘 해킹 대응 점검회의…새마을금고·OK저축은행 사고도 논의",
+      "url": "https://n.news.naver.com/mnews/article/421/0009226065"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5963.77,
-      "change": -420.47,
-      "change_pct": -6.59
-    },
-    "kosdaq": {
-      "value": 808.92,
-      "change": -40.27,
-      "change_pct": -4.74
-    },
-    "nasdaq": {
-      "value": 27245.9,
-      "change": -120.27,
-      "change_pct": -0.44
-    },
-    "usdkrw": {
-      "value": 1338.88,
+      "value": 6384.24,
       "change": 0.0,
       "change_pct": 0.0
+    },
+    "kosdaq": {
+      "value": 849.19,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "nasdaq": {
+      "value": 27204.38,
+      "change": -41.52,
+      "change_pct": -0.15
+    },
+    "usdkrw": {
+      "value": 1339.89,
+      "change": 5.76,
+      "change_pct": 0.43
     }
   },
   "gold": {
-    "price_usd": 4190.9,
-    "price_krw": 5611112,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4180.0,
+    "price_krw": 5600740,
+    "change": -10.6,
+    "change_pct": -0.25
   },
-  "updated": "2026-10-13 11:16",
+  "updated": "2026-10-14 08:59",
   "error": null
 }
