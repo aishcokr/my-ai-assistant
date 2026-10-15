@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "현대차, 인도에 20조 투자 ‘푸네 공장’ 준공",
-      "url": "https://n.news.naver.com/mnews/article/032/0003476326"
+      "title": "현대차, GM 인도공장 '스마트 팩토리'로 바꿨다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005342981"
     },
     {
-      "title": "이형일, G20·G7 재무장관회의 참석차 방콕行…다자 외교무대 데뷔전",
-      "url": "https://n.news.naver.com/mnews/article/016/0002709361"
+      "title": "지금이라도 금 사둘까?…\"2년 내 사상 최고치\" 전망 나왔다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006389050"
     },
     {
-      "title": "봉투 무한담기 7900원…이마트·이마트 에브리데이, 먹거리 특가전",
-      "url": "https://n.news.naver.com/mnews/article/277/0005828635"
+      "title": "이헌욱 부동산원장 \"주간 집값 통계, 조사자 판단 개입 여지…실거래 부족 탓\"[2026국감]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005829047"
     },
     {
-      "title": "ASML \"2028년까지 수요 충족 못해…추가 증설 검토\"",
-      "url": "https://n.news.naver.com/mnews/article/374/0000537786"
+      "title": "CU, 'get모닝 꼬마김밥' 누적 판매량 400만개 넘어",
+      "url": "https://n.news.naver.com/mnews/article/001/0016377879"
     },
     {
-      "title": "댄 아이브스 \"AI 혁명 15%도 안 왔다\"…다음은 피지컬 AI",
-      "url": "https://n.news.naver.com/mnews/article/018/0006388075"
+      "title": "벤틀리, 첫 순수 전기 SUV '토르칼' 국내 계약 돌입… 3억3000만원부터",
+      "url": "https://n.news.naver.com/mnews/article/277/0005829029"
     },
     {
-      "title": "신한지주, 롯데손보 인수 후 '승자의 저주' 우려에 약세",
-      "url": "https://n.news.naver.com/mnews/article/015/0005342320"
+      "title": "상봉·돈암 20평 아파트마저…이젠 10억",
+      "url": "https://n.news.naver.com/mnews/article/009/0005749210"
     },
     {
-      "title": "IMF \"한국 정부부채 비율 크게 감소... 2031년까지 안정적 관리\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000959349"
+      "title": "9월 신규 취급 코픽스 3.43%...8월보다 0.25%p↑",
+      "url": "https://n.news.naver.com/mnews/article/052/0002419277"
     },
     {
-      "title": "[단독] 회생법원, JTBC 매각 주관사 허가… 인가 전 M&A 본격 착수",
-      "url": "https://n.news.naver.com/mnews/article/366/0001197986"
+      "title": "“한미 전략투자 이젠 기업의 시간”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004671516"
     },
     {
-      "title": "서울 저층주거지 7곳 '휴먼타운 2.0'…재개발 없이 '내 땅 새집'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005342351"
+      "title": "‘AI 인프라 기업’ 코어위브 주가 15% 폭락… 돈빌려 시설 먼저 구축, 빚잔치 공포 번져",
+      "url": "https://n.news.naver.com/mnews/article/020/0003755423"
     },
     {
-      "title": "송미령 “농지 임대차 적법화 특례…농지은행 매입 확대 검토”",
-      "url": "https://n.news.naver.com/mnews/article/029/0003053092"
+      "title": "한일 재무장관, 100억달러 규모 통화스와프 3년 연장 합의",
+      "url": "https://n.news.naver.com/mnews/article/022/0004167037"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6035.35,
+      "value": 6008.81,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 837.03,
+      "value": 823.88,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26692.87,
-      "change": -511.51,
-      "change_pct": -1.88
+      "value": 26713.03,
+      "change": 20.16,
+      "change_pct": 0.08
     },
     "usdkrw": {
-      "value": 1341.15,
-      "change": 0.84,
-      "change_pct": 0.06
+      "value": 1340.38,
+      "change": 1.03,
+      "change_pct": 0.08
     }
   },
   "gold": {
-    "price_usd": 4125.0,
-    "price_krw": 5532243,
-    "change": -52.3,
-    "change_pct": -1.25
+    "price_usd": 4184.9,
+    "price_krw": 5609356,
+    "change": 77.0,
+    "change_pct": 1.87
   },
-  "updated": "2026-10-15 08:30",
+  "updated": "2026-10-16 08:21",
   "error": null
 }
