@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "현대차, GM 인도공장 '스마트 팩토리'로 바꿨다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005342981"
+      "title": "두산, 미래사업에 고삐 …'미래·전략통' 부회장 전진배치",
+      "url": "https://n.news.naver.com/mnews/article/009/0005749815"
     },
     {
-      "title": "지금이라도 금 사둘까?…\"2년 내 사상 최고치\" 전망 나왔다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006389050"
+      "title": "LH, ‘신길4·녹번동공원·송중동’ 도심복합 사업 속도…5032가구 공급 박차",
+      "url": "https://n.news.naver.com/mnews/article/016/0002710103"
     },
     {
-      "title": "이헌욱 부동산원장 \"주간 집값 통계, 조사자 판단 개입 여지…실거래 부족 탓\"[2026국감]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005829047"
+      "title": "9월 취업자 11.3만명 증가…제조업 반등에도 청년 고용은 '부진'",
+      "url": "https://n.news.naver.com/mnews/article/030/0003475706"
     },
     {
-      "title": "CU, 'get모닝 꼬마김밥' 누적 판매량 400만개 넘어",
-      "url": "https://n.news.naver.com/mnews/article/001/0016377879"
+      "title": "서울시 “박원순 재임 시절 정비구역 389곳 해제에 43만호 증발”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004672057"
     },
     {
-      "title": "벤틀리, 첫 순수 전기 SUV '토르칼' 국내 계약 돌입… 3억3000만원부터",
-      "url": "https://n.news.naver.com/mnews/article/277/0005829029"
+      "title": "신진창 금융위 부위원장 \"자본시장, IT사고 등 금융안정 신경 써야\"",
+      "url": "https://n.news.naver.com/mnews/article/469/0000959927"
     },
     {
-      "title": "상봉·돈암 20평 아파트마저…이젠 10억",
-      "url": "https://n.news.naver.com/mnews/article/009/0005749210"
+      "title": "코어위브 주가 6% 반등…젠슨 황 \"재무건전성 매일 개선\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009231116"
     },
     {
-      "title": "9월 신규 취급 코픽스 3.43%...8월보다 0.25%p↑",
-      "url": "https://n.news.naver.com/mnews/article/052/0002419277"
+      "title": "수도권 주택 착공 목표 37% 그쳐…정부 “연말까지 80%대 달성”",
+      "url": "https://n.news.naver.com/mnews/article/029/0003053511"
     },
     {
-      "title": "“한미 전략투자 이젠 기업의 시간”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004671516"
+      "title": "석유 최고가격 네번째 동결…휘발유 1784원 경유 1773원",
+      "url": "https://n.news.naver.com/mnews/article/437/0000516093"
     },
     {
-      "title": "‘AI 인프라 기업’ 코어위브 주가 15% 폭락… 돈빌려 시설 먼저 구축, 빚잔치 공포 번져",
-      "url": "https://n.news.naver.com/mnews/article/020/0003755423"
+      "title": "CJ, 다우키움과 손잡고 중앙일보 인수전 참여",
+      "url": "https://n.news.naver.com/mnews/article/009/0005749790"
     },
     {
-      "title": "한일 재무장관, 100억달러 규모 통화스와프 3년 연장 합의",
-      "url": "https://n.news.naver.com/mnews/article/022/0004167037"
+      "title": "사람 없이 척척…기아, 국내 첫 ‘원격 운전’ 카셰어링 시범 운영",
+      "url": "https://n.news.naver.com/mnews/article/022/0004167313"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6008.81,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 823.88,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26713.03,
-      "change": 20.16,
-      "change_pct": 0.08
+      "value": 26140.03,
+      "change": -573.0,
+      "change_pct": -2.15
     },
     "usdkrw": {
-      "value": 1340.38,
-      "change": 1.03,
-      "change_pct": 0.08
+      "value": 1334.2,
+      "change": -6.75,
+      "change_pct": -0.5
     }
   },
   "gold": {
-    "price_usd": 4184.9,
-    "price_krw": 5609356,
-    "change": 77.0,
-    "change_pct": 1.87
+    "price_usd": 4186.7,
+    "price_krw": 5585895,
+    "change": 16.6,
+    "change_pct": 0.4
   },
-  "updated": "2026-10-16 08:21",
+  "updated": "2026-10-17 08:04",
   "error": null
 }
