@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "두산, 미래사업에 고삐 …'미래·전략통' 부회장 전진배치",
-      "url": "https://n.news.naver.com/mnews/article/009/0005749815"
+      "title": "“김치·나물을 K푸드 선두주자로”…제5회 2026 한국농업 미래혁신포럼",
+      "url": "https://n.news.naver.com/mnews/article/662/0000106274"
     },
     {
-      "title": "LH, ‘신길4·녹번동공원·송중동’ 도심복합 사업 속도…5032가구 공급 박차",
-      "url": "https://n.news.naver.com/mnews/article/016/0002710103"
+      "title": "코스피 꺾이자…해외 코인거래소 '큰손' 10명 중 9명, 반등에 베팅했다",
+      "url": "https://n.news.naver.com/mnews/article/055/0001396163"
     },
     {
-      "title": "9월 취업자 11.3만명 증가…제조업 반등에도 청년 고용은 '부진'",
-      "url": "https://n.news.naver.com/mnews/article/030/0003475706"
+      "title": "CXMT, 3분기 매출 600%대 급증 전망…최대 4천억원 자사주 매입",
+      "url": "https://n.news.naver.com/mnews/article/001/0016382680"
     },
     {
-      "title": "서울시 “박원순 재임 시절 정비구역 389곳 해제에 43만호 증발”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004672057"
+      "title": "빚내서 주식 샀다가 날벼락…반대매매 3000억에 개미들 ‘곡소리’",
+      "url": "https://n.news.naver.com/mnews/article/016/0002710576"
     },
     {
-      "title": "신진창 금융위 부위원장 \"자본시장, IT사고 등 금융안정 신경 써야\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000959927"
+      "title": "전세계 GDP 14% 묶은 거대블록 CPTPP…트럼프 시대 뜨거운 감자",
+      "url": "https://n.news.naver.com/mnews/article/001/0016382494"
     },
     {
-      "title": "코어위브 주가 6% 반등…젠슨 황 \"재무건전성 매일 개선\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009231116"
+      "title": "외국인이 8.8조 던진 삼전·하이닉스…한 주 새 각각 17%·24% 뚝",
+      "url": "https://n.news.naver.com/mnews/article/015/0005343502"
     },
     {
-      "title": "수도권 주택 착공 목표 37% 그쳐…정부 “연말까지 80%대 달성”",
-      "url": "https://n.news.naver.com/mnews/article/029/0003053511"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/057/0001973890"
     },
     {
-      "title": "석유 최고가격 네번째 동결…휘발유 1784원 경유 1773원",
-      "url": "https://n.news.naver.com/mnews/article/437/0000516093"
+      "title": "전국 휘발유 가격 22주 연속 하락… 리터 당 1856.6원",
+      "url": "https://n.news.naver.com/mnews/article/366/0001198533"
     },
     {
-      "title": "CJ, 다우키움과 손잡고 중앙일보 인수전 참여",
-      "url": "https://n.news.naver.com/mnews/article/009/0005749790"
+      "title": "독립경영 나선 한화 막내…최대주주 자리 노린다",
+      "url": "https://n.news.naver.com/mnews/article/243/0000104327"
     },
     {
-      "title": "사람 없이 척척…기아, 국내 첫 ‘원격 운전’ 카셰어링 시범 운영",
-      "url": "https://n.news.naver.com/mnews/article/022/0004167313"
+      "title": "강남 밖으로 번진 매수세…강동·노원 거래액 수직상승",
+      "url": "https://n.news.naver.com/mnews/hotissue/article/277/0005829785?type=series&cid=1088775"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5668.05,
+      "change": 113.83,
+      "change_pct": 2.05
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 794.78,
+      "change": 33.96,
+      "change_pct": 4.46
     },
     "nasdaq": {
       "value": 26140.03,
@@ -58,17 +58,17 @@
       "change_pct": -2.15
     },
     "usdkrw": {
-      "value": 1334.2,
-      "change": -6.75,
-      "change_pct": -0.5
+      "value": 1329.6,
+      "change": -11.35,
+      "change_pct": -0.85
     }
   },
   "gold": {
-    "price_usd": 4186.7,
-    "price_krw": 5585895,
-    "change": 16.6,
-    "change_pct": 0.4
+    "price_usd": 4181.1,
+    "price_krw": 5559190,
+    "change": 11.0,
+    "change_pct": 0.26
   },
-  "updated": "2026-10-17 08:04",
+  "updated": "2026-10-18 07:43",
   "error": null
 }
