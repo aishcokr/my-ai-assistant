@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "“김치·나물을 K푸드 선두주자로”…제5회 2026 한국농업 미래혁신포럼",
-      "url": "https://n.news.naver.com/mnews/article/662/0000106274"
+      "title": "다자외교 데뷔 이형일, 3대 신평사 등 하루에만 11회 양자 면담",
+      "url": "https://n.news.naver.com/mnews/article/001/0016383487"
     },
     {
-      "title": "코스피 꺾이자…해외 코인거래소 '큰손' 10명 중 9명, 반등에 베팅했다",
-      "url": "https://n.news.naver.com/mnews/article/055/0001396163"
+      "title": "국민연금도 ‘반도체 쇼크’…100일 만에 182조 날렸다",
+      "url": "https://n.news.naver.com/mnews/article/020/0003755704"
     },
     {
-      "title": "CXMT, 3분기 매출 600%대 급증 전망…최대 4천억원 자사주 매입",
-      "url": "https://n.news.naver.com/mnews/article/001/0016382680"
+      "title": "韓잠재성장률, 40년만에 2년연속 반등 전망",
+      "url": "https://n.news.naver.com/mnews/article/020/0003755780"
     },
     {
-      "title": "빚내서 주식 샀다가 날벼락…반대매매 3000억에 개미들 ‘곡소리’",
-      "url": "https://n.news.naver.com/mnews/article/016/0002710576"
+      "title": "SK하이닉스 임원 72명 늘 때 삼성은 1명…‘반도체 투톱’ 임원 현황 보니",
+      "url": "https://n.news.naver.com/mnews/article/050/0000112080"
     },
     {
-      "title": "전세계 GDP 14% 묶은 거대블록 CPTPP…트럼프 시대 뜨거운 감자",
-      "url": "https://n.news.naver.com/mnews/article/001/0016382494"
+      "title": "취준생 한 달에 58만원 쓴다…10명 중 7명 \"비용 부담\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006391109"
     },
     {
-      "title": "외국인이 8.8조 던진 삼전·하이닉스…한 주 새 각각 17%·24% 뚝",
-      "url": "https://n.news.naver.com/mnews/article/015/0005343502"
+      "title": "코스피 급락에 '강제 청산' 경고등",
+      "url": "https://n.news.naver.com/mnews/article/009/0005750223"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/057/0001973890"
+      "title": "한은 22일 금리 결정…금융권 해킹·ETF 국감도 주목[다음주 경제]",
+      "url": "https://n.news.naver.com/mnews/article/374/0000538387"
     },
     {
-      "title": "전국 휘발유 가격 22주 연속 하락… 리터 당 1856.6원",
-      "url": "https://n.news.naver.com/mnews/article/366/0001198533"
+      "title": "삼성D '아산2단지'·LGD '플립'…내년 대규모 디스플레이 투자 논의 착수",
+      "url": "https://n.news.naver.com/mnews/article/030/0003476081"
     },
     {
-      "title": "독립경영 나선 한화 막내…최대주주 자리 노린다",
-      "url": "https://n.news.naver.com/mnews/article/243/0000104327"
+      "title": "\"2028년 중국산 D램 온다\"…머스크 잇단 경고, 속내는",
+      "url": "https://n.news.naver.com/mnews/article/215/0001269518"
     },
     {
-      "title": "강남 밖으로 번진 매수세…강동·노원 거래액 수직상승",
-      "url": "https://n.news.naver.com/mnews/hotissue/article/277/0005829785?type=series&cid=1088775"
+      "title": "한전 작업현장 사망자 12명 중 최소 10명 하청 노동자",
+      "url": "https://n.news.naver.com/mnews/article/029/0003053678"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -2.15
     },
     "usdkrw": {
-      "value": 1329.6,
-      "change": -11.35,
-      "change_pct": -0.85
+      "value": 1334.66,
+      "change": -6.29,
+      "change_pct": -0.47
     }
   },
   "gold": {
-    "price_usd": 4181.1,
-    "price_krw": 5559190,
-    "change": 11.0,
-    "change_pct": 0.26
+    "price_usd": 4197.8,
+    "price_krw": 5602635,
+    "change": 16.7,
+    "change_pct": 0.4
   },
-  "updated": "2026-10-18 07:43",
+  "updated": "2026-10-19 07:38",
   "error": null
 }
