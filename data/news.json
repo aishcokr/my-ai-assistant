@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "다자외교 데뷔 이형일, 3대 신평사 등 하루에만 11회 양자 면담",
-      "url": "https://n.news.naver.com/mnews/article/001/0016383487"
+      "title": "금감원장 \"솔리다임 상장, 중복상장 저촉…SK하이닉스에 우려사항 전달할 것\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000538554"
     },
     {
-      "title": "국민연금도 ‘반도체 쇼크’…100일 만에 182조 날렸다",
-      "url": "https://n.news.naver.com/mnews/article/020/0003755704"
+      "title": "이찬진 “단일종목 ETF, 상장일정 맞추기 위해 심사 빨리 진행”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012276146"
     },
     {
-      "title": "韓잠재성장률, 40년만에 2년연속 반등 전망",
-      "url": "https://n.news.naver.com/mnews/article/020/0003755780"
+      "title": "“커피 멤버십까지 털렸다”…유통·식음업계 개인정보 유출 왜 반복되나",
+      "url": "https://n.news.naver.com/mnews/article/009/0005750692"
     },
     {
-      "title": "SK하이닉스 임원 72명 늘 때 삼성은 1명…‘반도체 투톱’ 임원 현황 보니",
-      "url": "https://n.news.naver.com/mnews/article/050/0000112080"
+      "title": "농식품부, ‘계란 수입’ 허위 게시물 3건 법적 대응 검토",
+      "url": "https://n.news.naver.com/mnews/article/018/0006391578"
     },
     {
-      "title": "취준생 한 달에 58만원 쓴다…10명 중 7명 \"비용 부담\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006391109"
+      "title": "현대로템, K2 주포까지 직접 만든다…3584억에 현대위아 방산사업 인수",
+      "url": "https://n.news.naver.com/mnews/article/277/0005830401"
     },
     {
-      "title": "코스피 급락에 '강제 청산' 경고등",
-      "url": "https://n.news.naver.com/mnews/article/009/0005750223"
+      "title": "삼성전자 19% 급락했지만…\"내년 이익 성장 이미 확보\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006391885"
     },
     {
-      "title": "한은 22일 금리 결정…금융권 해킹·ETF 국감도 주목[다음주 경제]",
-      "url": "https://n.news.naver.com/mnews/article/374/0000538387"
+      "title": "이형일 \"올해 성장률 3.4∼3.6% 전망...잠재성장률 반등 임박\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002420525"
     },
     {
-      "title": "삼성D '아산2단지'·LGD '플립'…내년 대규모 디스플레이 투자 논의 착수",
-      "url": "https://n.news.naver.com/mnews/article/030/0003476081"
+      "title": "나스닥 1.1% 반등…엔비디아·메모리주 회복, 코어위브는 약세",
+      "url": "https://n.news.naver.com/mnews/article/138/0002245244"
     },
     {
-      "title": "\"2028년 중국산 D램 온다\"…머스크 잇단 경고, 속내는",
-      "url": "https://n.news.naver.com/mnews/article/215/0001269518"
+      "title": "'중앙일보 인수전' 다우키움·CJ 컨소시엄, 6파전 뚫고 우협 선정",
+      "url": "https://n.news.naver.com/mnews/article/421/0009237323"
     },
     {
-      "title": "한전 작업현장 사망자 12명 중 최소 10명 하청 노동자",
-      "url": "https://n.news.naver.com/mnews/article/029/0003053678"
+      "title": "‘14년 표류’ 강원 망상지구에 7700억 투입…국제학교 품은 휴양도시 변신",
+      "url": "https://n.news.naver.com/mnews/article/011/0004672851"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 5668.05,
-      "change": 113.83,
-      "change_pct": 2.05
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 794.78,
-      "change": 33.96,
-      "change_pct": 4.46
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26140.03,
-      "change": -573.0,
-      "change_pct": -2.15
+      "value": 26430.89,
+      "change": 290.86,
+      "change_pct": 1.11
     },
     "usdkrw": {
-      "value": 1334.66,
-      "change": -6.29,
-      "change_pct": -0.47
+      "value": 1330.73,
+      "change": -2.7,
+      "change_pct": -0.2
     }
   },
   "gold": {
-    "price_usd": 4197.8,
-    "price_krw": 5602635,
-    "change": 16.7,
-    "change_pct": 0.4
+    "price_usd": 4152.9,
+    "price_krw": 5526388,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-10-19 07:38",
+  "updated": "2026-10-20 08:58",
   "error": null
 }
