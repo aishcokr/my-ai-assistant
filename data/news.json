@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "금감원장 \"솔리다임 상장, 중복상장 저촉…SK하이닉스에 우려사항 전달할 것\"",
-      "url": "https://n.news.naver.com/mnews/article/374/0000538554"
+      "title": "\"AI시대 중기 경쟁력 키우자\"…'리더스포럼' 개막",
+      "url": "https://n.news.naver.com/mnews/article/003/0014266377"
     },
     {
-      "title": "이찬진 “단일종목 ETF, 상장일정 맞추기 위해 심사 빨리 진행”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012276146"
+      "title": "건보료 소득정산 전 국민 확대 추진…394만 세대 보험료 3.3조 더 낸다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003559222"
     },
     {
-      "title": "“커피 멤버십까지 털렸다”…유통·식음업계 개인정보 유출 왜 반복되나",
-      "url": "https://n.news.naver.com/mnews/article/009/0005750692"
+      "title": "\"가덕도 지역 건설사와 논의 진전…국감 전 의견 취합 요청\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006392350"
     },
     {
-      "title": "농식품부, ‘계란 수입’ 허위 게시물 3건 법적 대응 검토",
-      "url": "https://n.news.naver.com/mnews/article/018/0006391578"
+      "title": "HMM 선대 확장…2조 원 투입해 컨테이너선 12척 확보",
+      "url": "https://n.news.naver.com/mnews/article/079/0004200722"
     },
     {
-      "title": "현대로템, K2 주포까지 직접 만든다…3584억에 현대위아 방산사업 인수",
-      "url": "https://n.news.naver.com/mnews/article/277/0005830401"
+      "title": "범삼성가 중앙일보 품나 다우키움·CJ컨소 참여",
+      "url": "https://n.news.naver.com/mnews/article/082/0001403328"
     },
     {
-      "title": "삼성전자 19% 급락했지만…\"내년 이익 성장 이미 확보\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006391885"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002421484"
     },
     {
-      "title": "이형일 \"올해 성장률 3.4∼3.6% 전망...잠재성장률 반등 임박\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002420525"
+      "title": "천리안위성 2호 융·복합 활용으로 기후위기 대응 역량 높인다…부산서 콘퍼런스",
+      "url": "https://n.news.naver.com/mnews/article/082/0001403353"
     },
     {
-      "title": "나스닥 1.1% 반등…엔비디아·메모리주 회복, 코어위브는 약세",
-      "url": "https://n.news.naver.com/mnews/article/138/0002245244"
+      "title": "금융당국 \"솔리다임 중복상장\" 경고…국내 주식시장 영향은?",
+      "url": "https://n.news.naver.com/mnews/article/001/0016389512"
     },
     {
-      "title": "'중앙일보 인수전' 다우키움·CJ 컨소시엄, 6파전 뚫고 우협 선정",
-      "url": "https://n.news.naver.com/mnews/article/421/0009237323"
+      "title": "삼성바이오로직스 노조, 26일 2차 총파업 연기",
+      "url": "https://n.news.naver.com/mnews/article/011/0004673231"
     },
     {
-      "title": "‘14년 표류’ 강원 망상지구에 7700억 투입…국제학교 품은 휴양도시 변신",
-      "url": "https://n.news.naver.com/mnews/article/011/0004672851"
+      "title": "뉴욕증시, 실적 호조·유가 하락에 투자심리 개선…다우 1%↑",
+      "url": "https://n.news.naver.com/mnews/article/001/0016390094"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5668.05,
+      "value": 5768.01,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 794.78,
+      "value": 808.89,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26430.89,
-      "change": 290.86,
-      "change_pct": 1.11
+      "value": 26424.82,
+      "change": -6.07,
+      "change_pct": -0.02
     },
     "usdkrw": {
-      "value": 1330.73,
-      "change": -2.7,
-      "change_pct": -0.2
+      "value": 1325.42,
+      "change": -4.58,
+      "change_pct": -0.34
     }
   },
   "gold": {
-    "price_usd": 4152.9,
-    "price_krw": 5526388,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4135.0,
+    "price_krw": 5480611,
+    "change": -25.1,
+    "change_pct": -0.6
   },
-  "updated": "2026-10-20 08:58",
+  "updated": "2026-10-21 08:29",
   "error": null
 }
