@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"AI시대 중기 경쟁력 키우자\"…'리더스포럼' 개막",
-      "url": "https://n.news.naver.com/mnews/article/003/0014266377"
+      "title": "“中企 AI 전환, 각자도생으론 한계”…협동조합 중심 '공동 AI공장' 해법 부상",
+      "url": "https://n.news.naver.com/mnews/article/030/0003477210"
     },
     {
-      "title": "건보료 소득정산 전 국민 확대 추진…394만 세대 보험료 3.3조 더 낸다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003559222"
+      "title": "\"다음 주부터 그만 나오세요\"… 한시적 근로자 600만 명 넘었다",
+      "url": "https://n.news.naver.com/mnews/article/469/0000960738"
     },
     {
-      "title": "\"가덕도 지역 건설사와 논의 진전…국감 전 의견 취합 요청\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006392350"
+      "title": "여성이 답한 재무 중요도는 53%, 만족도는 40% 그쳐",
+      "url": "https://n.news.naver.com/mnews/article/016/0002712224"
     },
     {
-      "title": "HMM 선대 확장…2조 원 투입해 컨테이너선 12척 확보",
-      "url": "https://n.news.naver.com/mnews/article/079/0004200722"
+      "title": "\"피지컬 AI 육성할 법적 기반 부족\"…한경협, 제도 정비 촉구",
+      "url": "https://n.news.naver.com/mnews/article/421/0009242776"
     },
     {
-      "title": "범삼성가 중앙일보 품나 다우키움·CJ컨소 참여",
-      "url": "https://n.news.naver.com/mnews/article/082/0001403328"
+      "title": "한 달 앞당겨 40조원 자사주 매입 끝냈다…SK하닉, 이제 시장이 주목하는 ‘이날’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005752066"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002421484"
+      "title": "삼성생명공익재단, 삼성행복대상에 행복심리학자 서은국 교수 등 8명 선정",
+      "url": "https://n.news.naver.com/mnews/article/277/0005831230"
     },
     {
-      "title": "천리안위성 2호 융·복합 활용으로 기후위기 대응 역량 높인다…부산서 콘퍼런스",
-      "url": "https://n.news.naver.com/mnews/article/082/0001403353"
+      "title": "연말 연금 납입, 노후 준비 앞당기는 가속페달[헤럴드광장]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002712301"
     },
     {
-      "title": "금융당국 \"솔리다임 중복상장\" 경고…국내 주식시장 영향은?",
-      "url": "https://n.news.naver.com/mnews/article/001/0016389512"
+      "title": "HD현대로보틱스, 자체 개발 '지능형 양팔로봇' 첫선",
+      "url": "https://n.news.naver.com/mnews/article/052/0002421724"
     },
     {
-      "title": "삼성바이오로직스 노조, 26일 2차 총파업 연기",
-      "url": "https://n.news.naver.com/mnews/article/011/0004673231"
+      "title": "10월 1~20일 수출 616억달러, 105.4% 증가…동기간 역대 최대",
+      "url": "https://n.news.naver.com/mnews/article/079/0004200968"
     },
     {
-      "title": "뉴욕증시, 실적 호조·유가 하락에 투자심리 개선…다우 1%↑",
-      "url": "https://n.news.naver.com/mnews/article/001/0016390094"
+      "title": "삼성바이오, 3분기 매출 18.5%↑ 파죽지세…가이던스 20%로 상향",
+      "url": "https://n.news.naver.com/mnews/article/030/0003477368"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5768.01,
+      "value": 5552.74,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 808.89,
+      "value": 781.97,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26424.82,
-      "change": -6.07,
-      "change_pct": -0.02
+      "value": 26702.86,
+      "change": 278.04,
+      "change_pct": 1.05
     },
     "usdkrw": {
-      "value": 1325.42,
-      "change": -4.58,
-      "change_pct": -0.34
+      "value": 1325.83,
+      "change": 1.89,
+      "change_pct": 0.14
     }
   },
   "gold": {
-    "price_usd": 4135.0,
-    "price_krw": 5480611,
-    "change": -25.1,
-    "change_pct": -0.6
+    "price_usd": 4140.3,
+    "price_krw": 5489333,
+    "change": -2.3,
+    "change_pct": -0.06
   },
-  "updated": "2026-10-21 08:29",
+  "updated": "2026-10-22 08:45",
   "error": null
 }
