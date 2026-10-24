@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "반도체 불모지서 ‘세계 1위’ 달성… 이건희 선대회장 6주기, 도전과 유산 재조명",
-      "url": "https://n.news.naver.com/mnews/article/022/0004169159"
+      "title": "대한항공·아시아나, 수탁사 통해 고객 개인정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/277/0005832850"
     },
     {
-      "title": "8월 은행 연체율 0.69% 10년 만에 '최고'",
-      "url": "https://n.news.naver.com/mnews/article/586/0000140743"
+      "title": "\"부의 대물림 꼼수차단\"…가업상속공제 대폭손실[중기 가업승계①]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014275425"
     },
     {
-      "title": "국토부 장관 “집값 상승세 둔화…연말 금리 오르면 시장 안정”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002713710"
+      "title": "포스코 노조, 내달 2일부터 무기한 파업…임금 교섭 결렬",
+      "url": "https://n.news.naver.com/mnews/article/023/0004005725"
     },
     {
-      "title": "산업硏 \"석유 최고가격제 휘발유값 239원 안정효과\"",
-      "url": "https://n.news.naver.com/mnews/article/009/0005753291"
+      "title": "전기료 결국 오르나?...한전, 19조원 사채한도 초과 위기",
+      "url": "https://n.news.naver.com/mnews/article/014/0005593806"
     },
     {
-      "title": "SK하이닉스, 솔리다임 美 상장 검토 중단…\"주주가치 제고 방안 계속 모색\"",
-      "url": "https://n.news.naver.com/mnews/article/031/0001068620"
+      "title": "전국 휘발유값 23주 연속 하락…강원은 L당 1867.50원",
+      "url": "https://n.news.naver.com/mnews/article/654/0000207140"
     },
     {
-      "title": "신현송 “초저금리 복귀 어려워…고성장·고금리 대비해 정책 펴겠다”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012279709"
+      "title": "삼전닉스 팔더니 ‘이 종목’ 샀다…일년새 2만→6만원 ‘급등’ 깜짝 [종목Pick]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002713854"
     },
     {
-      "title": "HD현대중공업 노사, 임단협 2차 잠정합의…일시금 50만원 추가",
-      "url": "https://n.news.naver.com/mnews/article/277/0005832833"
+      "title": "겨우 잡히나 했던 계란값…다시 찾아온 고병원성 AI에 '비상'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009247912"
     },
     {
-      "title": "하나금융, 3분기 누적 순익 3.6조…\"4분기 NIM 반등 충분\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009247032"
+      "title": "‘PHP 취약점’ 악용…北라자루스, 대규모 공격준비 정황",
+      "url": "https://n.news.naver.com/mnews/article/005/0001880584"
     },
     {
-      "title": "명동·잠실 이어 청량리도 ‘롯데타운’ 시대",
-      "url": "https://n.news.naver.com/mnews/article/081/0003691746"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/448/0000646662"
     },
     {
-      "title": "“노후자금 불리고 세금 줄이고”…퇴직연금 담당자 100여 명 모인 이유",
-      "url": "https://n.news.naver.com/mnews/article/009/0005753167"
+      "title": "\"숨 막히는 이자, 0.1%p라도 낮춰야지\"…싼 이자 찾아 삼만리[긴축 청구서②]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014276022"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5550.3,
+      "change": 16.53,
+      "change_pct": 0.3
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 751.69,
+      "change": -12.41,
+      "change_pct": -1.62
     },
     "nasdaq": {
       "value": 25955.34,
@@ -58,17 +58,17 @@
       "change_pct": -0.21
     },
     "usdkrw": {
-      "value": 1323.66,
-      "change": -1.93,
-      "change_pct": -0.15
+      "value": 1325.4,
+      "change": -0.59,
+      "change_pct": -0.04
     }
   },
   "gold": {
-    "price_usd": 4010.0,
-    "price_krw": 5307876,
-    "change": -50.4,
-    "change_pct": -1.24
+    "price_usd": 4007.9,
+    "price_krw": 5312070,
+    "change": -52.5,
+    "change_pct": -1.29
   },
-  "updated": "2026-10-24 08:35",
+  "updated": "2026-10-25 07:45",
   "error": null
 }
