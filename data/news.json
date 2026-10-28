@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "12차 전기본 수요 또 바뀌나… \"AI 데이터센터 수요 적절히 반영\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000961705"
+      "title": "신한카드 3분기 순익 2324억원, 73.7% 증가…사옥 매각이익 반영",
+      "url": "https://n.news.naver.com/mnews/article/016/0002715056"
     },
     {
-      "title": "KB국민은행, 해킹 정보유출 2210명으로 확대…예금·대출내역 등(종합)",
-      "url": "https://n.news.naver.com/mnews/article/003/0014279523"
+      "title": "[속보]SK하이닉스, 3분기 영업익 83조 '사상 최대'…시장 전망치도 웃돌아",
+      "url": "https://n.news.naver.com/mnews/article/018/0006397604"
     },
     {
-      "title": "HD현대마린솔루션 3분기 매출 26.7%↑..골텐스 품고 성장세 키우나",
-      "url": "https://n.news.naver.com/mnews/article/014/0005594503"
+      "title": "박현주 “AI 혁명, 이제 10~20%… 반도체 고점론, 세상 변화 모르는 것”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001200690"
     },
     {
-      "title": "李대통령 \"3Q 중기 수출액 334억달러 '역대 최대'…모두의성장 뒷받침\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005431815"
+      "title": "LG에너지솔루션, 에너직스와 유럽·북미 ESS 공급 협력",
+      "url": "https://n.news.naver.com/mnews/article/277/0005833921"
     },
     {
-      "title": "日 투자그룹, JYP 지분 50% 인수 추진 발표…JYP “사실무근”",
-      "url": "https://n.news.naver.com/mnews/article/666/0000129249"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000919821"
     },
     {
-      "title": "현대차, 8년 만에 수소차 판매 5만대 돌파",
-      "url": "https://n.news.naver.com/mnews/article/023/0004006054"
+      "title": "[속보] 원자력안전위원회, 고리 원전 3·4호기 계속운전 허가",
+      "url": "https://n.news.naver.com/mnews/article/025/0003560857"
     },
     {
-      "title": "방사청 추가 제재 검토 소식에…LIG D&A, 장 초반 10%대 급락",
-      "url": "https://n.news.naver.com/mnews/article/009/0005753865"
+      "title": "‘게임 성능 최고’라더니 고사양 게임 땐 성능 제한···공정위, 삼성전자에 과징금 201억",
+      "url": "https://n.news.naver.com/mnews/article/032/0003478785"
     },
     {
-      "title": "삼성SDI, 美 ‘텍사스 전력 프로젝트’에 ESS 배터리 공급",
-      "url": "https://n.news.naver.com/mnews/article/005/0001880935"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000920187"
     },
     {
-      "title": "BNK투자증권, 3분기 영업익 33억원…전분기比 91.4% '뚝'",
-      "url": "https://n.news.naver.com/mnews/article/629/0000545635"
+      "title": "“경제 좋아진다더니”…제조업 경기 전망 두 달째 싸늘",
+      "url": "https://n.news.naver.com/mnews/article/018/0006397519"
     },
     {
-      "title": "\"집 살 때 대출 쉬워지나 했는데\"…주담대 문턱 그대로",
-      "url": "https://n.news.naver.com/mnews/article/648/0000051934"
+      "title": "HD현대일렉, 3분기 매출·영업익 모두 '두 자릿수 증가'",
+      "url": "https://n.news.naver.com/mnews/article/277/0005834061"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5469.47,
+      "value": 5638.34,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 727.21,
+      "value": 743.83,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26169.38,
-      "change": 214.04,
-      "change_pct": 0.82
+      "value": 26477.81,
+      "change": 308.43,
+      "change_pct": 1.18
     },
     "usdkrw": {
-      "value": 1324.58,
-      "change": 2.82,
-      "change_pct": 0.21
+      "value": 1326.75,
+      "change": 1.98,
+      "change_pct": 0.15
     }
   },
   "gold": {
-    "price_usd": 4018.2,
-    "price_krw": 5322427,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4075.5,
+    "price_krw": 5407169,
+    "change": 37.1,
+    "change_pct": 0.92
   },
-  "updated": "2026-10-27 09:07",
+  "updated": "2026-10-28 09:06",
   "error": null
 }
