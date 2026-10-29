@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "신한카드 3분기 순익 2324억원, 73.7% 증가…사옥 매각이익 반영",
-      "url": "https://n.news.naver.com/mnews/article/016/0002715056"
+      "title": "\"삼성전기, AI발 초호황 지속…4분기도 '깜짝 실적' 전망\"-KB",
+      "url": "https://n.news.naver.com/mnews/article/015/0005347841"
     },
     {
-      "title": "[속보]SK하이닉스, 3분기 영업익 83조 '사상 최대'…시장 전망치도 웃돌아",
-      "url": "https://n.news.naver.com/mnews/article/018/0006397604"
+      "title": "SK하이닉스 \"커스텀 HBM 중요해져…주요 고객과 프로젝트 진행\"",
+      "url": "https://n.news.naver.com/mnews/article/031/0001069940"
     },
     {
-      "title": "박현주 “AI 혁명, 이제 10~20%… 반도체 고점론, 세상 변화 모르는 것”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001200690"
+      "title": "삼성물산, 반도체 투자 확대에 건설 실적 '쑥'…수익성 개선세-한화",
+      "url": "https://n.news.naver.com/mnews/article/018/0006398426"
     },
     {
-      "title": "LG에너지솔루션, 에너직스와 유럽·북미 ESS 공급 협력",
-      "url": "https://n.news.naver.com/mnews/article/277/0005833921"
+      "title": "미래에셋증권, 日 산코증권 420억원에 인수 추진",
+      "url": "https://n.news.naver.com/mnews/article/629/0000546643"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000919821"
+      "title": "\"여행 가방 7816개\" 빼곡…마곡 이랜드 지하창고에 이런 비밀이[리얼로그M]",
+      "url": "https://n.news.naver.com/mnews/article/008/0005433064"
     },
     {
-      "title": "[속보] 원자력안전위원회, 고리 원전 3·4호기 계속운전 허가",
-      "url": "https://n.news.naver.com/mnews/article/025/0003560857"
+      "title": "LG엔솔, 전 세계 연구실에 '미래 배터리' 묻는다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005596176"
     },
     {
-      "title": "‘게임 성능 최고’라더니 고사양 게임 땐 성능 제한···공정위, 삼성전자에 과징금 201억",
-      "url": "https://n.news.naver.com/mnews/article/032/0003478785"
+      "title": "호텔신라, 3분기 영업익 522억…전년比 382% 증가",
+      "url": "https://n.news.naver.com/mnews/article/014/0005595934"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000920187"
+      "title": "8월 출생아 2.4만명, 7년 만에 최다…20대·40대 출산율도 올랐다",
+      "url": "https://n.news.naver.com/mnews/article/022/0004170476"
     },
     {
-      "title": "“경제 좋아진다더니”…제조업 경기 전망 두 달째 싸늘",
-      "url": "https://n.news.naver.com/mnews/article/018/0006397519"
+      "title": "어떤 브랜드든, 어디서 샀든 … 집 안의 모든 가전 맡기세요",
+      "url": "https://n.news.naver.com/mnews/article/009/0005755365"
     },
     {
-      "title": "HD현대일렉, 3분기 매출·영업익 모두 '두 자릿수 증가'",
-      "url": "https://n.news.naver.com/mnews/article/277/0005834061"
+      "title": "'어닝 서프' SK하이닉스, 100兆 역대급 주주환원 추진에 주가도 방긋",
+      "url": "https://n.news.naver.com/mnews/article/088/0001036892"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5638.34,
+      "value": 6044.44,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 743.83,
+      "value": 768.61,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26477.81,
-      "change": 308.43,
-      "change_pct": 1.18
+      "value": 26549.85,
+      "change": 72.04,
+      "change_pct": 0.27
     },
     "usdkrw": {
-      "value": 1326.75,
-      "change": 1.98,
-      "change_pct": 0.15
+      "value": 1338.08,
+      "change": 11.27,
+      "change_pct": 0.85
     }
   },
   "gold": {
-    "price_usd": 4075.5,
-    "price_krw": 5407169,
-    "change": 37.1,
-    "change_pct": 0.92
+    "price_usd": 4055.0,
+    "price_krw": 5425914,
+    "change": -19.6,
+    "change_pct": -0.48
   },
-  "updated": "2026-10-28 09:06",
+  "updated": "2026-10-29 09:27",
   "error": null
 }
