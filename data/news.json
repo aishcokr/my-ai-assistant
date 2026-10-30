@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"삼성전기, AI발 초호황 지속…4분기도 '깜짝 실적' 전망\"-KB",
-      "url": "https://n.news.naver.com/mnews/article/015/0005347841"
+      "title": "KB증권, 3분기 순이익 2730억원…누적 순이익 1조원 돌파",
+      "url": "https://n.news.naver.com/mnews/article/016/0002716279"
     },
     {
-      "title": "SK하이닉스 \"커스텀 HBM 중요해져…주요 고객과 프로젝트 진행\"",
-      "url": "https://n.news.naver.com/mnews/article/031/0001069940"
+      "title": "코인거래소 프라뱅, 해킹으로 1억원 털렸다…금융권 첫 금전 피해",
+      "url": "https://n.news.naver.com/mnews/article/023/0004006615"
     },
     {
-      "title": "삼성물산, 반도체 투자 확대에 건설 실적 '쑥'…수익성 개선세-한화",
-      "url": "https://n.news.naver.com/mnews/article/018/0006398426"
+      "title": "부산 센텀시티점 매각하는 롯데百…\"포트폴리오 재편으로 역량 집중\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009258289"
     },
     {
-      "title": "미래에셋증권, 日 산코증권 420억원에 인수 추진",
-      "url": "https://n.news.naver.com/mnews/article/629/0000546643"
+      "title": "퇴직금 떼일 걱정 없도록…퇴직연금 대수술",
+      "url": "https://n.news.naver.com/mnews/article/028/0002829912"
     },
     {
-      "title": "\"여행 가방 7816개\" 빼곡…마곡 이랜드 지하창고에 이런 비밀이[리얼로그M]",
-      "url": "https://n.news.naver.com/mnews/article/008/0005433064"
+      "title": "서울 코앞 그린벨트 풀어 7.6만 가구 공급…용산·내곡은 빠졌다",
+      "url": "https://n.news.naver.com/mnews/article/469/0000962419"
     },
     {
-      "title": "LG엔솔, 전 세계 연구실에 '미래 배터리' 묻는다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005596176"
+      "title": "2.7조 깜짝 실적 냈는데.. 현대차 목표가 55만→45만원으로 깎인 이유",
+      "url": "https://n.news.naver.com/mnews/article/014/0005596867"
     },
     {
-      "title": "호텔신라, 3분기 영업익 522억…전년比 382% 증가",
-      "url": "https://n.news.naver.com/mnews/article/014/0005595934"
+      "title": "유진證, 삼성SDI 목표주가 50만→70만",
+      "url": "https://n.news.naver.com/mnews/article/014/0005596870"
     },
     {
-      "title": "8월 출생아 2.4만명, 7년 만에 최다…20대·40대 출산율도 올랐다",
-      "url": "https://n.news.naver.com/mnews/article/022/0004170476"
+      "title": "주주환원 110조에도…주가 4% 떨어진 이유",
+      "url": "https://n.news.naver.com/mnews/article/015/0005348228"
     },
     {
-      "title": "어떤 브랜드든, 어디서 샀든 … 집 안의 모든 가전 맡기세요",
-      "url": "https://n.news.naver.com/mnews/article/009/0005755365"
+      "title": "삼성전자, 영업익 107조 ‘사상 최대’…3분기 배당 30조원",
+      "url": "https://n.news.naver.com/mnews/article/024/0000109241"
     },
     {
-      "title": "'어닝 서프' SK하이닉스, 100兆 역대급 주주환원 추진에 주가도 방긋",
-      "url": "https://n.news.naver.com/mnews/article/088/0001036892"
+      "title": "'주택공급 선행지표' 서울 1∼9월 인허가 33.3% 증가",
+      "url": "https://n.news.naver.com/mnews/article/001/0016410661"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6044.44,
+      "value": 5722.22,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 768.61,
+      "value": 731.54,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26549.85,
-      "change": 72.04,
-      "change_pct": 0.27
+      "value": 26184.72,
+      "change": -365.12,
+      "change_pct": -1.38
     },
     "usdkrw": {
-      "value": 1338.08,
-      "change": 11.27,
-      "change_pct": 0.85
+      "value": 1338.35,
+      "change": -1.99,
+      "change_pct": -0.15
     }
   },
   "gold": {
-    "price_usd": 4055.0,
-    "price_krw": 5425914,
-    "change": -19.6,
-    "change_pct": -0.48
+    "price_usd": 4023.6,
+    "price_krw": 5384985,
+    "change": -28.0,
+    "change_pct": -0.69
   },
-  "updated": "2026-10-29 09:27",
+  "updated": "2026-10-30 09:28",
   "error": null
 }
