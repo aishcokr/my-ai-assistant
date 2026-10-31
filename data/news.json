@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "KB증권, 3분기 순이익 2730억원…누적 순이익 1조원 돌파",
-      "url": "https://n.news.naver.com/mnews/article/016/0002716279"
+      "title": "창립 57주년 삼성전자 “호황 지속 장담 못해, 기술 경쟁력 확보할 때”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001881933"
     },
     {
-      "title": "코인거래소 프라뱅, 해킹으로 1억원 털렸다…금융권 첫 금전 피해",
-      "url": "https://n.news.naver.com/mnews/article/023/0004006615"
+      "title": "현대차그룹, 새만금 AI 데이터센터 법인 출범…현장 사무소 열고 ‘9조 투자’ 첫 삽 준비",
+      "url": "https://n.news.naver.com/mnews/article/016/0002716575"
     },
     {
-      "title": "부산 센텀시티점 매각하는 롯데百…\"포트폴리오 재편으로 역량 집중\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009258289"
+      "title": "홍지선 \"서울 정비사업, 연말까지 3.1만 가구 착공 지원\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002426066"
     },
     {
-      "title": "퇴직금 떼일 걱정 없도록…퇴직연금 대수술",
-      "url": "https://n.news.naver.com/mnews/article/028/0002829912"
+      "title": "“과다 절단에 엉터리 구조검토까지” 울산화력 붕괴사고 조사결과",
+      "url": "https://n.news.naver.com/mnews/article/016/0002716570"
     },
     {
-      "title": "서울 코앞 그린벨트 풀어 7.6만 가구 공급…용산·내곡은 빠졌다",
-      "url": "https://n.news.naver.com/mnews/article/469/0000962419"
+      "title": "스타벅스, ‘탱크데이’ 논란 속 광주 대형 매장 폐점…“임대차 계약 종료”",
+      "url": "https://n.news.naver.com/mnews/article/666/0000129880"
     },
     {
-      "title": "2.7조 깜짝 실적 냈는데.. 현대차 목표가 55만→45만원으로 깎인 이유",
-      "url": "https://n.news.naver.com/mnews/article/014/0005596867"
+      "title": "'빛의 정원부터 뉴욕 거리까지'…백화점업계, 연말 볼거리 경쟁 시동",
+      "url": "https://n.news.naver.com/mnews/article/018/0006400125"
     },
     {
-      "title": "유진證, 삼성SDI 목표주가 50만→70만",
-      "url": "https://n.news.naver.com/mnews/article/014/0005596870"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002425799"
     },
     {
-      "title": "주주환원 110조에도…주가 4% 떨어진 이유",
-      "url": "https://n.news.naver.com/mnews/article/015/0005348228"
+      "title": "롯데, 롯데렌탈 1.3조 매각 완료…“재무건전성 강화”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002716775"
     },
     {
-      "title": "삼성전자, 영업익 107조 ‘사상 최대’…3분기 배당 30조원",
-      "url": "https://n.news.naver.com/mnews/article/024/0000109241"
+      "title": "인텔, 4분기 실적 가이던스 '실망'…시간외 주가 15% 급락",
+      "url": "https://n.news.naver.com/mnews/article/008/0005434026"
     },
     {
-      "title": "'주택공급 선행지표' 서울 1∼9월 인허가 33.3% 증가",
-      "url": "https://n.news.naver.com/mnews/article/001/0016410661"
+      "title": "LS전선, 구미에 ‘국내 최대’ 희토류 영구자석 생산거점 구축",
+      "url": "https://n.news.naver.com/mnews/article/009/0005756537"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5722.22,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 731.54,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26184.72,
-      "change": -365.12,
-      "change_pct": -1.38
+      "value": 25437.0,
+      "change": -747.72,
+      "change_pct": -2.86
     },
     "usdkrw": {
-      "value": 1338.35,
-      "change": -1.99,
-      "change_pct": -0.15
+      "value": 1337.98,
+      "change": -2.36,
+      "change_pct": -0.18
     }
   },
   "gold": {
-    "price_usd": 4023.6,
-    "price_krw": 5384985,
-    "change": -28.0,
-    "change_pct": -0.69
+    "price_usd": 3884.9,
+    "price_krw": 5197918,
+    "change": -146.5,
+    "change_pct": -3.63
   },
-  "updated": "2026-10-30 09:28",
+  "updated": "2026-10-31 09:10",
   "error": null
 }
