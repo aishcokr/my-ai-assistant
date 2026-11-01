@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "최태원 회장, 방한한 샘 올트먼 오픈AI CEO와 오찬 회동",
-      "url": "https://n.news.naver.com/mnews/article/079/0004205080"
+      "title": "이달 분양시장 큰 장…디에이치반포124 등 4만4천여가구 분양",
+      "url": "https://n.news.naver.com/mnews/article/001/0016414735"
     },
     {
-      "title": "“141만원이 400만원 된다고?”…SK하이닉스에 쏟아진 파격 전망[종목e슈]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006400561"
+      "title": "예정처 \"미래대응기금 핵심 재원인 추가세수, 2029년엔 끊길 것\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009263509"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002426311"
+      "title": "김정관, 체코 원전 시공협상 결렬에 \"서운하고 야속해…비상관리체제 가동\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005836321"
     },
     {
-      "title": "\"메모리 다운턴은 옛말?\"…삼전·닉스, '장기계약'으로 업계 공식 바꾸나",
-      "url": "https://n.news.naver.com/mnews/article/003/0014291823"
+      "title": "한국 '세계 4강' 오른다…'수출 1조달러' 대기록 눈앞",
+      "url": "https://n.news.naver.com/mnews/article/015/0005348928"
     },
     {
-      "title": "은행 부실채권 1년만에 1.3조 늘었다…8년6개월만에 최대",
-      "url": "https://n.news.naver.com/mnews/article/001/0016413531"
+      "title": "현대건설, 용산 한강로구역 재개발 수주…도시정비 누적 13조원 돌파",
+      "url": "https://n.news.naver.com/mnews/article/016/0002717303"
     },
     {
-      "title": "LG전자, 휴머노이드 직접 만든다…부품 내재화로 경쟁력↑",
-      "url": "https://n.news.naver.com/mnews/article/092/0002443275"
+      "title": "상장사 자사주 취득, 지난해보다 5배 넘게 증가",
+      "url": "https://n.news.naver.com/mnews/article/052/0002426767"
     },
     {
-      "title": "MBK, 홈플러스 이어 골프존카운티 매각 놓고도 갈등…골프존홀딩스, MBK 매각에 법적 대응",
-      "url": "https://n.news.naver.com/mnews/article/021/0002829288"
+      "title": "\"영세 사업장 퇴직연금 의무화, 현실 외면\" 반발",
+      "url": "https://n.news.naver.com/mnews/article/003/0014293126"
     },
     {
-      "title": "애플, 엔비디아 제치고 시총 1위 탈환",
-      "url": "https://n.news.naver.com/mnews/article/366/0001201682"
+      "title": "명성A&T, 데이터링커 지분 100% 인수 계약 체결…2027년 자회사 편입 예정",
+      "url": "https://n.news.naver.com/mnews/article/032/0003480017"
     },
     {
-      "title": "BYD 국내 판매 2만 대 돌파…현대차·기아 中 점유율은 0.6%",
-      "url": "https://n.news.naver.com/mnews/article/448/0000648104"
+      "title": "노원구 월세, 올해 12.8% 올라…서울 곳곳 '트리플 상승'",
+      "url": "https://n.news.naver.com/mnews/article/448/0000648289"
     },
     {
-      "title": "'애 넷 아빠' 김동현, 100억 아파트 샀다...\"집주인이 50억 대출\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005434616"
+      "title": "이마트·롯데쇼핑·현대제철·한화생명 ‘저PBR’ 낙인… ‘장기 저평가’ 기업 151곳 첫 공개",
+      "url": "https://n.news.naver.com/mnews/article/029/0003056364"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -2.86
     },
     "usdkrw": {
-      "value": 1335.1,
-      "change": -2.88,
-      "change_pct": -0.22
+      "value": 1332.78,
+      "change": -5.2,
+      "change_pct": -0.39
     }
   },
   "gold": {
-    "price_usd": 3898.9,
-    "price_krw": 5205421,
-    "change": -132.5,
-    "change_pct": -3.29
+    "price_usd": 3907.9,
+    "price_krw": 5208370,
+    "change": 9.0,
+    "change_pct": 0.23
   },
-  "updated": "2026-11-01 08:48",
+  "updated": "2026-11-02 08:58",
   "error": null
 }
