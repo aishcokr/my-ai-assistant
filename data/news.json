@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "이달 분양시장 큰 장…디에이치반포124 등 4만4천여가구 분양",
-      "url": "https://n.news.naver.com/mnews/article/001/0016414735"
+      "title": "해수부, 개도국과 해양수산 ODA 새 방향 모색… 4일 부산서 국제협력 콘퍼런스",
+      "url": "https://n.news.naver.com/mnews/article/014/0005598541"
     },
     {
-      "title": "예정처 \"미래대응기금 핵심 재원인 추가세수, 2029년엔 끊길 것\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009263509"
+      "title": "배추값 37%·무 31% 하락…정부, 640억 풀어 ‘김장 한 포기 더’",
+      "url": "https://n.news.naver.com/mnews/article/016/0002717889"
     },
     {
-      "title": "김정관, 체코 원전 시공협상 결렬에 \"서운하고 야속해…비상관리체제 가동\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005836321"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002427625"
     },
     {
-      "title": "한국 '세계 4강' 오른다…'수출 1조달러' 대기록 눈앞",
-      "url": "https://n.news.naver.com/mnews/article/015/0005348928"
+      "title": "효성굿스프링스, 고효율 펌프 앞세워 데이터센터 시장 공략",
+      "url": "https://n.news.naver.com/mnews/article/009/0005757993"
     },
     {
-      "title": "현대건설, 용산 한강로구역 재개발 수주…도시정비 누적 13조원 돌파",
-      "url": "https://n.news.naver.com/mnews/article/016/0002717303"
+      "title": "대우건설, 정비사업 수주 5조원 돌파…역대 최대 실적 '눈앞'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005349565"
     },
     {
-      "title": "상장사 자사주 취득, 지난해보다 5배 넘게 증가",
-      "url": "https://n.news.naver.com/mnews/article/052/0002426767"
+      "title": "호반, 한진칼 최대 주주로… 경영권 분쟁 재부상",
+      "url": "https://n.news.naver.com/mnews/article/029/0003056702"
     },
     {
-      "title": "\"영세 사업장 퇴직연금 의무화, 현실 외면\" 반발",
-      "url": "https://n.news.naver.com/mnews/article/003/0014293126"
+      "title": "중국산 전기차에 안방 내줄라…정부, 세액공제 카드 다시 꺼냈다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003562249"
     },
     {
-      "title": "명성A&T, 데이터링커 지분 100% 인수 계약 체결…2027년 자회사 편입 예정",
-      "url": "https://n.news.naver.com/mnews/article/032/0003480017"
+      "title": "에이피알, 뉴욕·런던 등 4개 도시 팝업에 1만5000명 방문",
+      "url": "https://n.news.naver.com/mnews/article/277/0005837188"
     },
     {
-      "title": "노원구 월세, 올해 12.8% 올라…서울 곳곳 '트리플 상승'",
-      "url": "https://n.news.naver.com/mnews/article/448/0000648289"
+      "title": "GC녹십자웰빙, 의료기기 GMP 공장 착공…필러·스킨부스터 자체 생산",
+      "url": "https://n.news.naver.com/mnews/article/008/0005435718"
     },
     {
-      "title": "이마트·롯데쇼핑·현대제철·한화생명 ‘저PBR’ 낙인… ‘장기 저평가’ 기업 151곳 첫 공개",
-      "url": "https://n.news.naver.com/mnews/article/029/0003056364"
+      "title": "미래에셋증권, ‘퇴직연금스쿨’ 개최",
+      "url": "https://n.news.naver.com/mnews/article/011/0004677804"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5730.74,
-      "change": -206.92,
-      "change_pct": -3.48
+      "value": 5712.83,
+      "change": -146.25,
+      "change_pct": -2.5
     },
     "kosdaq": {
-      "value": 724.38,
-      "change": -28.85,
-      "change_pct": -3.83
+      "value": 716.99,
+      "change": -17.37,
+      "change_pct": -2.37
     },
     "nasdaq": {
-      "value": 25437.0,
-      "change": -747.72,
-      "change_pct": -2.86
+      "value": 25164.36,
+      "change": -272.64,
+      "change_pct": -1.07
     },
     "usdkrw": {
-      "value": 1332.78,
-      "change": -5.2,
-      "change_pct": -0.39
+      "value": 1340.78,
+      "change": 15.26,
+      "change_pct": 1.15
     }
   },
   "gold": {
-    "price_usd": 3907.9,
-    "price_krw": 5208370,
-    "change": 9.0,
-    "change_pct": 0.23
+    "price_usd": 3953.0,
+    "price_krw": 5300103,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-11-02 08:58",
+  "updated": "2026-11-03 11:41",
   "error": null
 }
