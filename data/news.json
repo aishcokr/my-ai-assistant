@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "GS리테일 3분기 영업이익 1321억원…분기 역대 최대",
-      "url": "https://n.news.naver.com/mnews/article/009/0005758700"
+      "title": "다문화 부부 36%, 남편이 10살 넘게 많아",
+      "url": "https://n.news.naver.com/mnews/article/005/0001883219"
     },
     {
-      "title": "비트코인, 1억800만원선 회복…美 중간선거 결과에 '들썩'",
-      "url": "https://n.news.naver.com/mnews/article/003/0014302579"
+      "title": "시정명령 받고도 철도준사고 보고 누락…서울교통공사 과징금 2.4억",
+      "url": "https://n.news.naver.com/mnews/article/008/0005437439"
     },
     {
-      "title": "현대家 3세 정대선, 상조사업 뛰어든다…\"후불·기업상조 중심\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016422526"
+      "title": "‘선거 안도 랠리’ 하루 만에 끝났다…AI 투자 급브레이크 공포에 나스닥 5.5% 폭락",
+      "url": "https://n.news.naver.com/mnews/article/023/0004008128"
     },
     {
-      "title": "집값 25% 내고 입주… 공공분양 첫 공급",
-      "url": "https://n.news.naver.com/mnews/article/014/0005599491"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012288093"
     },
     {
-      "title": "다우·CJ컨소시엄, 중앙일보 5200억에 인수한다",
-      "url": "https://n.news.naver.com/mnews/article/469/0000963671"
+      "title": "SK바이오팜, 3분기 영업익 1163억 전년비 66%↑",
+      "url": "https://n.news.naver.com/mnews/article/119/0003151587"
     },
     {
-      "title": "대한한공, 美 USA투데이 ‘10베스트 어워즈’서 3관왕",
-      "url": "https://n.news.naver.com/mnews/article/011/0004678945"
+      "title": "AI 규제 공포에 나스닥 5.5% 급락‥시총 3천4백조 원 증발",
+      "url": "https://n.news.naver.com/mnews/article/214/0001533875"
     },
     {
-      "title": "한화에어로스페이스 순천사업장 준공···내년 누리호 6호기부터 단 조립",
-      "url": "https://n.news.naver.com/mnews/article/081/0003695883"
+      "title": "에코프로, 3분기 영업익 112억원…북미 신규 고객 확보로 돌파구 모색",
+      "url": "https://n.news.naver.com/mnews/article/002/0002464452"
     },
     {
-      "title": "‘홍콩ELS’ 과징금 3700억대… 당초 4조의 10%로 확 줄었다",
-      "url": "https://n.news.naver.com/mnews/article/081/0003695952"
+      "title": "백화점이 끌고, 마트가 밀고…롯데쇼핑, 3분기 영업이익 34.5%↑",
+      "url": "https://n.news.naver.com/mnews/article/015/0005351039"
     },
     {
-      "title": "휴젤, 3분기 누적 매출 3521억원⋯전년 대비 15% 성장",
-      "url": "https://n.news.naver.com/mnews/article/031/0001072167"
+      "title": "9월 경상흑자 614억달러 최대치에도… ‘반도체 겨울’ 우려, 수출 비상등",
+      "url": "https://n.news.naver.com/mnews/article/021/0002830545"
     },
     {
-      "title": "호반, 한진칼 최대주주 등극…0.1%p 차 역전",
-      "url": "https://n.news.naver.com/mnews/article/215/0001271677"
+      "title": "서울 아파트값 상승폭 둔화…경기 ‘갈아타기’ 매수세",
+      "url": "https://n.news.naver.com/mnews/article/032/0003480985"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5496.43,
+      "value": 4961.92,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 696.69,
+      "value": 633.16,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25736.51,
-      "change": 364.5,
-      "change_pct": 1.44
+      "value": 24315.0,
+      "change": -1421.51,
+      "change_pct": -5.52
     },
     "usdkrw": {
-      "value": 1337.98,
-      "change": -4.92,
-      "change_pct": -0.37
+      "value": 1356.28,
+      "change": 16.21,
+      "change_pct": 1.21
     }
   },
   "gold": {
-    "price_usd": 4099.9,
-    "price_krw": 5485584,
-    "change": 159.5,
-    "change_pct": 4.05
+    "price_usd": 4097.7,
+    "price_krw": 5557628,
+    "change": 24.7,
+    "change_pct": 0.61
   },
-  "updated": "2026-11-05 10:06",
+  "updated": "2026-11-06 10:10",
   "error": null
 }
