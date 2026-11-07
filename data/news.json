@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "다문화 부부 36%, 남편이 10살 넘게 많아",
-      "url": "https://n.news.naver.com/mnews/article/005/0001883219"
+      "title": "롯데케미칼, 역래깅에 2814억 적자…대산·여수 사업재편 승부수(종합)",
+      "url": "https://n.news.naver.com/mnews/article/018/0006405335"
     },
     {
-      "title": "시정명령 받고도 철도준사고 보고 누락…서울교통공사 과징금 2.4억",
-      "url": "https://n.news.naver.com/mnews/article/008/0005437439"
+      "title": "그리스, 가상화폐 투자 수익에 10% 과세",
+      "url": "https://n.news.naver.com/mnews/article/374/0000542261"
     },
     {
-      "title": "‘선거 안도 랠리’ 하루 만에 끝났다…AI 투자 급브레이크 공포에 나스닥 5.5% 폭락",
-      "url": "https://n.news.naver.com/mnews/article/023/0004008128"
+      "title": "은마 재초환 부담금 예정액 1인당 4.6억…재건축 비상등",
+      "url": "https://n.news.naver.com/mnews/article/011/0004679574"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012288093"
+      "title": "中 양쯔메모리 IPO 잠정 보류…전세계 AI 된서리 여파",
+      "url": "https://n.news.naver.com/mnews/article/277/0005839029"
     },
     {
-      "title": "SK바이오팜, 3분기 영업익 1163억 전년비 66%↑",
-      "url": "https://n.news.naver.com/mnews/article/119/0003151587"
+      "title": "美 반도체주 폭락에 환율 14.5원 급등…6개월 만에 최대폭",
+      "url": "https://n.news.naver.com/mnews/article/018/0006405274"
     },
     {
-      "title": "AI 규제 공포에 나스닥 5.5% 급락‥시총 3천4백조 원 증발",
-      "url": "https://n.news.naver.com/mnews/article/214/0001533875"
+      "title": "'블루웨이브 쇼크' 코스피 6%↓…장중 내줬던 5천피 간신히 사수(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016426811"
     },
     {
-      "title": "에코프로, 3분기 영업익 112억원…북미 신규 고객 확보로 돌파구 모색",
-      "url": "https://n.news.naver.com/mnews/article/002/0002464452"
+      "title": "\"정체기 벗어나 실수요로\"…'차액보전' 등 과감한 정책 지원 절실[K수소, 녹색성장의 판을 바꾸다]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014307554"
     },
     {
-      "title": "백화점이 끌고, 마트가 밀고…롯데쇼핑, 3분기 영업이익 34.5%↑",
-      "url": "https://n.news.naver.com/mnews/article/015/0005351039"
+      "title": "공정위, 독과점 업체의 가격 변경뿐 아니라 결정·유지도 제재하기로",
+      "url": "https://n.news.naver.com/mnews/article/366/0001203001"
     },
     {
-      "title": "9월 경상흑자 614억달러 최대치에도… ‘반도체 겨울’ 우려, 수출 비상등",
-      "url": "https://n.news.naver.com/mnews/article/021/0002830545"
+      "title": "LIG D&A, 3분기 영업익 전년比 24.6%↓…연구개발 비중 확대에 수익성 악화",
+      "url": "https://n.news.naver.com/mnews/article/138/0002247605"
     },
     {
-      "title": "서울 아파트값 상승폭 둔화…경기 ‘갈아타기’ 매수세",
-      "url": "https://n.news.naver.com/mnews/article/032/0003480985"
+      "title": "\"개막하자마자 주문 6000건 폭주\"…구미 라면축제 인산인해",
+      "url": "https://n.news.naver.com/mnews/article/421/0009274496"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4961.92,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 633.16,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 24315.0,
-      "change": -1421.51,
-      "change_pct": -5.52
+      "value": 24579.42,
+      "change": 264.42,
+      "change_pct": 1.09
     },
     "usdkrw": {
-      "value": 1356.28,
-      "change": 16.21,
+      "value": 1356.34,
+      "change": 16.27,
       "change_pct": 1.21
     }
   },
   "gold": {
-    "price_usd": 4097.7,
-    "price_krw": 5557628,
-    "change": 24.7,
-    "change_pct": 0.61
+    "price_usd": 4079.5,
+    "price_krw": 5533189,
+    "change": -34.0,
+    "change_pct": -0.83
   },
-  "updated": "2026-11-06 10:10",
+  "updated": "2026-11-07 09:26",
   "error": null
 }
