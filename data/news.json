@@ -1,60 +1,60 @@
 {
   "news": [
     {
-      "title": "롯데케미칼, 역래깅에 2814억 적자…대산·여수 사업재편 승부수(종합)",
-      "url": "https://n.news.naver.com/mnews/article/018/0006405335"
+      "title": "은행·보험사 이어 미래에셋증권까지···연쇄 해킹에 시달리는 금융사",
+      "url": "https://n.news.naver.com/mnews/article/009/0005760325"
     },
     {
-      "title": "그리스, 가상화폐 투자 수익에 10% 과세",
-      "url": "https://n.news.naver.com/mnews/article/374/0000542261"
+      "title": "밀·옥수수값 내리자 세계식량가격도 하락",
+      "url": "https://n.news.naver.com/mnews/article/018/0006405602"
     },
     {
-      "title": "은마 재초환 부담금 예정액 1인당 4.6억…재건축 비상등",
-      "url": "https://n.news.naver.com/mnews/article/011/0004679574"
+      "title": "NH투자증권, 9일부터 반대매매 완화…내일부터 고객 동의 절차(종합)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005839417"
     },
     {
-      "title": "中 양쯔메모리 IPO 잠정 보류…전세계 AI 된서리 여파",
-      "url": "https://n.news.naver.com/mnews/article/277/0005839029"
+      "title": "美 정치 지형 바뀌어도 AI는 간다…반도체 투자 대세론 굳건[이상현의 전자수첩]",
+      "url": "https://n.news.naver.com/mnews/article/029/0003057592"
     },
     {
-      "title": "美 반도체주 폭락에 환율 14.5원 급등…6개월 만에 최대폭",
-      "url": "https://n.news.naver.com/mnews/article/018/0006405274"
+      "title": "‘美 블루쓰나미’로 하루 만에 4774조원 증발…세계 증시 강타",
+      "url": "https://n.news.naver.com/mnews/article/449/0000366723"
     },
     {
-      "title": "'블루웨이브 쇼크' 코스피 6%↓…장중 내줬던 5천피 간신히 사수(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016426811"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/448/0000649639"
     },
     {
-      "title": "\"정체기 벗어나 실수요로\"…'차액보전' 등 과감한 정책 지원 절실[K수소, 녹색성장의 판을 바꾸다]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014307554"
+      "title": "국장 대신 美주식 3조 쓸어담았다…서학개미 70%가 몰려간 곳",
+      "url": "https://n.news.naver.com/mnews/article/025/0003563491"
     },
     {
-      "title": "공정위, 독과점 업체의 가격 변경뿐 아니라 결정·유지도 제재하기로",
-      "url": "https://n.news.naver.com/mnews/article/366/0001203001"
+      "title": "“노후준비 미리 한 게 죄인가요?”…연금 생활자들 ‘발칵’ 무슨 일",
+      "url": "https://n.news.naver.com/mnews/article/009/0005760365"
     },
     {
-      "title": "LIG D&A, 3분기 영업익 전년比 24.6%↓…연구개발 비중 확대에 수익성 악화",
-      "url": "https://n.news.naver.com/mnews/article/138/0002247605"
+      "title": "포스코 노조, 잠정합의안 부결…임금협상 원점",
+      "url": "https://n.news.naver.com/mnews/article/469/0000964227"
     },
     {
-      "title": "\"개막하자마자 주문 6000건 폭주\"…구미 라면축제 인산인해",
-      "url": "https://n.news.naver.com/mnews/article/421/0009274496"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002429751"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5059.69,
+      "change": -324.11,
+      "change_pct": -6.02
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 644.27,
+      "change": -34.14,
+      "change_pct": -5.03
     },
     "nasdaq": {
-      "value": 24579.42,
-      "change": 264.42,
+      "value": 24579.43,
+      "change": 264.43,
       "change_pct": 1.09
     },
     "usdkrw": {
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4079.5,
-    "price_krw": 5533189,
-    "change": -34.0,
-    "change_pct": -0.83
+    "price_usd": 4074.9,
+    "price_krw": 5526949,
+    "change": -38.6,
+    "change_pct": -0.94
   },
-  "updated": "2026-11-07 09:26",
+  "updated": "2026-11-08 09:01",
   "error": null
 }
