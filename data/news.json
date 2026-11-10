@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "퇴직연금 개미도 등돌렸다…반도체 투심 ‘실종’",
-      "url": "https://n.news.naver.com/mnews/article/011/0004679929"
+      "title": "한국투자증권, 모간스탠리운용 투자전략·리서치 독점 제공",
+      "url": "https://n.news.naver.com/mnews/article/277/0005840329"
     },
     {
-      "title": "\"1분에 라면 600개가 뚝딱\"…세계로 뻗는 신라면의 '심장부'를 가다[현장]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003152556"
+      "title": "HD건설기계, 북미서 엔진 수주 랠리...1600억 공급계약",
+      "url": "https://n.news.naver.com/mnews/article/014/0005601974"
     },
     {
-      "title": "당일 튀긴 신라면 짊어진 '라면 거북이'…구미라면축제 '펄펄'[르포]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016428711"
+      "title": "삼성운용 ‘KODEX 200타겟위클리’ 개인 순매수 3조 돌파…커버드콜 1위",
+      "url": "https://n.news.naver.com/mnews/article/029/0003058127"
     },
     {
-      "title": "돌아온 ‘캪틴큐’·간편 소맥캔… “연말, 우릴 따르라!”",
-      "url": "https://n.news.naver.com/mnews/article/022/0004173514"
+      "title": "신도시 교통망 확충 속도…李정부, 도로사업 16곳 집중 점검",
+      "url": "https://n.news.naver.com/mnews/article/629/0000550339"
     },
     {
-      "title": "대책 발표 당일도 해킹당한 금융사…전문가들 \"대책 이행할 유인책을\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005438096"
+      "title": "서초구, 재초환 폐지 탄원서 제출…부과기한 해석 촉구",
+      "url": "https://n.news.naver.com/mnews/article/018/0006406983"
     },
     {
-      "title": "한국타이어, 3분기 영업이익 5988억…타이어 매출 역대 최대",
-      "url": "https://n.news.naver.com/mnews/article/656/0000191783"
+      "title": "멈췄던 가덕도신공항 재시동…‘2035년 개항’ 목표 실시설계 착수",
+      "url": "https://n.news.naver.com/mnews/article/011/0004680200"
     },
     {
-      "title": "‘파운드리 1위’ TSMC, 메모리도 손 뻗나…“3D D램 생산 검토”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003760832"
+      "title": "삼성화재, 英캐노피우스 지분 80%까지 확대…경영권 확보",
+      "url": "https://n.news.naver.com/mnews/article/374/0000542627"
     },
     {
-      "title": "'잃어버린 10년' 끝났다… 야구 V9 기폭제로 일제히 깨어난 '초일류' 삼성 스포츠단",
-      "url": "https://n.news.naver.com/mnews/article/014/0005601090"
+      "title": "알테오젠, 바이오 유럽 참가…망막질환 신약 기술수출 모색",
+      "url": "https://n.news.naver.com/mnews/article/421/0009278231"
     },
     {
-      "title": "코스피 5천선 아슬아슬⋯상장사 3곳 중 1곳 '올해 최저가'",
-      "url": "https://n.news.naver.com/mnews/article/031/0001073184"
+      "title": "CJ대한통운, 3분기 영업이익 1,105억 원…25.3% 감소",
+      "url": "https://n.news.naver.com/mnews/article/422/0000924529"
     },
     {
-      "title": "\"이익 N% 달라\"…노사분규 줄었는데 근로손실은 45% 증가",
-      "url": "https://n.news.naver.com/mnews/article/008/0005438094"
+      "title": "소상공인 매출 줄고 빚·연체 늘고…연체액 16조원 돌파",
+      "url": "https://n.news.naver.com/mnews/article/374/0000542628"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5059.69,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 5233.74,
+      "change": 214.89,
+      "change_pct": 4.28
     },
     "kosdaq": {
-      "value": 644.27,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 664.2,
+      "change": 25.23,
+      "change_pct": 3.95
     },
     "nasdaq": {
-      "value": 24579.43,
-      "change": 264.43,
-      "change_pct": 1.09
+      "value": 25253.14,
+      "change": 673.71,
+      "change_pct": 2.74
     },
     "usdkrw": {
-      "value": 1360.48,
-      "change": 4.14,
-      "change_pct": 0.31
+      "value": 1346.64,
+      "change": -16.06,
+      "change_pct": -1.18
     }
   },
   "gold": {
-    "price_usd": 4063.9,
-    "price_krw": 5528854,
-    "change": -11.0,
-    "change_pct": -0.27
+    "price_usd": 4120.1,
+    "price_krw": 5548291,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-11-09 09:09",
+  "updated": "2026-11-10 12:00",
   "error": null
 }
