@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "정부, 거주-비거주 차등원칙 견지…이형일 \"실거주 우대해야\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000924783"
+      "title": "금융복합기업집단 자본비율 186%로 상승…7곳 모두 규제선 웃돌아",
+      "url": "https://n.news.naver.com/mnews/article/014/0005603037"
     },
     {
-      "title": "광양만 800m 바닷길 끝에, 포스코 초대형 LNG 부두",
-      "url": "https://n.news.naver.com/mnews/article/009/0005761794"
+      "title": "금융회사 '참호 구축' 차단…CEO 임추위 전원 독립이사로 구성",
+      "url": "https://n.news.naver.com/mnews/article/422/0000925330"
     },
     {
-      "title": "동원산업, 3분기 영업익 1.1% 증가…식자재·물류 성장",
-      "url": "https://n.news.naver.com/mnews/article/018/0006407464"
+      "title": "셀트리온 \"시밀러 '비세큐마', 호주 품목허가 신청\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014317310"
     },
     {
-      "title": "美 반도체주 순풍에 삼전·하닉 강세…코스피 4%대 급등하며 5200선 회복[마켓시그널]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004680674"
+      "title": "'국고채 담합' 증권사·은행 15곳…공정위, 과징금 1조6266억",
+      "url": "https://n.news.naver.com/mnews/article/629/0000550796"
     },
     {
-      "title": "금융권 보안 지키는 금융보안원도 해킹…평가자료 유출",
-      "url": "https://n.news.naver.com/mnews/article/123/0002393764"
+      "title": "LH, 광명시흥·용인 반도체 산단에 2조 추가 투입…보상·착공 속도",
+      "url": "https://n.news.naver.com/mnews/article/029/0003058713"
     },
     {
-      "title": "백화점은 모두 웃었지만…3사 3분기 성적표 속 엇갈린 희비",
-      "url": "https://n.news.naver.com/mnews/article/138/0002247963"
+      "title": "2028년 선출 회장은 한차례 연임 허용…법사위서 제동 관측도[법사위 넘어간 농협법]",
+      "url": "https://n.news.naver.com/mnews/article/662/0000108256"
     },
     {
-      "title": "3주택자, 아들 둘 위장전입시켜 청약 당첨…부정청약 354건 적발",
-      "url": "https://n.news.naver.com/mnews/article/421/0009280389"
+      "title": "이마트, 본업 살아났지만 계열사 손실에 어닝쇼크…목표가 ↓-하나",
+      "url": "https://n.news.naver.com/mnews/article/018/0006408584"
     },
     {
-      "title": "글로벌 금융 ‘룰 세터’ 오른 신현송…美·유럽 독점 깼다 [Pick코노미]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004680837"
+      "title": "9월까지 국세 385조원 걷혀…이미 지난해 1년치 넘었다",
+      "url": "https://n.news.naver.com/mnews/article/088/0001039868"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002431176"
+      "title": "IPARK현대산업개발, ESG평가에서 3년 연속 통합 A등급",
+      "url": "https://n.news.naver.com/mnews/article/016/0002722085"
     },
     {
-      "title": "기아, 獨 최고 권위 자동차상 3관왕…비유럽 브랜드 최초",
-      "url": "https://n.news.naver.com/mnews/article/014/0005602451"
+      "title": "대웅제약, '크론병' 등 IBD 치료제 임상 1상 진입 허가",
+      "url": "https://n.news.naver.com/mnews/article/119/0003154228"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5214.46,
+      "value": 5388.13,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 687.24,
+      "value": 702.19,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25065.88,
-      "change": -187.27,
-      "change_pct": -0.74
+      "value": 25466.19,
+      "change": 400.32,
+      "change_pct": 1.6
     },
     "usdkrw": {
-      "value": 1337.71,
-      "change": -6.13,
-      "change_pct": -0.46
+      "value": 1334.48,
+      "change": -7.43,
+      "change_pct": -0.55
     }
   },
   "gold": {
-    "price_usd": 4044.9,
-    "price_krw": 5410903,
-    "change": -69.6,
-    "change_pct": -1.69
+    "price_usd": 3987.4,
+    "price_krw": 5321105,
+    "change": -42.8,
+    "change_pct": -1.06
   },
-  "updated": "2026-11-11 09:55",
+  "updated": "2026-11-12 11:01",
   "error": null
 }
