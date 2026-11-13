@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "금융복합기업집단 자본비율 186%로 상승…7곳 모두 규제선 웃돌아",
-      "url": "https://n.news.naver.com/mnews/article/014/0005603037"
+      "title": "삼성 임직원 11만명, 2주간 기부·봉사 등 활동",
+      "url": "https://n.news.naver.com/mnews/article/015/0005353341"
     },
     {
-      "title": "금융회사 '참호 구축' 차단…CEO 임추위 전원 독립이사로 구성",
-      "url": "https://n.news.naver.com/mnews/article/422/0000925330"
+      "title": "삼성·한화 보험 4사, 3분기 실적 희비… 누적 순익은 모두 증가",
+      "url": "https://n.news.naver.com/mnews/article/081/0003698831"
     },
     {
-      "title": "셀트리온 \"시밀러 '비세큐마', 호주 품목허가 신청\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014317310"
+      "title": "홍지선 국토 장관 \"매물 쌓이고 거래 감소…집값 하락 시그널\"",
+      "url": "https://n.news.naver.com/mnews/article/002/0002465667"
     },
     {
-      "title": "'국고채 담합' 증권사·은행 15곳…공정위, 과징금 1조6266억",
-      "url": "https://n.news.naver.com/mnews/article/629/0000550796"
+      "title": "HLB제약, 3분기 누적 매출 34% 증가…영업익 18.5억",
+      "url": "https://n.news.naver.com/mnews/article/421/0009287335"
     },
     {
-      "title": "LH, 광명시흥·용인 반도체 산단에 2조 추가 투입…보상·착공 속도",
-      "url": "https://n.news.naver.com/mnews/article/029/0003058713"
+      "title": "\"안경 벗었는데…건희 회장님?\" 이재용 모습에 누리꾼 '깜짝'",
+      "url": "https://n.news.naver.com/mnews/article/088/0001040060"
     },
     {
-      "title": "2028년 선출 회장은 한차례 연임 허용…법사위서 제동 관측도[법사위 넘어간 농협법]",
-      "url": "https://n.news.naver.com/mnews/article/662/0000108256"
+      "title": "HMM, 내년부터 3년 간 대규모 컨테이너선 인도",
+      "url": "https://n.news.naver.com/mnews/article/014/0005603752"
     },
     {
-      "title": "이마트, 본업 살아났지만 계열사 손실에 어닝쇼크…목표가 ↓-하나",
-      "url": "https://n.news.naver.com/mnews/article/018/0006408584"
+      "title": "정부 “우리 경제 견조한 성장세”…경기 진단 상향",
+      "url": "https://n.news.naver.com/mnews/article/056/0012293185"
     },
     {
-      "title": "9월까지 국세 385조원 걷혀…이미 지난해 1년치 넘었다",
-      "url": "https://n.news.naver.com/mnews/article/088/0001039868"
+      "title": "진에어·에어서울·에어부산 합병 인가…내년 3월17일 통합 LCC 출범",
+      "url": "https://n.news.naver.com/mnews/article/003/0014318742"
     },
     {
-      "title": "IPARK현대산업개발, ESG평가에서 3년 연속 통합 A등급",
-      "url": "https://n.news.naver.com/mnews/article/016/0002722085"
+      "title": "미래에셋증권 누적 순익 2조5016억원… 주주가치 제고 박차",
+      "url": "https://n.news.naver.com/mnews/article/014/0005603671"
     },
     {
-      "title": "대웅제약, '크론병' 등 IBD 치료제 임상 1상 진입 허가",
-      "url": "https://n.news.naver.com/mnews/article/119/0003154228"
+      "title": "서울 아파트 토허 신청 두 달째 증가…한강벨트 가격 상승",
+      "url": "https://n.news.naver.com/mnews/article/018/0006409209"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5388.13,
+      "value": 5458.89,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 702.19,
+      "value": 723.59,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25466.19,
-      "change": 400.32,
-      "change_pct": 1.6
+      "value": 25366.09,
+      "change": -100.1,
+      "change_pct": -0.39
     },
     "usdkrw": {
-      "value": 1334.48,
-      "change": -7.43,
-      "change_pct": -0.55
+      "value": 1331.38,
+      "change": -4.88,
+      "change_pct": -0.37
     }
   },
   "gold": {
-    "price_usd": 3987.4,
-    "price_krw": 5321105,
-    "change": -42.8,
-    "change_pct": -1.06
+    "price_usd": 3909.9,
+    "price_krw": 5205562,
+    "change": -90.6,
+    "change_pct": -2.26
   },
-  "updated": "2026-11-12 11:01",
+  "updated": "2026-11-13 10:31",
   "error": null
 }
