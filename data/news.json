@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼성 임직원 11만명, 2주간 기부·봉사 등 활동",
-      "url": "https://n.news.naver.com/mnews/article/015/0005353341"
+      "title": "정진완 우리은행장 1년 연임",
+      "url": "https://n.news.naver.com/mnews/article/015/0005353671"
     },
     {
-      "title": "삼성·한화 보험 4사, 3분기 실적 희비… 누적 순익은 모두 증가",
-      "url": "https://n.news.naver.com/mnews/article/081/0003698831"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012293725"
     },
     {
-      "title": "홍지선 국토 장관 \"매물 쌓이고 거래 감소…집값 하락 시그널\"",
-      "url": "https://n.news.naver.com/mnews/article/002/0002465667"
+      "title": "젠슨 황 쇼크에 GPU·핫라인 흔들… 현대차 자율주행 전략 ‘급제동’ 걸리나",
+      "url": "https://n.news.naver.com/mnews/article/366/0001204616"
     },
     {
-      "title": "HLB제약, 3분기 누적 매출 34% 증가…영업익 18.5억",
-      "url": "https://n.news.naver.com/mnews/article/421/0009287335"
+      "title": "[속보]은행연합회 회장 후보에 김한조·박종복·손병환·윤종규·윤종원·이원덕",
+      "url": "https://n.news.naver.com/mnews/article/018/0006409285"
     },
     {
-      "title": "\"안경 벗었는데…건희 회장님?\" 이재용 모습에 누리꾼 '깜짝'",
-      "url": "https://n.news.naver.com/mnews/article/088/0001040060"
+      "title": "농식품부, 배추·무 수급 안정 추진…김치·신선농산물 수출 확대",
+      "url": "https://n.news.naver.com/mnews/article/079/0004209686"
     },
     {
-      "title": "HMM, 내년부터 3년 간 대규모 컨테이너선 인도",
-      "url": "https://n.news.naver.com/mnews/article/014/0005603752"
+      "title": "해킹 당한 금융보안원, 공격 IP 246개 차단완료…국적은 한국",
+      "url": "https://n.news.naver.com/mnews/article/001/0016441300"
     },
     {
-      "title": "정부 “우리 경제 견조한 성장세”…경기 진단 상향",
-      "url": "https://n.news.naver.com/mnews/article/056/0012293185"
+      "title": "진천 종오리 농장서 AI 항원 검출…긴급 방역",
+      "url": "https://n.news.naver.com/mnews/article/081/0003699155"
     },
     {
-      "title": "진에어·에어서울·에어부산 합병 인가…내년 3월17일 통합 LCC 출범",
-      "url": "https://n.news.naver.com/mnews/article/003/0014318742"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/449/0000367411"
     },
     {
-      "title": "미래에셋증권 누적 순익 2조5016억원… 주주가치 제고 박차",
-      "url": "https://n.news.naver.com/mnews/article/014/0005603671"
+      "title": "[속보] 중기부 “2차 ‘모두의 창업’ 참가자 지원 기업서 개인정보 유출”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003565047"
     },
     {
-      "title": "서울 아파트 토허 신청 두 달째 증가…한강벨트 가격 상승",
-      "url": "https://n.news.naver.com/mnews/article/018/0006409209"
+      "title": "최원영 한유원 신임 대표 취임…“중소기업 판로 여는 든든한 동반자 될 것”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006409601"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5458.89,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 723.59,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 25366.09,
-      "change": -100.1,
-      "change_pct": -0.39
+      "value": 25136.27,
+      "change": -229.82,
+      "change_pct": -0.91
     },
     "usdkrw": {
-      "value": 1331.38,
-      "change": -4.88,
-      "change_pct": -0.37
+      "value": 1333.78,
+      "change": -2.48,
+      "change_pct": -0.19
     }
   },
   "gold": {
-    "price_usd": 3909.9,
-    "price_krw": 5205562,
-    "change": -90.6,
-    "change_pct": -2.26
+    "price_usd": 3887.6,
+    "price_krw": 5185203,
+    "change": 2.3,
+    "change_pct": 0.06
   },
-  "updated": "2026-11-13 10:31",
+  "updated": "2026-11-14 10:05",
   "error": null
 }
