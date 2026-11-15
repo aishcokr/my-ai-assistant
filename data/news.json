@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "정진완 우리은행장 1년 연임",
-      "url": "https://n.news.naver.com/mnews/article/015/0005353671"
+      "title": "노란우산 개인정보 유출 가능성…“일부 고객 정보 제3자 조회 의심”",
+      "url": "https://n.news.naver.com/mnews/article/658/0000161221"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012293725"
+      "title": "'젠슨 황 없는 엔비디아' 긴급 대응…정부 \"엔비디아, GPU 26만 장 공급 재확인\"",
+      "url": "https://n.news.naver.com/mnews/article/660/0000121324"
     },
     {
-      "title": "젠슨 황 쇼크에 GPU·핫라인 흔들… 현대차 자율주행 전략 ‘급제동’ 걸리나",
-      "url": "https://n.news.naver.com/mnews/article/366/0001204616"
+      "title": "오징어 수출하던 나라가 반도체 중심국으로…수출 1조달러의 역사",
+      "url": "https://n.news.naver.com/mnews/article/008/0005441143"
     },
     {
-      "title": "[속보]은행연합회 회장 후보에 김한조·박종복·손병환·윤종규·윤종원·이원덕",
-      "url": "https://n.news.naver.com/mnews/article/018/0006409285"
+      "title": "내 퇴직연금만 제자리걸음인 이유…국민연금 9.75% 벌 때 나는 3%대",
+      "url": "https://n.news.naver.com/mnews/article/022/0004175151"
     },
     {
-      "title": "농식품부, 배추·무 수급 안정 추진…김치·신선농산물 수출 확대",
-      "url": "https://n.news.naver.com/mnews/article/079/0004209686"
+      "title": "11월 셋째 주 수요예측·청약 일정[이번주 IPO]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005842632"
     },
     {
-      "title": "해킹 당한 금융보안원, 공격 IP 246개 차단완료…국적은 한국",
-      "url": "https://n.news.naver.com/mnews/article/001/0016441300"
+      "title": "초기 증상 없는 폐암...3가지 경우에는 정기검진 필수[분당서울대병원이 알려주는 의료상식]",
+      "url": "https://n.news.naver.com/mnews/article/469/0000965519"
     },
     {
-      "title": "진천 종오리 농장서 AI 항원 검출…긴급 방역",
-      "url": "https://n.news.naver.com/mnews/article/081/0003699155"
+      "title": "비트코인, 석달만에 7만달러 붕괴…\"매수자가 사라졌다\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006409797"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/449/0000367411"
+      "title": "\"젠슨황 여파\"...서학개미, 급락한 엔비디아 1000억원대 '저가 매수'",
+      "url": "https://n.news.naver.com/mnews/article/014/0005604200"
     },
     {
-      "title": "[속보] 중기부 “2차 ‘모두의 창업’ 참가자 지원 기업서 개인정보 유출”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003565047"
+      "title": "구다이글로벌, 코스피 상장 예비심사 신청…내년 상반기 IPO 목표",
+      "url": "https://n.news.naver.com/mnews/article/011/0004682149"
     },
     {
-      "title": "최원영 한유원 신임 대표 취임…“중소기업 판로 여는 든든한 동반자 될 것”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006409601"
+      "title": "美연준, AI발 금융위험 경고…자산가치 고평가·부채급증 우려",
+      "url": "https://n.news.naver.com/mnews/article/001/0016442154"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5290.53,
+      "change": -52.2,
+      "change_pct": -0.98
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 699.66,
+      "change": 3.13,
+      "change_pct": 0.45
     },
     "nasdaq": {
       "value": 25136.27,
@@ -58,17 +58,17 @@
       "change_pct": -0.91
     },
     "usdkrw": {
-      "value": 1333.78,
-      "change": -2.48,
-      "change_pct": -0.19
+      "value": 1336.2,
+      "change": 2.42,
+      "change_pct": 0.18
     }
   },
   "gold": {
-    "price_usd": 3887.6,
-    "price_krw": 5185203,
-    "change": 2.3,
-    "change_pct": 0.06
+    "price_usd": 3886.3,
+    "price_krw": 5192874,
+    "change": 1.0,
+    "change_pct": 0.03
   },
-  "updated": "2026-11-14 10:05",
+  "updated": "2026-11-15 09:27",
   "error": null
 }
