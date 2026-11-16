@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "노란우산 개인정보 유출 가능성…“일부 고객 정보 제3자 조회 의심”",
-      "url": "https://n.news.naver.com/mnews/article/658/0000161221"
+      "title": "현대차, 5일간 전 사업장 안전 점검·교육 진행...\"사업부장 현장 투입\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005604572"
     },
     {
-      "title": "'젠슨 황 없는 엔비디아' 긴급 대응…정부 \"엔비디아, GPU 26만 장 공급 재확인\"",
-      "url": "https://n.news.naver.com/mnews/article/660/0000121324"
+      "title": "LG엔솔·삼성SDI, 美서 차세대 ESS 공개...AI데이터센터 시장 공략",
+      "url": "https://n.news.naver.com/mnews/article/025/0003565261"
     },
     {
-      "title": "오징어 수출하던 나라가 반도체 중심국으로…수출 1조달러의 역사",
-      "url": "https://n.news.naver.com/mnews/article/008/0005441143"
+      "title": "삼성바이오, 2.7조 유증 청약률 96.8%…한미 MASH 신약 2b상 성과 [바이오 주간 결산]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006409884"
     },
     {
-      "title": "내 퇴직연금만 제자리걸음인 이유…국민연금 9.75% 벌 때 나는 3%대",
-      "url": "https://n.news.naver.com/mnews/article/022/0004175151"
+      "title": "반도체는 호남으로, 자율차는 광주로…30일부터 도시단위 실증시험",
+      "url": "https://n.news.naver.com/mnews/article/009/0005764104"
     },
     {
-      "title": "11월 셋째 주 수요예측·청약 일정[이번주 IPO]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005842632"
+      "title": "한국 서버 30곳, 北 해킹조직 표적에…금융부터 정부까지 전방위 공격",
+      "url": "https://n.news.naver.com/mnews/article/014/0005604258"
     },
     {
-      "title": "초기 증상 없는 폐암...3가지 경우에는 정기검진 필수[분당서울대병원이 알려주는 의료상식]",
-      "url": "https://n.news.naver.com/mnews/article/469/0000965519"
+      "title": "中 견제할 '무인수상함', HD현대와 美 안두릴 힘합쳐 1년만에 건조",
+      "url": "https://n.news.naver.com/mnews/article/008/0005441203"
     },
     {
-      "title": "비트코인, 석달만에 7만달러 붕괴…\"매수자가 사라졌다\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006409797"
+      "title": "국토부, 겨울철 건설현장 2946곳 안전점검…추락 방지시설도 확인",
+      "url": "https://n.news.naver.com/mnews/article/119/0003155462"
     },
     {
-      "title": "\"젠슨황 여파\"...서학개미, 급락한 엔비디아 1000억원대 '저가 매수'",
-      "url": "https://n.news.naver.com/mnews/article/014/0005604200"
+      "title": "기술 검증부터 실패한 R&D 지원도…SK하이닉스, 소부장과 '상생'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006410260"
     },
     {
-      "title": "구다이글로벌, 코스피 상장 예비심사 신청…내년 상반기 IPO 목표",
-      "url": "https://n.news.naver.com/mnews/article/011/0004682149"
+      "title": "배추값 3분의 1 내렸다…4인 김장비 28만8500원, 2020년대 최저",
+      "url": "https://n.news.naver.com/mnews/article/003/0014323564"
     },
     {
-      "title": "美연준, AI발 금융위험 경고…자산가치 고평가·부채급증 우려",
-      "url": "https://n.news.naver.com/mnews/article/001/0016442154"
+      "title": "삼표시멘트, ESG 통합 A등급…업계 첫 4년 연속",
+      "url": "https://n.news.naver.com/mnews/article/001/0016442553"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5290.53,
-      "change": -52.2,
-      "change_pct": -0.98
+      "value": 5298.57,
+      "change": 8.04,
+      "change_pct": 0.15
     },
     "kosdaq": {
-      "value": 699.66,
-      "change": 3.13,
-      "change_pct": 0.45
+      "value": 701.55,
+      "change": 1.89,
+      "change_pct": 0.27
     },
     "nasdaq": {
       "value": 25136.27,
@@ -58,17 +58,17 @@
       "change_pct": -0.91
     },
     "usdkrw": {
-      "value": 1336.2,
-      "change": 2.42,
-      "change_pct": 0.18
+      "value": 1333.78,
+      "change": 0.0,
+      "change_pct": 0.0
     }
   },
   "gold": {
-    "price_usd": 3886.3,
-    "price_krw": 5192874,
-    "change": 1.0,
-    "change_pct": 0.03
+    "price_usd": 3894.4,
+    "price_krw": 5194272,
+    "change": 8.1,
+    "change_pct": 0.21
   },
-  "updated": "2026-11-15 09:27",
+  "updated": "2026-11-16 09:26",
   "error": null
 }
