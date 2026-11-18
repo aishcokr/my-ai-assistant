@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "현대百, 외국인 전용 VIP제도 신설…차량 의전 서비스 도입",
-      "url": "https://n.news.naver.com/mnews/article/001/0016445587"
+      "title": "현대로템, 서산서 '재사용 발사체 엔진' 개발 본격화",
+      "url": "https://n.news.naver.com/mnews/article/417/0001164716"
     },
     {
-      "title": "AI가 집 안 환경 맞추고, 공간 자유자재로… GS건설, 미래형 ‘자이’ 공개",
-      "url": "https://n.news.naver.com/mnews/article/366/0001205297"
+      "title": "9월 시중은행 연체율 10년래 '최고'",
+      "url": "https://n.news.naver.com/mnews/article/014/0005606020"
     },
     {
-      "title": "한국 포도 수출 견인한 경북…전국 수출액의 80% 차지",
-      "url": "https://n.news.naver.com/mnews/article/001/0016445520"
+      "title": "삼성SDI, AI데이터센터 겨냥 차세대 배터리 설루션 공개",
+      "url": "https://n.news.naver.com/mnews/article/001/0016447920"
     },
     {
-      "title": "49년전 지구 떠난 보이저 1호, 이틀 뒤 '1광일' 주파…빛이 만 하루 달리는 거리",
-      "url": "https://n.news.naver.com/mnews/article/003/0014325833"
+      "title": "대우건설, 이라크 알포 신항만 침매터널 완공…중동 최초",
+      "url": "https://n.news.naver.com/mnews/article/079/0004211002"
     },
     {
-      "title": "리뷰 쓰고 받는 '보상', 한 건당 얼마일까",
-      "url": "https://n.news.naver.com/mnews/article/047/0002536092"
+      "title": "코스맥스, 세계일류상품 3건 추가…화장품 업계 최다 9건",
+      "url": "https://n.news.naver.com/mnews/article/016/0002724866"
     },
     {
-      "title": "HD현대부터 K배터리까지 총출동… 북미 에너지 시장 정조준",
-      "url": "https://n.news.naver.com/mnews/article/469/0000965872"
+      "title": "한화시스템 첫 美 레이다 수출..라인업 늘려 시장 선점한다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005606051"
     },
     {
-      "title": "'삼전' 214조 '하닉' 114조…'슈퍼 호황'에 '삼전닉스' 현금 자산 320조 돌파",
-      "url": "https://n.news.naver.com/mnews/article/374/0000544095"
+      "title": "현대건설·제철, 고하중·지진 견디는 고성능 합성보 기술 확보",
+      "url": "https://n.news.naver.com/mnews/article/001/0016448280"
     },
     {
-      "title": "AI·반도체 등 '세계일류상품' 생산기업 79곳 추가 선정…\"마케팅 지원·금리 우대\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005843659"
+      "title": "LH, 서울 가로주택정비사업 연내 4곳 착공… 2030년까지 1.1만가구 공급",
+      "url": "https://n.news.naver.com/mnews/article/008/0005442833"
     },
     {
-      "title": "아리바이오, ‘먹는 치매약’ 임상 3상 목표 달성에도 차익실현 압박에 주가 하락 [Why바이오]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004683031"
+      "title": "삼성전기, 엔비디아와 AI 동맹 강화에 8%대 '급등'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005355125"
     },
     {
-      "title": "바닥 모르는 비트코인 … 석달만에 9000만원도 붕괴",
-      "url": "https://n.news.naver.com/mnews/article/009/0005764552"
+      "title": "젠슨 황 없는 엔비디아, 코스피 살렸다…하루만에 5000선 회복 [투자360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002724970"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5049.72,
-      "change": -50.78,
-      "change_pct": -1.0
+      "value": 4955.75,
+      "change": -12.73,
+      "change_pct": -0.26
     },
     "kosdaq": {
-      "value": 660.65,
-      "change": -5.0,
-      "change_pct": -0.75
+      "value": 647.77,
+      "change": -2.29,
+      "change_pct": -0.35
     },
     "nasdaq": {
-      "value": 24509.76,
-      "change": -626.51,
-      "change_pct": -2.49
+      "value": 24328.38,
+      "change": -181.38,
+      "change_pct": -0.74
     },
     "usdkrw": {
-      "value": 1338.7,
-      "change": 5.45,
-      "change_pct": 0.41
+      "value": 1328.88,
+      "change": -6.79,
+      "change_pct": -0.51
     }
   },
   "gold": {
-    "price_usd": 3874.7,
-    "price_krw": 5187060,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 3803.1,
+    "price_krw": 5053863,
+    "change": -49.9,
+    "change_pct": -1.3
   },
-  "updated": "2026-11-17 12:15",
+  "updated": "2026-11-18 11:38",
   "error": null
 }
