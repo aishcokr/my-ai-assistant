@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "롯데바이오 송도1공장 준공… 신동빈 “그룹 미래 성장동력”",
-      "url": "https://n.news.naver.com/mnews/article/081/0003700963"
+      "title": "LGD, 3조 OLED 투자 계획 철회",
+      "url": "https://n.news.naver.com/mnews/article/015/0005356102"
     },
     {
-      "title": "국토부, 이혜훈 반포 원펜타스 계약취소 요청…조합에 공문",
-      "url": "https://n.news.naver.com/mnews/article/001/0016451035"
+      "title": "삼성전자, 메모리사업부장에 황상준·MX사업부장에 최원준",
+      "url": "https://n.news.naver.com/mnews/article/022/0004176739"
     },
     {
-      "title": "엔비디아 호실적에 나스닥만 0.4%↑…S&P500 5일연속 하락",
-      "url": "https://n.news.naver.com/mnews/article/056/0012296941"
+      "title": "SK그룹, 앤트로픽 IPO로 4조원대 잭팟…투자 15배 결실",
+      "url": "https://n.news.naver.com/mnews/article/029/0003060183"
     },
     {
-      "title": "하나증권 “한중 FTA 타결에 제주항공 수혜 기대”…목표가 상향",
-      "url": "https://n.news.naver.com/mnews/article/009/0005765936"
+      "title": "이상우 LG전자 MS사업본부장 겸 디스플레이사업부장[프로필]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006412718"
     },
     {
-      "title": "한화 건설부문, 광명 하안주공5단지 재건축 수주…정비사업 누적 수주액 2.5조원 돌파",
-      "url": "https://n.news.naver.com/mnews/article/014/0005606626"
+      "title": "NS홈쇼핑 조항목 대표, 두 번째 연임 확정…2029년까지 경영 이끈다",
+      "url": "https://n.news.naver.com/mnews/article/421/0009300505"
     },
     {
-      "title": "삼성SDI, 북미 공략 강화…AIDC 최적화 배터리 솔루션 공개",
-      "url": "https://n.news.naver.com/mnews/article/015/0005355311"
+      "title": "금감원, 가상자산업계에 보안 점검 강화 당부…AI 해킹 대응 총력",
+      "url": "https://n.news.naver.com/mnews/article/018/0006412994"
     },
     {
-      "title": "“살아보면 차이 난다”… ‘구미 파크원 데시앙’ 보이지 않는 디테일까지 챙긴 설계",
-      "url": "https://n.news.naver.com/mnews/article/277/0005844872"
+      "title": "목동 5·12·14단지, 1만1863가구로 재건축… 통합심의 통과",
+      "url": "https://n.news.naver.com/mnews/article/366/0001206195"
     },
     {
-      "title": "쿼드러플 역세권·몰세권…'해링턴 플레이스 문래' 견본주택 20일 오픈",
-      "url": "https://n.news.naver.com/mnews/article/629/0000553344"
+      "title": "씨티그룹, 비트코인 목표가 11.3만달러→9만9532달러 하향",
+      "url": "https://n.news.naver.com/mnews/article/421/0009298481"
     },
     {
-      "title": "마침내 한한령 해제 신호탄… 엔터·게임·여행주 ‘불기둥’",
-      "url": "https://n.news.naver.com/mnews/article/005/0001886077"
+      "title": "국토부 “재초환 부과 시한 연장 없다”… 반포현대, 연내 179억 부과 수순",
+      "url": "https://n.news.naver.com/mnews/article/366/0001205979"
     },
     {
-      "title": "\"하이브, 키홀더 인수로 일본 현지IP와 시너지…목표가 유지\"-삼성",
-      "url": "https://n.news.naver.com/mnews/article/008/0005443360"
+      "title": "\"시진핑 덕에 웃었다\"…상한가 파티에 개미들 환호 [분석+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005356164"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5000.36,
+      "value": 4929.25,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 654.76,
+      "value": 657.66,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24429.88,
-      "change": 101.5,
-      "change_pct": 0.42
+      "value": 23879.2,
+      "change": -550.68,
+      "change_pct": -2.25
     },
     "usdkrw": {
-      "value": 1331.48,
-      "change": -1.53,
-      "change_pct": -0.11
+      "value": 1336.43,
+      "change": 6.03,
+      "change_pct": 0.45
     }
   },
   "gold": {
-    "price_usd": 3753.0,
-    "price_krw": 4997044,
-    "change": -111.2,
-    "change_pct": -2.88
+    "price_usd": 3566.6,
+    "price_krw": 4766511,
+    "change": -175.3,
+    "change_pct": -4.68
   },
-  "updated": "2026-11-19 11:04",
+  "updated": "2026-11-20 10:55",
   "error": null
 }
