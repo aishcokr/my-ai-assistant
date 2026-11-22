@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "CJ올리브영 “옴니채널 고도화…국경 없는 글로벌 테크 플랫폼으로”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002725975"
+      "title": "비트코인 7900만원대로 추락…하루 새 5%↓, 6만달러 저항선 붕괴",
+      "url": "https://n.news.naver.com/mnews/article/016/0002726507"
     },
     {
-      "title": "“미국인들, 삼전닉스 왜 팔죠?”…외국인 두 달 간 국내 주식 45조 순매도",
-      "url": "https://n.news.naver.com/mnews/article/009/0005766522"
+      "title": "고려아연, 영풍·MBK 공세 반박…\"회계 위반부터 해명해야\"",
+      "url": "https://n.news.naver.com/mnews/article/119/0003157917"
     },
     {
-      "title": "비트코인, 4개월 만에 6만달러 붕괴…고점 대비 ‘반토막’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005766966"
+      "title": "1인가구 주택소유비중 역대 최고…5집 중 1집 '나 혼자 산다'",
+      "url": "https://n.news.naver.com/mnews/article/001/0016455978"
     },
     {
-      "title": "코스피 이어 코스닥도 매도 사이드카…삼성전자·하이닉스 6%대 급락",
-      "url": "https://n.news.naver.com/mnews/article/015/0005356328"
+      "title": "수출 1조 달러의 역설…최대 무역흑자에 美·인도·튀르키예 통상 압박 우려",
+      "url": "https://n.news.naver.com/mnews/article/421/0009302981"
     },
     {
-      "title": "SK하이닉스, 일본 키옥시아 전환사채 주식전환 검토",
-      "url": "https://n.news.naver.com/mnews/article/422/0000928207"
+      "title": "“삼성·하이닉스 내년에도 웃는다”…무디스가 전망한 AI 반도체 호황",
+      "url": "https://n.news.naver.com/mnews/article/016/0002726606"
     },
     {
-      "title": "컬리, 1만 699명 정보 유출…“피해액 전액 보상”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004684518"
+      "title": "李농담에 녹는 ‘석 자 얼음’…한한령 빗장 푼 ‘샤오미 외교’ [송종호의 국정쏙쏙]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004684561"
     },
     {
-      "title": "삼성전자 반도체 실적 주역들, 사장 승진…미래성장·성과주의 인사",
-      "url": "https://n.news.naver.com/mnews/article/079/0004212278"
+      "title": "컬리서 1만여명 개인정보 유출…최대 15만원 적립금 보상",
+      "url": "https://n.news.naver.com/mnews/article/666/0000133081"
     },
     {
-      "title": "양종희 KB금융그룹 회장 \"어디에 있든 늘 'KB 맨'\"…3년 임기 마쳐",
-      "url": "https://n.news.naver.com/mnews/article/277/0005845805"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000928369"
     },
     {
-      "title": "\"고생하셨습니다\" 유통가, 수험생 대상 할인 보따리",
-      "url": "https://n.news.naver.com/mnews/article/003/0014334566"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000521836"
     },
     {
-      "title": "국토부 \"테슬라 FSD 특례 신청 자료 미흡‥보완 필요\"",
-      "url": "https://n.news.naver.com/mnews/article/214/0001536987"
+      "title": "내년 부동산 공시가 현실화율 69%로 동결",
+      "url": "https://n.news.naver.com/mnews/article/020/0003764083"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 4869.96,
+      "change": -267.93,
+      "change_pct": -5.21
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 645.68,
+      "change": -39.13,
+      "change_pct": -5.71
     },
     "nasdaq": {
       "value": 22617.73,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 3539.0,
-    "price_krw": 4723821,
-    "change": -146.5,
-    "change_pct": -3.98
+    "price_usd": 3515.4,
+    "price_krw": 4692320,
+    "change": -170.1,
+    "change_pct": -4.62
   },
-  "updated": "2026-11-21 10:50",
+  "updated": "2026-11-22 09:43",
   "error": null
 }
