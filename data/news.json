@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "비트코인 7900만원대로 추락…하루 새 5%↓, 6만달러 저항선 붕괴",
-      "url": "https://n.news.naver.com/mnews/article/016/0002726507"
+      "title": "‘검은 월요일’ 우려에…정부 증시안정펀드 가동 준비 착수",
+      "url": "https://n.news.naver.com/mnews/article/022/0004177172"
     },
     {
-      "title": "고려아연, 영풍·MBK 공세 반박…\"회계 위반부터 해명해야\"",
-      "url": "https://n.news.naver.com/mnews/article/119/0003157917"
+      "title": "‘한전ON’ 고객 및 전자조달시스템 기업 개인정보 150여만건 유출",
+      "url": "https://n.news.naver.com/mnews/article/056/0012298823"
     },
     {
-      "title": "1인가구 주택소유비중 역대 최고…5집 중 1집 '나 혼자 산다'",
-      "url": "https://n.news.naver.com/mnews/article/001/0016455978"
+      "title": "'반도체 4배 급증' 힘입어 이달 중순도 역대 최대 수출",
+      "url": "https://n.news.naver.com/mnews/article/055/0001405026"
     },
     {
-      "title": "수출 1조 달러의 역설…최대 무역흑자에 美·인도·튀르키예 통상 압박 우려",
-      "url": "https://n.news.naver.com/mnews/article/421/0009302981"
+      "title": "DL이앤씨, 성수2지구 시공권 확보…공사비 2조137억원",
+      "url": "https://n.news.naver.com/mnews/article/001/0016456366"
     },
     {
-      "title": "“삼성·하이닉스 내년에도 웃는다”…무디스가 전망한 AI 반도체 호황",
-      "url": "https://n.news.naver.com/mnews/article/016/0002726606"
+      "title": "SK렌터카, 글로벌 중고차 플랫폼 비포워드와 해외 판로 확대",
+      "url": "https://n.news.naver.com/mnews/article/277/0005846182"
     },
     {
-      "title": "李농담에 녹는 ‘석 자 얼음’…한한령 빗장 푼 ‘샤오미 외교’ [송종호의 국정쏙쏙]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004684561"
+      "title": "변신 강조한 이재근 \"KB, 세계가 인정하는 리딩 플랫폼 도약\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005356913"
     },
     {
-      "title": "컬리서 1만여명 개인정보 유출…최대 15만원 적립금 보상",
-      "url": "https://n.news.naver.com/mnews/article/666/0000133081"
+      "title": "수출은 역대급, 성장 과실은 쏠림…정부, 양극화 해소 시동",
+      "url": "https://n.news.naver.com/mnews/article/079/0004212569"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000928369"
+      "title": "1년 사이 폭락했는데…\"하락세 끝나면 추가 매수\" 식지않은 비트코인 낙관론",
+      "url": "https://n.news.naver.com/mnews/article/277/0005846043"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000521836"
+      "title": "LS전선·LS마린솔루션, 한전 해저케이블 사업 수주",
+      "url": "https://n.news.naver.com/mnews/article/087/0001232416"
     },
     {
-      "title": "내년 부동산 공시가 현실화율 69%로 동결",
-      "url": "https://n.news.naver.com/mnews/article/020/0003764083"
+      "title": "대중 규제·엔비디아 악재에 외국인 4.5조 '팔자'…'5천 선 내준' 코스피, 반등은 언제?",
+      "url": "https://n.news.naver.com/mnews/article/660/0000121919"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4869.96,
-      "change": -267.93,
-      "change_pct": -5.21
+      "value": 4682.51,
+      "change": -187.45,
+      "change_pct": -3.85
     },
     "kosdaq": {
-      "value": 645.68,
-      "change": -39.13,
-      "change_pct": -5.71
+      "value": 632.09,
+      "change": -13.59,
+      "change_pct": -2.1
     },
     "nasdaq": {
       "value": 22617.73,
@@ -58,17 +58,17 @@
       "change_pct": -5.28
     },
     "usdkrw": {
-      "value": 1334.79,
-      "change": 4.39,
-      "change_pct": 0.33
+      "value": 1343.98,
+      "change": 9.19,
+      "change_pct": 0.69
     }
   },
   "gold": {
-    "price_usd": 3515.4,
-    "price_krw": 4692320,
-    "change": -170.1,
-    "change_pct": -4.62
+    "price_usd": 3570.7,
+    "price_krw": 4798949,
+    "change": 55.3,
+    "change_pct": 1.57
   },
-  "updated": "2026-11-22 09:43",
+  "updated": "2026-11-23 10:10",
   "error": null
 }
