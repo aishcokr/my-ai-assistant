@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "‘검은 월요일’ 우려에…정부 증시안정펀드 가동 준비 착수",
-      "url": "https://n.news.naver.com/mnews/article/022/0004177172"
+      "title": "\"기술 유출은 안보 위협\"…산업부·국정원, '산업기술보호의 날' 기념식 개최",
+      "url": "https://n.news.naver.com/mnews/article/421/0009306956"
     },
     {
-      "title": "‘한전ON’ 고객 및 전자조달시스템 기업 개인정보 150여만건 유출",
-      "url": "https://n.news.naver.com/mnews/article/056/0012298823"
+      "title": "공공주택 보상 협조장려금 신설…4개월 내 비우면 최대 30% 더 준다",
+      "url": "https://n.news.naver.com/mnews/article/421/0009306697"
     },
     {
-      "title": "'반도체 4배 급증' 힘입어 이달 중순도 역대 최대 수출",
-      "url": "https://n.news.naver.com/mnews/article/055/0001405026"
+      "title": "코스피 이어 코스닥도 매수 사이드카…4% 급등",
+      "url": "https://n.news.naver.com/mnews/article/011/0004685421"
     },
     {
-      "title": "DL이앤씨, 성수2지구 시공권 확보…공사비 2조137억원",
-      "url": "https://n.news.naver.com/mnews/article/001/0016456366"
+      "title": "\"조합설립 4개월 만에 끝\"...서울시, 공정촉진 통해 정비사업 속도 개선",
+      "url": "https://n.news.naver.com/mnews/article/014/0005608840"
     },
     {
-      "title": "SK렌터카, 글로벌 중고차 플랫폼 비포워드와 해외 판로 확대",
-      "url": "https://n.news.naver.com/mnews/article/277/0005846182"
+      "title": "\"디자인이 예뻐 패딩도 샀어요\"…외국인 MZ 사로잡은 무신사 스탠다드",
+      "url": "https://n.news.naver.com/mnews/article/421/0009307160"
     },
     {
-      "title": "변신 강조한 이재근 \"KB, 세계가 인정하는 리딩 플랫폼 도약\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005356913"
+      "title": "인덕션 냄비 10종 품질 비교해보니…끓는 속도·보온력 천차만별",
+      "url": "https://n.news.naver.com/mnews/article/666/0000133526"
     },
     {
-      "title": "수출은 역대급, 성장 과실은 쏠림…정부, 양극화 해소 시동",
-      "url": "https://n.news.naver.com/mnews/article/079/0004212569"
+      "title": "FITI, '2026 연구실 안전주간' 장관 표창·우수상 영예",
+      "url": "https://n.news.naver.com/mnews/article/119/0003158744"
     },
     {
-      "title": "1년 사이 폭락했는데…\"하락세 끝나면 추가 매수\" 식지않은 비트코인 낙관론",
-      "url": "https://n.news.naver.com/mnews/article/277/0005846043"
+      "title": "삼성전자 여성 임원 승진자 11명 ‘역대 최다’… 반도체 핵심 직무서 약진",
+      "url": "https://n.news.naver.com/mnews/article/366/0001206889"
     },
     {
-      "title": "LS전선·LS마린솔루션, 한전 해저케이블 사업 수주",
-      "url": "https://n.news.naver.com/mnews/article/087/0001232416"
+      "title": "홈플러스, 26일부터 온라인 배송 중단…“상품 수급 차질”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002727495"
     },
     {
-      "title": "대중 규제·엔비디아 악재에 외국인 4.5조 '팔자'…'5천 선 내준' 코스피, 반등은 언제?",
-      "url": "https://n.news.naver.com/mnews/article/660/0000121919"
+      "title": "삼성바이오에피스, 인허가·AI·분석 전문가 전진 배치...임원 3명 승진",
+      "url": "https://n.news.naver.com/mnews/article/014/0005608842"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4682.51,
-      "change": -187.45,
-      "change_pct": -3.85
+      "value": 5045.2,
+      "change": 336.66,
+      "change_pct": 7.15
     },
     "kosdaq": {
-      "value": 632.09,
-      "change": -13.59,
-      "change_pct": -2.1
+      "value": 667.25,
+      "change": 31.8,
+      "change_pct": 5.0
     },
     "nasdaq": {
-      "value": 22617.73,
-      "change": -1261.47,
-      "change_pct": -5.28
+      "value": 24089.56,
+      "change": 1471.83,
+      "change_pct": 6.51
     },
     "usdkrw": {
-      "value": 1343.98,
-      "change": 9.19,
-      "change_pct": 0.69
+      "value": 1342.35,
+      "change": -1.96,
+      "change_pct": -0.15
     }
   },
   "gold": {
-    "price_usd": 3570.7,
-    "price_krw": 4798949,
-    "change": 55.3,
-    "change_pct": 1.57
+    "price_usd": 3651.4,
+    "price_krw": 4901456,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-11-23 10:10",
+  "updated": "2026-11-24 14:01",
   "error": null
 }
