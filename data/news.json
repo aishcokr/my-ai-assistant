@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "팔 상품을 사올 돈이 없다…홈플 67곳 내일 영업 중단",
-      "url": "https://n.news.naver.com/mnews/article/025/0003567983"
+      "title": "스페이스X도 쓴다… 세아베스틸지주, 美서 특수합금 생산 임박",
+      "url": "https://n.news.naver.com/mnews/article/366/0001207665"
     },
     {
-      "title": "은행→저축은행→취약차주에 돈 빌려준다…‘포용 온렌딩’ 추진",
-      "url": "https://n.news.naver.com/mnews/article/028/0002834039"
+      "title": "은행 이자이익 48조 4천억원…대출 확대·금리 상승 영향",
+      "url": "https://n.news.naver.com/mnews/article/079/0004214490"
     },
     {
-      "title": "반도체 호황의 역설…성장률 뛰자 기준금리 또 올렸다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005769243"
+      "title": "캐딜락, 베이비 에스컬레이드 '비스틱' 국내 출시…1억 8170만원",
+      "url": "https://n.news.naver.com/mnews/article/421/0009313413"
     },
     {
-      "title": "FTX 사태 때 악몽 떠오르네…비트코인, 끝모를 추락",
-      "url": "https://n.news.naver.com/mnews/article/009/0005768629"
+      "title": "로봇배송-스마트주차… 세종에 첨단 주거단지[아파트 미리보기]",
+      "url": "https://n.news.naver.com/mnews/article/020/0003765565"
     },
     {
-      "title": "23년 기다린 한남3구역, 드디어 첫 삽…5970가구 들어선다",
-      "url": "https://n.news.naver.com/mnews/article/119/0003159723"
+      "title": "롯데웰푸드 ‘닥터자일리톨버스’, 거제 수해 피해 어린이집 의료 나눔",
+      "url": "https://n.news.naver.com/mnews/article/016/0002729464"
     },
     {
-      "title": "가계대출 금리 35개월 만에 5% 돌파… 주담대 14년 7개월 만에 최고",
-      "url": "https://n.news.naver.com/mnews/article/366/0001207219"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/214/0001538336"
     },
     {
-      "title": "LG전자, 김장김치 3톤 나눔…독거 어르신 겨울나기에 온정",
-      "url": "https://n.news.naver.com/mnews/article/018/0006415787"
+      "title": "금감원 검사 대상 기간 5년으로…중간발표 원칙적 금지",
+      "url": "https://n.news.naver.com/mnews/article/001/0016466923"
     },
     {
-      "title": "증안펀드 규모 늘린다... 25개 금융사에 출자 여력 타진",
-      "url": "https://n.news.naver.com/mnews/article/023/0004011704"
+      "title": "CJ올리브영도 뚫렸다…790명 정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/015/0005358840"
     },
     {
-      "title": "손훈모 순천시장, 한화오션에코텍 방문…방위산업 협력 모색",
-      "url": "https://n.news.naver.com/mnews/article/079/0004213920"
+      "title": "HD현대사이트솔루션, 亞 최대 건설기계 전시회 참여…中 부품시장 공략",
+      "url": "https://n.news.naver.com/mnews/article/629/0000556116"
     },
     {
-      "title": "포스코1%나눔재단, 산불 피해지역에  AI 감지 시스템 등 보급",
-      "url": "https://n.news.naver.com/mnews/article/277/0005847981"
+      "title": "\"여행 지출↑\" 3분기 해외 사용 카드값 66.3억달러 '역대 최대'",
+      "url": "https://n.news.naver.com/mnews/article/277/0005848808"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4721.49,
-      "change": 23.98,
-      "change_pct": 0.51
+      "value": 4844.9,
+      "change": 133.69,
+      "change_pct": 2.84
     },
     "kosdaq": {
-      "value": 660.0,
-      "change": 9.36,
-      "change_pct": 1.44
+      "value": 693.57,
+      "change": 37.86,
+      "change_pct": 5.77
     },
     "nasdaq": {
       "value": 23585.8,
@@ -58,17 +58,17 @@
       "change_pct": -0.62
     },
     "usdkrw": {
-      "value": 1342.7,
-      "change": 0.05,
-      "change_pct": 0.0
+      "value": 1341.48,
+      "change": -1.49,
+      "change_pct": -0.11
     }
   },
   "gold": {
-    "price_usd": 3611.6,
-    "price_krw": 4849295,
-    "change": 49.7,
-    "change_pct": 1.4
+    "price_usd": 3658.6,
+    "price_krw": 4907938,
+    "change": 122.8,
+    "change_pct": 3.47
   },
-  "updated": "2026-11-26 12:14",
+  "updated": "2026-11-27 12:18",
   "error": null
 }
